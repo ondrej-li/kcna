@@ -46,7 +46,9 @@ Properties:
 - `flock` prevents overlapping runs (timer vs. a manual `deploy.sh`)
 - a dirty server checkout is refused instead of being silently overwritten
 - if the build fails, `deploy.sh` exits before rsync, so the previous build
-  stays live; the failure is mailed to `MAIL_TO` (at most once per commit per hour)
+  stays live; the failure is mailed to `admin@ondralinek.cz` (same address as
+  the vpsagent alerts, sent through local Postfix, at most once per commit per
+  hour — verified end to end)
 - journal output: `journalctl -u kcna-autodeploy -n 100` (each run prints the
   build summary and the published commit)
 

@@ -12,7 +12,7 @@ Type=oneshot
 User=deploy
 Group=deploy
 WorkingDirectory=/home/deploy/kcna
-Environment=MAIL_TO=ondrej.linek@gmail.com
+Environment=MAIL_TO=admin@ondralinek.cz
 ExecStart=/home/deploy/kcna/deploy/autodeploy.sh
 TimeoutStartSec=10min
 Nice=10
