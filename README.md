@@ -7,7 +7,8 @@ na žádné externí službě.
 
 ## Požadavky
 
-- Hugo ≥ 0.146 (extended není potřeba)
+- **Hugo 0.146.0** (přesně tato verze — novější mění generování URL, viz
+  [deploy/DEPLOY.md](deploy/DEPLOY.md#why-hugo-is-pinned-to-01460); extended není potřeba)
 
 ## Vývoj
 
@@ -31,6 +32,7 @@ content/zpravy/_index.md           nastavení archivu (/archiv.html)
 content/hledat.md                  stránka hledání (/hledat.html)
 data/comments/                     původní komentáře z Bloggeru (read-only)
 data/links.yaml                    odkazy v sidebaru „Kam dále“
+deploy/                            nginx konfigurace a deploy skripty pro VPS
 static/img/                        lokálně zrcadlené obrázky z Bloggeru
 static/js/search.js                klientské hledání nad /index.json
 assets/css/main.css                vzhled (moderní, s palubními barvami KLDR)
@@ -51,48 +53,23 @@ python3 tools/import_blogger.py --refresh  # stáhne feedy i obrázky znovu
 Nedostupné obrázky (mrtvé servery `kcna.kp` apod.) zůstanou odkázané původní URL a jejich
 seznam se zapíše do `.cache/blogger/dead-images.txt`.
 
-## Nasazení na VPS (nginx)
+## Nasazení na VPS
+
+Web běží na VPS (`deploy@ondralinek.cz`), nginx servíruje `/var/www/kcna`.
+Konfigurace nginxu i skripty jsou v repozitáři:
 
 ```bash
-hugo --minify
-rsync -avz --delete public/ deploy@ondralinek.cz:/var/www/kcna/
+cd ~/kcna
+./deploy/deploy.sh          # git pull + hugo build + rsync do /var/www/kcna
+./deploy/enable-tls.sh      # jednorázově po přepnutí DNS (certbot + HTTPS)
 ```
 
-Ukázková konfigurace `/etc/nginx/sites-available/kcna.ondralinek.cz`:
-
-```nginx
-server {
-    listen 443 ssl http2;
-    server_name kcna.ondralinek.cz;
-
-    root /var/www/kcna;
-    index index.html;
-
-    charset utf-8;
-
-    location / {
-        try_files $uri $uri/ $uri.html =404;
-    }
-
-    # staré Blogger endpointy pro čtečky RSS
-    location /feeds/posts/default {
-        return 301 /index.xml;
-    }
-
-    # staré štítky Bloggeru → nové popisky
-    location /search/label/ {
-        return 301 /popisky/;
-    }
-
-    error_page 404 /404.html;
-    location = /404.html {
-        internal;
-    }
-}
-```
+Podrobnosti (DNS cutover, TLS, rollback, pinned Hugo): [deploy/DEPLOY.md](deploy/DEPLOY.md).
 
 ## Poznámky
 
 - Komentáře jsou v repozitáři jen jako data ([data/comments](data/comments)); nový
   komentovací systém se doplní později.
+- 209 obrázků z původních příspěvků bylo na serverech, které už neexistují
+  (`kcna.kp`, `rodong.rep.kp`); místo nich se zobrazuje neutrální zástupný obrázek.
 - Zdrojový blog na Bloggeru zůstává nedotčený — tento repozitář je nezávislá kopie.

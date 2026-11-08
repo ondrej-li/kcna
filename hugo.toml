@@ -1,6 +1,6 @@
 baseURL = "https://kcna.ondralinek.cz/"
 title = "Novinky z KLDR"
-languageCode = "cs-CZ"
+locale = "cs-CZ"
 defaultContentLanguage = "cs"
 enableRobotsTXT = true
 uglyURLs = true
@@ -24,6 +24,9 @@ enableEmoji = false
 
 [markup.goldmark.renderer]
   unsafe = true
+
+[security]
+  allowContent = ['^text/(html|markdown|plain)$']
 
 [outputs]
   home = ["html", "rss", "json"]

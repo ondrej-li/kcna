@@ -231,6 +231,14 @@ def rewrite_content(html: str, slug: str, mirror: ImageMirror) -> str:
     html = re.sub(r"<a\b[^>]*>", fix_a, html, flags=re.IGNORECASE)
     html = POST_LINK_RE.sub(lambda m: "/" + m.group(1), html)
     html = re.sub(r"""<a\s+name=["']more["']\s*></a>""", "", html, flags=re.IGNORECASE)
+    # Blogger embedded http:// YouTube iframes; upgrade them so they are not
+    # blocked as mixed content once the site is served over https.
+    html = re.sub(
+        r"""(<iframe[^>]*\bsrc=["'])(?:http:)?//(?:www\.)?youtube(?:-nocookie)?\.com/""",
+        r"\1https://www.youtube-nocookie.com/",
+        html,
+        flags=re.IGNORECASE,
+    )
     html = re.sub(r"\s+<(br|/p|/div)", lambda m: "<" + m.group(1), html)
     return html.strip()
 
