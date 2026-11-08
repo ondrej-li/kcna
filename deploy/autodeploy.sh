@@ -64,8 +64,12 @@ notify_failure() {
     } | /usr/sbin/sendmail -i -t || log "could not send the failure mail"
 }
 
-if [ -n "$(git status --porcelain --untracked-files=no)" ]; then
-    log "server checkout has local changes; refusing to auto-deploy"
+# Modified *or* untracked files can block a fast-forward pull, so refuse early
+# with a clear message instead of failing halfway through a deploy.
+dirty="$(git status --porcelain --untracked-files=all)"
+if [ -n "$dirty" ]; then
+    log "server checkout is not clean; refusing to auto-deploy:"
+    printf '%s\n' "$dirty" | head -10
     exit 1
 fi
 
