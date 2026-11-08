@@ -10,7 +10,7 @@ nginx serves plain files, the source lives in git and the build runs on the VPS.
 | Source checkout | `~/kcna` (deploy user, clone of github.com/ondrej-li/kcna) |
 | vhost | `/etc/nginx/sites-available/kcna` → `sites-enabled/kcna` |
 | headers | `/etc/nginx/snippets/kcna-headers.conf` (HSTS + CSP + …) |
-| TLS | `/etc/letsencrypt/live/kcna.ondralinek.cz/` |
+| TLS | `/etc/letsencrypt/live/kcna.ondralinek.cz/` (Let's Encrypt, expires 2027-02-06) |
 | renewal | `certbot.timer`; deploy hook reloads nginx |
 | logs | `/var/log/nginx/kcna.access.log`, `kcna.error.log` |
 | build tool | Hugo **0.146.0** in `/usr/local/bin/hugo` (pinned, see below) |
@@ -63,15 +63,24 @@ untouched, so reverting the record is the rollback plan.
 
 ## TLS
 
-Run once, after DNS points here:
+Issued on 2026-11-08 and live (HTTP/2, HSTS, HTTP→HTTPS 301). The cutover script
+is kept for a rebuild of the host; run it only after DNS points here:
 
 ```bash
 cd ~/kcna
 ./deploy/enable-tls.sh
 ```
 
-It checks DNS, requests the certificate with the nginx authenticator, installs
-`deploy/nginx/kcna.conf` (HTTPS + 301 from HTTP) and verifies both.
+It checks DNS via public resolvers, requests the certificate with the **webroot**
+authenticator (`-w /var/www/kcna`, so the versioned vhost is never rewritten),
+installs `deploy/nginx/kcna.conf` and verifies both schemes. `deploy/deploy.sh`
+keeps the ACME challenge directory intact via `rsync --exclude`.
+
+Renewal was verified with:
+
+```bash
+sudo certbot renew --cert-name kcna.ondralinek.cz --dry-run --no-random-sleep-on-renew
+```
 
 ```bash
 sudo certbot certificates
