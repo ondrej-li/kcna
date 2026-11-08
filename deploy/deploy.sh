@@ -16,7 +16,7 @@ cd "$REPO_DIR"
 echo "==> fetching"
 git pull --ff-only
 
-installed="$(hugo version | awk '{print $2}' | sed 's/^v//')"
+installed="$(hugo version | awk '{print $2}' | sed -E 's/^v//; s/-[0-9a-f]{7,}$//')"
 if [ "$installed" != "$HUGO_VERSION" ]; then
     echo "ERROR: Hugo $installed is installed, but the build is verified against $HUGO_VERSION." >&2
     echo "       Newer Hugo releases change URL generation (home -> /index.html," >&2
