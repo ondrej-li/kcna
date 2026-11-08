@@ -14,7 +14,14 @@ HUGO_VERSION="0.146.0"
 cd "$REPO_DIR"
 
 echo "==> fetching"
+before="$(git rev-parse HEAD)"
 git pull --ff-only
+after="$(git rev-parse HEAD)"
+# Bash reads this file incrementally, so never keep running a script that the
+# pull just replaced: restart it once with the fresh copy.
+if [ "$before" != "$after" ] && [ "${KCNA_DEPLOY_REEXEC:-0}" != "1" ]; then
+    KCNA_DEPLOY_REEXEC=1 exec "$0" "$@"
+fi
 
 installed="$(hugo version | awk '{print $2}' | sed -E 's/^v//; s/-[0-9a-f]{7,}$//')"
 if [ "$installed" != "$HUGO_VERSION" ]; then
