@@ -37,7 +37,8 @@ hugo --minify --cleanDestinationDir
 
 echo "==> publishing to $WEB_ROOT"
 sudo install -d -o deploy -g www-data -m 0755 "$WEB_ROOT"
-rsync -a --delete public/ "$WEB_ROOT/"
+# Keep the ACME challenge directory: certbot renewals write into it.
+rsync -a --delete --exclude ".well-known/" public/ "$WEB_ROOT/"
 
 if [ "${SKIP_NGINX:-0}" = "1" ]; then
     echo "==> nginx skipped (SKIP_NGINX=1)"

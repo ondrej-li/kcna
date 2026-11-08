@@ -27,7 +27,11 @@ EOF
 fi
 
 echo "==> requesting certificate for $DOMAIN"
-sudo certbot certonly --nginx -d "$DOMAIN" --cert-name "$DOMAIN" --non-interactive --agree-tos
+# Webroot mode: certbot drops the challenge into the site root, which the vhost
+# already serves under /.well-known/acme-challenge/. No config rewriting, so the
+# versioned vhost in this repo stays the single source of truth.
+sudo certbot certonly --webroot -w "$WEB_ROOT" -d "$DOMAIN" --cert-name "$DOMAIN" \
+    --non-interactive --agree-tos --deploy-hook "systemctl reload nginx"
 
 echo "==> switching vhost to HTTPS"
 sudo install -d -o deploy -g www-data -m 0755 "$WEB_ROOT"
