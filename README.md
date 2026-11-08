@@ -10,6 +10,14 @@ na žádné externí službě.
 - **Hugo 0.146.0** (přesně tato verze — novější mění generování URL, viz
   [deploy/DEPLOY.md](deploy/DEPLOY.md#why-hugo-is-pinned-to-01460); extended není potřeba)
 
+## Přidání nového článku
+
+Nový článek = nový soubor v `content/zpravy/RRRR/MM/nazev.html` commitnutý do
+`main`. Server se na GitHub dívá každých 5 minut, sám spustí `hugo` a web
+aktualizuje — není potřeba se nikam přihlašovat.
+
+Podrobný návod včetně šablony: [docs/AUTHORING.md](docs/AUTHORING.md).
+
 ## Vývoj
 
 ```bash
@@ -28,11 +36,13 @@ hugo --minify
 
 ```
 content/zpravy/RRRR/MM/slug.html   jednotlivé zprávy (HTML tělo beze změny)
+archetypes/zpravy.html             šablona pro `hugo new content`
 content/zpravy/_index.md           nastavení archivu (/archiv.html)
+docs/AUTHORING.md                  jak přidat článek přes GitHub
 content/hledat.md                  stránka hledání (/hledat.html)
 data/comments/                     původní komentáře z Bloggeru (read-only)
 data/links.yaml                    odkazy v sidebaru „Kam dále“
-deploy/                            nginx konfigurace a deploy skripty pro VPS
+deploy/                            nginx, systemd units a deploy skripty pro VPS
 static/img/                        lokálně zrcadlené obrázky z Bloggeru
 static/js/search.js                klientské hledání nad /index.json
 assets/css/main.css                vzhled (moderní, s palubními barvami KLDR)
@@ -63,6 +73,10 @@ cd ~/kcna
 ./deploy/deploy.sh          # git pull + hugo build + rsync do /var/www/kcna
 ./deploy/enable-tls.sh      # jednorázově po přepnutí DNS (certbot + HTTPS)
 ```
+
+Nasazení běží samo: `kcna-autodeploy.timer` každých 5 minut zkontroluje
+`origin/main`, a když je nový commit, spustí `deploy.sh`. Když build selže,
+web zůstane na předchozí verzi a přijde upozornění e-mailem.
 
 Podrobnosti (DNS cutover, TLS, rollback, pinned Hugo): [deploy/DEPLOY.md](deploy/DEPLOY.md).
 

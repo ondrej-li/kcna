@@ -11,7 +11,7 @@ enableEmoji = false
   pagerSize = 10
 
 [permalinks]
-  zpravy = "/:year/:month/:slug"
+  zpravy = "/:year/:month/:contentbasename"
 
 [taxonomies]
   popisek = "popisky"

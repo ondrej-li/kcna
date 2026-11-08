@@ -14,6 +14,7 @@ nginx serves plain files, the source lives in git and the build runs on the VPS.
 | renewal | `certbot.timer`; deploy hook reloads nginx |
 | logs | `/var/log/nginx/kcna.access.log`, `kcna.error.log` |
 | build tool | Hugo **0.146.0** in `/usr/local/bin/hugo` (pinned, see below) |
+| auto-deploy | `kcna-autodeploy.timer` (5 min) → `deploy/autodeploy.sh` |
 
 Everything nginx-related is versioned in this repository under `deploy/`; the
 server copies are installed by `deploy/deploy.sh`.
@@ -30,6 +31,40 @@ SKIP_NGINX=1 ./deploy/deploy.sh    # content only
 
 The web root is replaced with `rsync --delete`, so anything that must survive a
 deploy belongs outside `/var/www/kcna`.
+
+## Automatic deploys
+
+`kcna-autodeploy.timer` runs `deploy/autodeploy.sh` every 5 minutes:
+
+1. `git fetch` (nothing is pulled or built when `origin/main` is unchanged)
+2. new commit → `deploy/deploy.sh` (pull, build, rsync, reload nginx if needed)
+3. no new commit → no-op, except one rebuild per hour (`MAX_AGE_SECONDS`) so
+   future-dated posts appear once their date passes
+
+Properties:
+
+- `flock` prevents overlapping runs (timer vs. a manual `deploy.sh`)
+- a dirty server checkout is refused instead of being silently overwritten
+- if the build fails, `deploy.sh` exits before rsync, so the previous build
+  stays live; the failure is mailed to `MAIL_TO` (at most once per commit per hour)
+- journal output: `journalctl -u kcna-autodeploy -n 100` (each run prints the
+  build summary and the published commit)
+
+```bash
+sudo systemctl start kcna-autodeploy.service   # deploy now, don't wait for the timer
+systemctl list-timers kcna-autodeploy.timer    # next run
+sudo systemctl disable --now kcna-autodeploy.timer  # turn it off
+```
+
+The units are versioned in `deploy/systemd/` and (re)installed by `deploy.sh`;
+`SKIP_SYSTEMD=1` skips that step.
+
+## Adding articles
+
+See [docs/AUTHORING.md](../docs/AUTHORING.md). A new post is a file under
+`content/zpravy/RRRR/MM/nazev.html`; the URL comes from the date and file name
+(`permalinks.zpravy = "/:year/:month/:contentbasename"`), so no `slug` or `url`
+front matter is needed for posts written after the import.
 
 ## Why Hugo is pinned to 0.146.0
 

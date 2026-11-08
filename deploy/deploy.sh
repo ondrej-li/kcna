@@ -58,4 +58,12 @@ sudo ln -sfn /etc/nginx/sites-available/kcna /etc/nginx/sites-enabled/kcna
 sudo nginx -t
 sudo systemctl reload nginx
 
+if [ "${SKIP_SYSTEMD:-0}" != "1" ]; then
+    echo "==> auto-deploy timer"
+    sudo install -m 0644 -o root -g root deploy/systemd/kcna-autodeploy.service /etc/systemd/system/kcna-autodeploy.service
+    sudo install -m 0644 -o root -g root deploy/systemd/kcna-autodeploy.timer /etc/systemd/system/kcna-autodeploy.timer
+    sudo systemctl daemon-reload
+    sudo systemctl enable --now kcna-autodeploy.timer >/dev/null
+fi
+
 echo "==> done: $(find "$WEB_ROOT" -name '*.html' | wc -l) pages published"
