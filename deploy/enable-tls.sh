@@ -16,7 +16,16 @@ PUBLIC_IP="2.31.33.21"
 cd "$REPO_DIR"
 
 echo "==> checking DNS"
-resolved="$(getent ahostsv4 "$DOMAIN" | awk 'NR==1{print $1}')"
+# Ask public resolvers: the local stub resolver may still hold the old Blogger
+# CNAME for up to its TTL, while Let's Encrypt validates against public DNS.
+resolved=""
+for resolver in 1.1.1.1 8.8.8.8; do
+    resolved="$(dig +short +time=3 +tries=1 A "$DOMAIN" "@$resolver" | grep -E '^[0-9.]+$' | head -1)"
+    [ -n "$resolved" ] && break
+done
+[ -n "$resolved" ] || resolved="$(getent ahostsv4 "$DOMAIN" | awk 'NR==1{print $1}')"
+echo "    $DOMAIN -> ${resolved:-nothing} (expected $PUBLIC_IP)"
+
 if [ "$resolved" != "$PUBLIC_IP" ]; then
     cat >&2 <<EOF
 ERROR: $DOMAIN resolves to ${resolved:-nothing}, expected $PUBLIC_IP.
