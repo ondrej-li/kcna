@@ -1,0 +1,3 @@
+{{- $months := slice "ledna" "února" "března" "dubna" "května" "června" "července" "srpna" "září" "října" "listopadu" "prosince" -}}
+{{- $t := time.AsTime . -}}
+{{- printf "%d. %s %d" $t.Day (index $months (sub (int $t.Month) 1)) $t.Year -}}

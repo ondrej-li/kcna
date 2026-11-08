@@ -1,0 +1,2 @@
+{{- $months := slice "" "leden" "únor" "březen" "duben" "květen" "červen" "červenec" "srpen" "září" "říjen" "listopad" "prosinec" -}}
+{{- index $months (int (strings.TrimLeft "0" (string .))) -}}

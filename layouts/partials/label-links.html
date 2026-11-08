@@ -1,0 +1,15 @@
+{{- $terms := site.Taxonomies.popisky -}}
+<div class="post-labels">
+  {{- range .Params.popisky }}
+    {{- $name := . -}}
+    {{- $href := "" -}}
+    {{- range $terms -}}
+      {{- if eq .Page.Title $name -}}{{- $href = .Page.RelPermalink -}}{{- end -}}
+    {{- end -}}
+    {{- if $href -}}
+      <a class="chip" href="{{ $href }}">{{ $name }}</a>
+    {{- else -}}
+      <span class="chip">{{ $name }}</span>
+    {{- end }}
+  {{- end }}
+</div>

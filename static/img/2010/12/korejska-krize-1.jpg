@@ -1,0 +1,3832 @@
+<!doctype html>
+<html lang="ko" class="ko">
+<head itemscope>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no">
+<meta name="robots" content="max-image-preview:large, max-video-preview:30">
+<link rel="canonical" id="canonical" href="https://www.yna.co.kr">
+<meta property="og:url" content="https://www.yna.co.kr">
+<meta name="twitter:url" content="https://www.yna.co.kr">
+<meta itemprop="url" content="https://www.yna.co.kr">
+<meta property="fb:pages" content="130229496988833" />
+<title>연합뉴스</title>
+<meta property="og:title" content="연합뉴스">
+<meta name="title" content="연합뉴스">
+<meta name="twitter:title" content="연합뉴스">
+<meta itemprop="name" content="연합뉴스">
+<meta property="og:description" content="연합뉴스는 새로운 시대에 걸맞은 멀티미디어 콘텐츠로 다양한 상품, 다양한 뉴스를 생산하고 있습니다.">
+<meta name="description" content="연합뉴스는 새로운 시대에 걸맞은 멀티미디어 콘텐츠로 다양한 상품, 다양한 뉴스를 생산하고 있습니다.">
+<meta name="twitter:description" content="연합뉴스는 새로운 시대에 걸맞은 멀티미디어 콘텐츠로 다양한 상품, 다양한 뉴스를 생산하고 있습니다.">
+<meta itemprop="description" content="연합뉴스는 새로운 시대에 걸맞은 멀티미디어 콘텐츠로 다양한 상품, 다양한 뉴스를 생산하고 있습니다.">
+<meta property="article:author" content="https://www.facebook.com/yonhap">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://r.yna.co.kr/global/home/v01/img/yonhapnews_logo_600x325_kr05.jpg">
+<meta property="og:image" content="https://r.yna.co.kr/global/home/v01/img/yonhapnews_logo_600x325_kr05.jpg">
+<meta property="og:image:width" content="600">
+<meta property="og:image:height" content="325">
+<meta name="image" content="https://r.yna.co.kr/global/home/v01/img/yonhapnews_logo_600x325_kr05.jpg">
+<meta itemprop="image" content="https://r.yna.co.kr/global/home/v01/img/yonhapnews_logo_600x325_kr05.jpg">
+<meta itemprop="thumbnailUrl" content="https://r.yna.co.kr/global/home/v01/img/yonhapnews_logo_600x325_kr05.jpg">
+<link rel="alternate" hreflang="en-us" href="https://en.yna.co.kr">
+<link rel="alternate" hreflang="zh-cn" href="https://cn.yna.co.kr">
+<link rel="alternate" hreflang="ja" href="https://jp.yna.co.kr">
+<link rel="alternate" hreflang="ar" href="https://ar.yna.co.kr">
+<link rel="alternate" hreflang="es" href="https://sp.yna.co.kr">
+<link rel="alternate" hreflang="fr" href="https://fr.yna.co.kr">
+<link rel="alternate" hreflang="vi" href="https://vi.yna.co.kr">
+<meta property="og:type" content="website">
+<meta name="resource-type" content="website">
+<meta name="copyright" content="Yonhapnews">
+<meta property="og:site_name" content="연합뉴스">
+<meta name="twitter:site" content="@yonhaptweet">
+<meta property="article:publisher" content="https://www.facebook.com/yonhap">
+<meta name="twitter:creator" content="@yonhaptweet">
+<meta property="og:locale" content="ko_KR">
+<meta itemprop="inLanguage" content="ko_KR">
+<link rel="shortcut icon" type="image/x-icon" href="https://r.yna.co.kr/www/home_n/v03/favicon/favicon.ico">
+<link rel="icon" type="image/x-icon" href="https://r.yna.co.kr/www/home_n/v03/favicon/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="https://r.yna.co.kr/www/home_n/v03/favicon/favicon_32x32_01.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://r.yna.co.kr/www/home_n/v03/favicon/favicon_180x180_01.png?v=20261029_1555">
+<link rel="stylesheet preload" as="style" type="text/css" href="https://r.yna.co.kr/global/font/Pretendard/v01/font.css?v=20261029_1555">
+<link rel="stylesheet" href="https://r.yna.co.kr/www/home_n/v03/css/default.css?v=20261029_1555">
+<link rel="stylesheet" href="https://r.yna.co.kr/www/home_n/v03/css/variables.css?v=20261029_1555">
+<link rel="stylesheet" href="https://r.yna.co.kr/www/home_n/v03/css/weather_ui03.css?v=20261029_1555">
+<link rel="stylesheet" href="https://r.yna.co.kr/www/home_n/v03/css/media.css?v=20261029_1555">
+<link rel="stylesheet" href="https://r.yna.co.kr/www/home_n/v03/css/article.css?v=20261029_1555">
+<link rel="stylesheet" href="https://r.yna.co.kr/www/home_n/v03/css/common.css?v=20261103_1450">
+<link rel="stylesheet" href="https://r.yna.co.kr/www/home_n/v03/css/style.css?v=20261104_1715">
+<link rel="stylesheet" href="https://r.yna.co.kr/www/home_n/v03/css/layout.css?v=20260818_1430">
+<link rel="stylesheet" media="(prefers-color-scheme:dark)" href="https://r.yna.co.kr/www/home_n/v03/css/dark01.css?v=20261029_1555">
+<script src="https://r.yna.co.kr/global/lib/v01/js/underscore-min.js"></script>
+<script src="https://r.yna.co.kr/global/lib/videojs/video-8.9.0.min.js"></script>
+<script src="https://r.yna.co.kr/global/lib/v02/js/swiper-8.4.7.min.js"></script>
+<script src="https://r.yna.co.kr/www/home_n/v03/js/lib/handlebars-4.7.8.min.js"></script>
+<script src="https://r.yna.co.kr/www/home_n/v03/js/lib/handlebars-helper.js?v=20261029_1555"></script>
+<script src="https://r.yna.co.kr/www/home_n/v03/js/lib/platform-1.3.6.js"></script>
+<script src="https://static.pfrt.yna.co.kr/www/js/web-utility.js?v=20260728_1015"></script>
+<script src="https://static.pfrt.yna.co.kr/www/js/web-dev.js?v=20260803_1630"></script>
+<script src="https://r.yna.co.kr/www/home_n/v03/js/web-design.js?v=20260921_1610"></script>
+<script async src="https://r.yna.co.kr/www/home_n/v03/js/lib/vanilla-lazyload-19.1.3.min.js"></script>
+<script id="GAStatScript">
+function statGACheck(code) {
+	let headTag = document.getElementsByTagName('head')[0];
+	let gtagScript = document.createElement('script'); 
+	gtagScript.async = true;
+	gtagScript.src = "https://www.googletagmanager.com/gtag/js?id="+code;
+	headTag.appendChild(gtagScript);
+}
+function statGAInit() {
+	let gtagId = '';
+	let queryMatch = window.location.search.match(/app=(ios|aos)/i);
+	if (queryMatch){
+		gtagId = 'G-QSWSH4MD0M';
+	}else{
+		gtagId = 'G-3JKE3F58CD';
+	}
+	statGACheck(gtagId);
+	window.dataLayer = window.dataLayer || [];
+	function gtag() {dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', gtagId);
+}
+statGAInit();
+</script>
+<script defer src="//rd.yna.co.kr/global/js/eas/eas.min.js"></script>
+<script src="https://cdp.yna.co.kr/script/1.0.0/yna_crm_log_module.min.js"></script>
+<script>
+	window.__YNALogModuleDataLayer = window.__YNALogModuleDataLayer || [];
+	window.__YNALogModuleDataLayer.push({ type: 'pageview', option: { sid: 'YNA' } });
+</script>
+<script type="application/ld+json">
+{
+	"@context": "https://schema.org","@type": "WebSite",
+	"url": "https://www.yna.co.kr/",
+	"@id": "https://www.yna.co.kr/#publisher",
+	"potentialAction": [{"@type": "SearchAction","target": "https://www.yna.co.kr/search/index?query={query}","query-input": {"@type": "PropertyValueSpecification","valueRequired": true,"valueName": "query"}}]
+}
+</script>
+<script type="application/ld+json">
+{
+	"@context": "https://schema.org","@type": "NewsMediaOrganization",
+	"name" : "연합뉴스" ,"alternateName":  ["YNA", "YonhapNews", "Yonhap News Agency", "韩联社", "聯合ニュース", "وكالة يونهاب للانباء", "AGENCIA DE NOTICIAS YONHAP", "AGENCE DE PRESSE YONHAP", "Hãng thông tấn Yonhap News"],
+	"url": "https://www.yna.co.kr/",
+	"@id": "https://www.yna.co.kr/#publisher",
+	"logo": {"@context": "https://schema.org","@type": "ImageObject","url": "https://r.yna.co.kr/global/home/v01/img/yonhapnews_logo_600x600_kr01.jpg","width": 600,"height": 600},
+	"image": {"@context": "https://schema.org","@type": "ImageObject","url": "https://r.yna.co.kr/global/home/v01/img/yonhapnews_logo_1200x800_kr01.jpg","width": 1200, "height": 800},
+	"ethicsPolicy": "https://www.yna.co.kr/policy/ethics",
+	"foundingDate": "1980-12-19",
+	"address": {"@type": "PostalAddress", "postalCode": "03143", "addressCountry": "KR", "addressRegion": "서울특별시", "addressLocality": "종로구", "streetAddress": "율곡로2길 25"},"telephone": "+82-2-398-3114",
+	"sameAs": ["https://www.facebook.com/yonhap","https://twitter.com/yonhaptweet","https://www.instagram.com/yonhap_news/","https://www.facebook.com/yonhapvideo/","https://www.youtube.com/channel/UCj3_t5p4L4aFsvdW3uHjnnw","https://www.youtube.com/channel/UCHzW_7Mf8G0JxP4b0LoAd7A","https://www.youtube.com/channel/UCR-L8oZkHzgDh1ahJhH2WDQ","https://www.youtube.com/channel/UChX-Cgkfava-G-LlfwC9v_g","https://ko.wikipedia.org/wiki/%EC%97%B0%ED%95%A9%EB%89%B4%EC%8A%A4"]
+}
+</script>
+<script type="application/ld+json">
+{
+	"@context": "https://schema.org", "@type": "BreadcrumbList",
+	"itemListElement": [
+		
+		{"@type": "ListItem","position": 1,"item": {"@id": "https://www.yna.co.kr/","name": "연합뉴스"}}
+		
+		
+	]
+}
+</script>
+<script src="https://www.gstatic.com/firebasejs/9.1.0/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/9.1.0/firebase-messaging-compat.js"></script>
+<script src="https://static.pfrt.yna.co.kr/www/js/pushMessaging.js?v=20261029_1555"></script>
+</head>
+<body class="page-main site-home-web">
+<div id="skipNav">
+<a href="https://www.yna.co.kr">연합뉴스</a>
+<a href="#container">본문 바로가기</a>
+<a href="#nav01">메뉴 바로가기</a>
+</div>
+<div class="wrapper">
+<div class="wrap-header01">
+<div class="header01">
+<div class="aside-top-bnr01">
+<aside class="aside-box001 bnr-mktg-top01">
+<span class="ir-txt01">광고</span>
+<div class="area01 ads-top01"></div>
+<div class="area01 ads-top02"></div>
+</aside>
+</div>
+</div>
+</div>
+<header class="wrap-header02">
+<div class="header02">
+<a class="logo-yna01" href="https://www.yna.co.kr" aria-label="국가기간뉴스 통신사 연합뉴스"></a>
+<span class="lang-zone01">
+<ul class="lang-list">
+<li class="en"><a href="https://en.yna.co.kr" target="_blank" title="(새창)English" rel="nofollow" data-stat-code="header_site_en">English</a></li>
+<li class="zh cg"><a href="https://cn.yna.co.kr" target="_blank" title="(새창)Chinese Simplified Chinese characters" rel="nofollow" data-stat-code="header_site_cn">中文</a></li>
+<li class="ja"><a href="https://jp.yna.co.kr" target="_blank" title="(새창)Japanese" rel="nofollow" data-stat-code="header_site_jp">日本語</a></li>
+<li class="ar"><a href="https://ar.yna.co.kr" target="_blank" title="(새창)Arabic" rel="nofollow" data-stat-code="header_site_ar">عربي</a></li>
+<li class="es"><a href="https://sp.yna.co.kr" target="_blank" title="(새창)Spanish" rel="nofollow" data-stat-code="header_site_sp">Español</a></li>
+<li class="fr"><a href="https://fr.yna.co.kr" target="_blank" title="(새창)French" rel="nofollow" data-stat-code="header_site_fr">Français</a></li>
+<li class="vi"><a href="https://vi.yna.co.kr" target="_blank" title="(새창)Vietnamese" rel="nofollow" data-stat-code="header_site_vi">Tiếng Việt</a></li>
+</ul>
+</span>
+<span class="today-zone">
+<strong class="txt-date">2026.11.08</strong>
+<em class="txt-week"></em>
+</span>
+<span class="utility-zone">
+<a href="https://www.yna.co.kr/my-page/index" class="btn-type200 my01" rel="nofollow" data-stat-code="header_mypage">
+<span class="txt01">마이페이지</span>
+</a>
+<a href="https://join.yna.co.kr/ko/login" class="btn-type004 login01" aria-label="로그인" rel="nofollow" data-stat-code="header_login"></a>
+<button type="button" class="btn-type004-toggle btn-srch-switch a11y-search-toggle01" data-a11y-txt="검색창 닫기;검색창 열기" data-stat-code="search_btn_toggle">
+<span class="ir-txt01">검색창 열기</span>
+<i class="pick01 ico-type01-srch01"></i>
+<i class="pick02 ico-type01-close01"></i>
+</button>
+<button type="button" class="btn-type004-toggle menu01 a11y-wholemenu-toggle01" data-a11y-txt="메뉴 닫기;메뉴 열기" data-stat-code="wholemenu_btn_toggle">
+<span class="ir-txt01">메뉴 열기</span>
+<i class="pick01 ico-type01-menu01"></i>
+<i class="pick02 ico-type01-close02"></i>
+</button>
+</span>
+</div>
+<div class="nav-type01 main-navigation">
+<nav id="nav01" class="gnb-menu01 swiper-area">
+<ul class="list01 swiper-wrapper">
+<li class="swiper-slide latest" data-nav-section="latest">
+<a href="https://www.yna.co.kr/news" data-stat-code="navi_latest_depth01">최신뉴스</a>
+</li>
+<li class="swiper-slide politics" data-nav-section="politics">
+<a href="https://www.yna.co.kr/politics/index" data-stat-code="navi_politics_depth01">정치</a>
+</li>
+<li class="swiper-slide nk" data-nav-section="nk">
+<a href="https://www.yna.co.kr/nk/index" data-stat-code="navi_nk_depth01">북한</a>
+</li>
+<li class="swiper-slide economy" data-nav-section="economy">
+<a href="https://www.yna.co.kr/economy/index" data-stat-code="navi_economy_depth01">경제</a>
+</li>
+<li class="swiper-slide market" data-nav-section="market">
+<a href="https://www.yna.co.kr/market-plus/index" data-stat-code="navi_market_plus_depth01">마켓+</a>
+</li>
+<li class="swiper-slide industry" data-nav-section="industry">
+<a href="https://www.yna.co.kr/industry/index" data-stat-code="navi_industry_depth01">산업</a>
+</li>
+<li class="swiper-slide society" data-nav-section="society">
+<a href="https://www.yna.co.kr/society/index" data-stat-code="navi_society_depth01">사회</a>
+</li>
+<li class="swiper-slide local" data-nav-section="local">
+<a href="https://www.yna.co.kr/local/index" data-stat-code="navi_local_depth01">전국</a>
+</li>
+<li class="swiper-slide intrnal" data-nav-section="intrnal">
+<a href="https://www.yna.co.kr/international/index" data-stat-code="navi_international_depth01">세계</a>
+</li>
+<li class="swiper-slide culture" data-nav-section="culture">
+<a href="https://www.yna.co.kr/culture/index" data-stat-code="navi_culture_depth01">문화</a>
+</li>
+<li class="swiper-slide health" data-nav-section="health">
+<a href="https://www.yna.co.kr/health/index" data-stat-code="navi_health_depth01">건강</a>
+</li>
+<li class="swiper-slide ent" data-nav-section="ent">
+<a href="https://www.yna.co.kr/entertainment/index" data-stat-code="navi_entertainment_depth01">연예</a>
+</li>
+<li class="swiper-slide sports" data-nav-section="sports">
+<a href="https://www.yna.co.kr/sports/index" data-stat-code="navi_sports_depth01">스포츠</a>
+</li>
+<li class="swiper-slide opinion" data-nav-section="opinion">
+<a href="https://www.yna.co.kr/opinion/index" data-stat-code="navi_opinion_depth01">오피니언</a>
+</li>
+<li class="swiper-slide visual" data-nav-section="visual">
+<a href="https://www.yna.co.kr/visual/index" data-stat-code="navi_visual_depth01">비주얼뉴스</a>
+</li>
+<li class="swiper-slide jebo no-depth" data-nav-section="jebo">
+<a href="https://www.yna.co.kr/board/jebo/index" data-stat-code="navi_jebo_depth01">제보</a>
+</li>
+<li class="swiper-slide safe no-depth switch-safe-link01" data-nav-section="safe">
+<a href="https://www.yna.co.kr/safe/index" data-stat-code="navi_safe_depth01">재난포털</a>
+</li>
+</ul>
+</nav>
+</div>
+<div class="hide01 a11ykey-menu02-end" tabindex="0" style="height: 0px;"></div>
+</header>
+<div class="wrap-header21 hide-appview">
+<div class="nav-type11 fixed-navigation01">
+<a class="logo-yna21" href="https://www.yna.co.kr" aria-label="국가기간뉴스 통신사 연합뉴스"></a>
+<a class="logo-yna03" href="https://www.yna.co.kr" aria-label="국가기간뉴스 통신사 연합뉴스"></a>
+<nav id="nav02" class="gnb-menu01 swiper-area">
+<ul class="list01 swiper-wrapper">
+<li class="swiper-slide latest" data-nav-section="latest">
+<a href="https://www.yna.co.kr/news" data-stat-code="navi_latest_depth01">최신뉴스</a>
+</li>
+<li class="swiper-slide politics" data-nav-section="politics">
+<a href="https://www.yna.co.kr/politics/index" data-stat-code="navi_politics_depth01">정치</a>
+</li>
+<li class="swiper-slide nk" data-nav-section="nk">
+<a href="https://www.yna.co.kr/nk/index" data-stat-code="navi_nk_depth01">북한</a>
+</li>
+<li class="swiper-slide economy" data-nav-section="economy">
+<a href="https://www.yna.co.kr/economy/index" data-stat-code="navi_economy_depth01">경제</a>
+</li>
+<li class="swiper-slide market" data-nav-section="market">
+<a href="https://www.yna.co.kr/market-plus/index" data-stat-code="navi_market_plus_depth01">마켓+</a>
+</li>
+<li class="swiper-slide industry" data-nav-section="industry">
+<a href="https://www.yna.co.kr/industry/index" data-stat-code="navi_industry_depth01">산업</a>
+</li>
+<li class="swiper-slide society" data-nav-section="society">
+<a href="https://www.yna.co.kr/society/index" data-stat-code="navi_society_depth01">사회</a>
+</li>
+<li class="swiper-slide local" data-nav-section="local">
+<a href="https://www.yna.co.kr/local/index" data-stat-code="navi_local_depth01">전국</a>
+</li>
+<li class="swiper-slide intrnal" data-nav-section="intrnal">
+<a href="https://www.yna.co.kr/international/index" data-stat-code="navi_international_depth01">세계</a>
+</li>
+<li class="swiper-slide culture" data-nav-section="culture">
+<a href="https://www.yna.co.kr/culture/index" data-stat-code="navi_culture_depth01">문화</a>
+</li>
+<li class="swiper-slide health" data-nav-section="health">
+<a href="https://www.yna.co.kr/health/index" data-stat-code="navi_health_depth01">건강</a>
+</li>
+<li class="swiper-slide ent" data-nav-section="ent">
+<a href="https://www.yna.co.kr/entertainment/index" data-stat-code="navi_entertainment_depth01">연예</a>
+</li>
+<li class="swiper-slide sports" data-nav-section="sports">
+<a href="https://www.yna.co.kr/sports/index" data-stat-code="navi_sports_depth01">스포츠</a>
+</li>
+<li class="swiper-slide opinion" data-nav-section="opinion">
+<a href="https://www.yna.co.kr/opinion/index" data-stat-code="navi_opinion_depth01">오피니언</a>
+</li>
+<li class="swiper-slide visual" data-nav-section="visual">
+<a href="https://www.yna.co.kr/visual/index" data-stat-code="navi_visual_depth01">비주얼</a>
+</li>
+<li class="swiper-slide jebo" data-nav-section="jebo">
+<a href="https://www.yna.co.kr/board/jebo/index" data-stat-code="navi_jebo_depth01">제보</a>
+</li>
+<li class="swiper-slide safe" data-nav-section="safe">
+<a href="https://www.yna.co.kr/safe/index" data-stat-code="navi_safe_depth01">재난포털</a>
+</li>
+</ul>
+</nav>
+<span class="utility-zone">
+<a href="https://www.yna.co.kr/my-page/index" class="btn-type200 my01" rel="nofollow" data-stat-code="header_mypage">
+<span class="txt01">마이페이지</span>
+</a>
+<a href="https://join.yna.co.kr/ko/login" class="btn-type004 login01" aria-label="로그인" rel="nofollow" data-stat-code="header_login"></a>
+<button type="button" class="btn-type004-toggle btn-srch-switch a11y-search-toggle01" data-a11y-txt="검색창 닫기;검색창 열기" data-stat-code="search_btn_toggle">
+<span class="ir-txt01">검색창 열기</span>
+<i class="pick01 ico-type01-srch01"></i>
+<i class="pick02 ico-type01-close01"></i>
+</button>
+<button type="button" class="btn-type004-toggle menu01 a11y-wholemenu-toggle01" data-a11y-txt="메뉴 닫기;메뉴 열기" data-stat-code="wholemenu_btn_toggle">
+<span class="ir-txt01">메뉴 열기</span>
+<i class="pick01 ico-type01-menu01"></i>
+<i class="pick02 ico-type01-close02"></i>
+</button>
+</span>
+</div>
+<div class="progress-bar01" id="progressBar01">
+<div class="bar" style="width: 0%;"></div>
+</div>
+</div>
+<script id="loginAfter01_Template" type="text/x-handlebars-template">
+	<div class="info-box01 login-after">
+		<div class="hide01 a11ykey-navi02" tabindex="0" style="height: 0px;"></div>
+		{{#if IMAGE}}
+		<span class="img-con01">
+			<img src="{{IMAGE}}" alt="{{escape NICKNAME}}" loading="lazy">
+		</span>
+		{{/if}}
+		<a href="https://www.yna.co.kr/my-page/index" class="btn-type207 arr01" rel="nofollow" data-stat-code="wholemenu_mypage">
+			<span class="txt01 color21">{{NICKNAME}}</span>
+			<span class="txt02 color21">님</span>
+			<span class="txt03">마이페이지</span>
+		</a>
+		{{#if NAME}}
+			<span class="txt01">#{{NAME}}</span>
+		{{/if}}
+	</div>
+	<button class="btn-type201" data-stat-code="wholemenu_logout">
+		<span class="txt01">로그아웃</span>
+	</button>
+</script>
+<script id="loginBefore01_Template" type="text/x-handlebars-template">
+	<div class="info-box01 login-before">
+		<div class="hide01 a11ykey-navi02" tabindex="0" style="height: 0px;"></div>
+		<a href="{{href}}" class="btn-type207 arr01" rel="nofollow" data-stat-code="wholemenu_login">
+			<span class="txt01">로그인/회원가입</span>
+		</a>
+		<p class="txt01">연합뉴스만의 특별한 뉴스 서비스를 경험해보세요!</p>
+	</div>
+</script>
+<div class="wrap-header23"></div>
+<script id="tickerUrgent01_Template" type="text/x-handlebars-template">
+	<div class="ticker-type02 ticker-urgent">
+		<div class="ticker-area">
+			<em class="ico-label-ticker01"><span class="txt01">속보</span></em>
+			<strong class="tit-news">
+				<a href="{{href}}" class="tit01" data-stat-code="emergency">{{title}}</a>
+			</strong>
+			<button type="button" class="btn-type034" title="속보 닫기" data-stat-code="emergency_btn_close"><span class="ir-txt01">속보 닫기</span></button>
+		</div>
+	</div>
+</script>
+<div id="container" class="wrap-container">
+<div class="container501">
+<header class="title-page01 blind01">
+<h1>연합뉴스</h1>
+</header>
+<div class="content03 main-content01">
+<div class="top-area01">
+<div class="top-main-news001 ">
+<div class="news-type001 top-main01" data-topnews-template="8254" data-issue-view>
+<article class="item-box01" data-cid="AKR20261108032300004" data-time="20261108172718">
+<figure class="img-con11">
+<a href="https://www.yna.co.kr/view/AKR20261108032300004?section=politics/all" class="img" data-stat-code="topnews01" data-issue-degree="">
+<picture class="pic">
+<img src="https://img4.yna.co.kr/photo/yna/YH/2026/11/06/PYH2026110614610001300_P1.jpg" alt="조작기소특검에 380억원 이상 투입…7차례 특검 중 최대치" loading="lazy">
+</picture>
+</a>
+<div class="label-box01">
+<em class="blind">톱기사 연관 검색어</em>
+<div class="list-text002">
+<ul class="list01">
+<li>
+<a href="https://www.yna.co.kr/search/index?query=%ED%8A%B9%EA%B2%80" class="txt01" data-stat-code="topnews01_keyword" rel="nofollow">#특검</a>
+</li>
+<li>
+<a href="https://www.yna.co.kr/search/index?query=%EC%A1%B0%EC%9E%91%EA%B8%B0%EC%86%8C" class="txt01" data-stat-code="topnews01_keyword" rel="nofollow">#조작기소</a>
+</li>
+</ul>
+</div>
+</div>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261108032300004?section=politics/all" class="tit-news" data-stat-code="topnews01" data-issue-degree="">
+<span class="title01">조작기소특검에 380억원 이상 투입…7차례 특검 중 최대치</span>
+</a>
+</strong>
+<strong class="tit-sub">예산정책처 추계액…내란·김건희특검 155억, 채해병특검 78억, 종합특검 154억</strong>
+<p class="lead">윤석열 정부 검찰의 조작기소 의혹을 수사하는 이른바 '조작기소 특검법'이 조만간 시행돼 내년까지 380억원 이상의 재정이 투입될 것으로 전망된다.
+조작기소 특검은 이재명 정부 출범 후 7번째 특검이며, 이들 특검 가운데 가장 많은 예산을 쓸 것으로 보인다.
+8일 국회 예산...</p>
+<ul class="list-related01" date-count="2">
+<li data-cid="AKR20261108031700004">
+<a href="https://www.yna.co.kr/view/AKR20261108031700004?section=politics/all" data-stat-code="topnews01_related" data-issue-degree="">
+<span class="tit01">조작기소특검 위헌 찬반 쟁점은…대통령이 본인 사건 특검 임명</span>
+</a>
+</li>
+<li data-cid="AKR20261107037851004">
+<a href="https://www.yna.co.kr/view/AKR20261107037851004?section=politics/all" data-stat-code="topnews01_related" data-issue-degree="">
+<span class="tit01">'공소취소 수순' 의심 못떨친 조작기소특검…논란 조항 살펴보니</span>
+</a>
+</li>
+</ul>
+</div>
+</article>
+</div>
+<aside class="aside-box429">
+<div class="area01 bnr-wrap072 hide" data-random="0">
+<div class="con">
+<a href="https://egypt.dothome.co.kr/" rel="nofollow" target="_blank" title="새창열기">
+<span class="logo"><span class="txt">미라, 봉인된 신비</span></span>
+<span class="txt01">2026.12.11 - 2027.4.11</span>
+<p class="obj01"></p>
+</a>
+</div>
+</div>
+<div class="area01 bnr-wrap073 hide" data-random="1">
+<p class="obj01"></p>
+<p class="obj02"></p>
+<a href="https://yhitf.co.kr/" rel="nofollow" target="_blank" title="새창열기">
+<div class="con">
+<span class="txt01">2026 연합뉴스 하남 국제 트레일런</span>
+<span class="txt02">2026.12.12(토) - 12.13(일)</span>
+</div>
+</a>
+</div>
+</aside>
+<div class="news-type002 top-main02" id="mainMidnight01" data-issue-view>
+<ul class="list01">
+<li class="li01">
+<div class="item-box02" data-cid="AKR20261108039651007" data-time="20261108171536">
+<figure class="img-con11">
+<a href="https://www.yna.co.kr/view/AKR20261108039651007?section=local/all" class="img" data-stat-code="topnews02" data-issue-degree="">
+<picture class="pic">
+<source media="(max-width:1023px)" srcset="https://img1.yna.co.kr/photo/yna/YH/2026/11/08/PYH2026110806480005300_T2.jpg">
+<img src="https://img6.yna.co.kr/photo/yna/YH/2026/11/08/PYH2026110806480005300_P1.jpg" alt="프로야구 삼성, 12년 만에 한국시리즈 정상 탈환…통산 9번째 V" loading="lazy">
+</picture>
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261108039651007?section=local/all" class="tit-news" data-stat-code="topnews02" data-issue-degree="">
+<span class="title01">프로야구 삼성, 12년 만에 한국시리즈 정상 탈환…통산 9번째 V</span>
+</a>
+</strong>
+<ul class="list-related01">
+<li data-cid="AKR20261108039951007"><a href="https://www.yna.co.kr/view/AKR20261108039951007?section=sports/all" data-stat-code="topnews02_related" data-issue-degree=""><span class="tit01">'우승 캡틴' 삼성 구자욱 "라이온즈 선수 모두가 MVP"</span></a></li>
+<li data-cid="AKR20261108021800007"><a href="https://www.yna.co.kr/view/AKR20261108021800007?section=sports/all" data-stat-code="topnews02_related" data-issue-degree=""><span class="tit01">선수로 6번·감독으로 첫 정상…'부드러운 승부사' 삼성 박진만</span></a></li>
+</ul>
+</div>
+</div>
+</li>
+<li class="li02">
+<div class="item-box02" data-cid="AKR20261108050500062" data-time="20261108193013">
+<figure class="img-con11">
+<a href="https://www.yna.co.kr/view/AKR20261108050500062?section=society/all" class="img" data-stat-code="topnews02" data-issue-degree="">
+<picture class="pic">
+<source media="(max-width:1023px)" srcset="https://img1.yna.co.kr/photo/yna/YH/2026/11/08/PYH2026110807700006200_T2.jpg">
+<img src="https://img6.yna.co.kr/photo/yna/YH/2026/11/08/PYH2026110807700006200_P1.jpg" alt="인제에 올가을 첫 대설주의보…밤사이 1∼5㎝ 추가 적설 예보" loading="lazy">
+</picture>
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261108050500062?section=society/all" class="tit-news" data-stat-code="topnews02" data-issue-degree="">
+<span class="title01">인제에 올가을 첫 대설주의보…밤사이 1∼5㎝ 추가 적설 예보</span>
+</a>
+</strong>
+<ul class="list-related01">
+<li data-cid="AKR20261108040400530"><a href="https://www.yna.co.kr/view/AKR20261108040400530?section=society/all" data-stat-code="topnews02_related" data-issue-degree=""><span class="tit01">중부 밤까지 비·눈…월요일 남부·제주 비에 초겨울 추위</span></a></li>
+<li data-cid="AKR20261108022551530"><a href="https://www.yna.co.kr/view/AKR20261108022551530?section=society/all" data-stat-code="topnews02_related" data-issue-degree=""><span class="tit01">서울에 많이 이른 '첫눈'…작년보다 26일, 평년보다 12일 빨라</span></a></li>
+</ul>
+</div>
+</div>
+</li>
+<li class="ads-item01">
+<aside class="aside-box101">
+<span class="ir-txt01">광고</span>
+<div class="area01 ads-main01">
+<yna-ad-script src="https://ad.yna.co.kr/RealMedia/ads/adstream_sx.ads/m.yna/main@Middle1?ads-main01"></yna-ad-script>
+</div>
+<div class="area01 ads-main02">
+<yna-ad-script src="https://ad.yna.co.kr/RealMedia/ads/adstream_sx.ads/m.yna/main@Middle2?ads-main02" data-app-ad="false"></yna-ad-script>
+</div>
+</aside>
+</li>
+<li class="li03">
+<div class="item-box02" data-cid="AKR20261108048252001" data-time="20261108212439">
+<figure class="img-con11">
+<a href="https://www.yna.co.kr/view/AKR20261108048252001?section=politics/all" class="img" data-stat-code="topnews02" data-issue-degree="">
+<picture class="pic">
+<source media="(max-width:1023px)" srcset="https://img4.yna.co.kr/photo/yna/YH/2026/11/08/PYH2026110810460001300_T2.jpg">
+<img src="https://img9.yna.co.kr/photo/yna/YH/2026/11/08/PYH2026110810460001300_P1.jpg" alt="與 &quot;정부에 &apos;실거주 구분 없이 종부세 공제 14억&apos; 강력히 요구&quot;" loading="lazy">
+</picture>
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261108048252001?section=politics/all" class="tit-news" data-stat-code="topnews02" data-issue-degree="">
+<span class="title01">與 &quot;정부에 &apos;실거주 구분 없이 종부세 공제 14억&apos; 강력히 요구&quot;</span>
+</a>
+</strong>
+<ul class="list-related01">
+<li data-cid="AKR20261108047251001"><a href="https://www.yna.co.kr/view/AKR20261108047251001?section=politics/all" data-stat-code="topnews02_related" data-issue-degree=""><span class="tit01">당정 "소방에 2조원 재정지원…미래대응기금 활용은 추후 결정"</span></a></li>
+</ul>
+</div>
+</div>
+</li>
+<li class="li04">
+<div class="item-box02 news-4th display-none" data-cid="AKR20261108031800003" data-time="20261108151844">
+<figure class="img-con11">
+<a href="https://www.yna.co.kr/view/AKR20261108031800003?section=economy/all" class="img" data-stat-code="topnews02" data-issue-degree="">
+<picture class="pic">
+<source media="(max-width:1023px)" srcset="https://img8.yna.co.kr/photo/yna/YH/2026/11/04/PYH2026110414460001300_T2.jpg">
+<img src="https://img3.yna.co.kr/photo/yna/YH/2026/11/04/PYH2026110414460001300_P1.jpg" alt="LH &quot;공공이 개발사업 시행하면 속도 빨라지고 부정부패 줄어&quot;" loading="lazy">
+</picture>
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261108031800003?section=economy/all" class="tit-news" data-stat-code="topnews02" data-issue-degree="">
+<span class="title01">LH &quot;공공이 개발사업 시행하면 속도 빨라지고 부정부패 줄어&quot;</span>
+</a>
+</strong>
+<p class="lead">최근 이재명 대통령이 공공재개발 현장을 방문해 공공 주도 개발에 힘을 실은 뒤 서울시가 그에 비판적 입장을 내놓자 공공 정비사업 주체인 한국토지주택공사(LH)가 ...</p>
+</div>
+</div>
+<div class="item-box02" id="correctNotice01"></div>
+</li>
+</ul>
+<script id="mainMidnight01_Template" type="text/x-handlebars-template">
+		<div class="item-box02 news-4th" data-cid="{{CID}}" data-time="{{DATETIME}}">
+			{{#if IMAGE}}
+			<figure class="img-con11">
+				<a href="https://www.yna.co.kr/view/{{CID}}{{#if SECTION_CODE}}?section={{SECTION_CODE}}{{/if}}" class="img" data-stat-code="topnews02">
+					<picture class="pic">
+						<source media="(max-width:1023px)" srcset="{{thumbnail IMAGE 'T2'}}">
+						<img src="{{thumbnail IMAGE 'P4'}}" alt="{{escape TITLE}}" loading="lazy">
+					</picture>
+				</a>
+			</figure>
+			{{/if}}
+			<div class="news-con">
+				<strong class="tit-wrap">
+					<a href="https://www.yna.co.kr/view/{{CID}}{{#if SECTION_CODE}}?section={{SECTION_CODE}}{{/if}}" class="tit-news" data-stat-code="topnews02">
+						<span class="title01">{{TITLE}}</span>
+					</a>
+				</strong>
+				{{#if LEAD}}<p class="lead">{{LEAD}}</p>{{/if}}
+			</div>
+		</div>
+	</script>
+</div>
+</div>
+</div>
+<div class="top-area02">
+<aside class="aside-box429">
+<div class="area01 bnr-wrap072 hide" data-random="0">
+<div class="con">
+<a href="https://egypt.dothome.co.kr/" rel="nofollow" target="_blank" title="새창열기">
+<span class="logo"><span class="txt">미라, 봉인된 신비</span></span>
+<span class="txt01">2026.12.11 - 2027.4.11</span>
+<p class="obj01"></p>
+</a>
+</div>
+</div>
+<div class="area01 bnr-wrap073 hide" data-random="1">
+<p class="obj01"></p>
+<p class="obj02"></p>
+<a href="https://yhitf.co.kr/" rel="nofollow" target="_blank" title="새창열기">
+<div class="con">
+<span class="txt01">2026 연합뉴스 하남 국제 트레일런</span>
+<span class="txt02">2026.12.12(토) - 12.13(일)</span>
+</div>
+</a>
+</div>
+</aside>
+</div>
+<span class="display-none"></span>
+<script id="topNewsVideo01_Template" type="text/x-handlebars-template">
+<div class="vid-con" data-stat-code="topnews01_youtube">
+	<div id="topPlayer01" class="ifm-youtube"></div>
+</div>
+</script>
+<script id="topNewsVideo02_Template" type="text/x-handlebars-template">
+<div class="vid-con" data-stat-code="">
+	<div class="video-type01">
+		<div id="videoPlayer01" class="video-con vid-skin11">
+			<video class="video-js vjs-default-skin vid-skin11" controls playsinline webkit-playsinline preload="none"></video>
+		</div>
+	</div>
+</div>
+</script>
+</div>
+<div class="content04 main-ticker01"></div>
+<div class="content03 main-aside01">
+<aside class="aside-box005 aside-sticky03">
+<span class="ir-txt01">광고</span>
+<div class="area01 ads-fixed01">
+<yna-ad-script src="https://ad.yna.co.kr/RealMedia/ads/adstream_sx.ads/yna/main@x55?ads-fixed01"></yna-ad-script>
+</div>
+<div class="area01 ads-fixed03">
+<yna-ad-script src="https://ad.yna.co.kr/RealMedia/ads/adstream_sx.ads/yna/main@x53?ads-fixed03"></yna-ad-script>
+</div>
+</aside>
+<aside class="aside-box413">
+<span class="ir-txt01">광고</span>
+<div class="area01 bnr-wrap017">
+<a href="https://korean-vibe.com/" target="_blank" rel="nofollow">
+<img src="https://r.yna.co.kr/ad/img/2024/bnr_kodyssey_20241106_01.png" loading="lazy" alt="K-VIBE 한류, 문화, 커뮤니티">
+</a>
+</div>
+</aside>
+<aside class="aside-box424">
+<div class="area01 ads-fixed02">
+<yna-ad-script src="https://ad.yna.co.kr/RealMedia/ads/adstream_sx.ads/yna/main@x54?ads-fixed02"></yna-ad-script>
+</div>
+</aside>
+</div>
+<div class="content51 main-content02">
+<div class="section01">
+<section class="box-type001 main-major-news01" data-issue-view>
+<div class="list-type001">
+<ul class="list01">
+<li>
+<div class="item-box01">
+<figure class="img-con11">
+<a href="https://www.yna.co.kr/view/AKR20261108028200007?section=sports/all" class="img" data-stat-code="major_news01" data-issue-degree="">
+<picture class="pic">
+<img src="https://img1.yna.co.kr/photo/yna/YH/2026/11/08/PYH2026110807560005400_P1.jpg" alt="적수 없는 안세영의 대기록 도장 깨기…이제 초유의 12승 사냥" loading="lazy">
+</picture>
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261108028200007?section=sports/all" class="tit-news" data-stat-code="major_news01">
+<span class="title01">적수 없는 안세영의 대기록 도장 깨기…이제 초유의 12승 사냥</span>
+</a>
+</strong>
+<ul class="list-related01">
+<li>
+<a href="https://www.yna.co.kr/view/AKR20261108027800007?section=sports/all" data-stat-code="major_news01_related" data-issue-degree=""><span class="tit01">무적의 안세영, 안방서 포효…2시즌 연속 역대 최다 '11승' 달성</span></a>
+</li>
+<li>
+<a href="https://www.yna.co.kr/view/AKR20261108032200007?section=sports/all" data-stat-code="major_news01_related" data-issue-degree=""><span class="tit01">'세계 최강' 안세영도 안방 환호엔 무장해제…"우승하니 울컥"</span></a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li>
+<div class="item-box01">
+<figure class="img-con11">
+<a href="https://www.yna.co.kr/view/AKR20261106192100002?section=economy/all" class="img" data-stat-code="major_news01" data-issue-degree="">
+<picture class="pic">
+<source media="(max-width:767px)" srcset="https://img5.yna.co.kr/photo/yna/YH/2024/03/04/PYH2024030408170005300_T2.jpg">
+<img src="https://img0.yna.co.kr/photo/yna/YH/2024/03/04/PYH2024030408170005300_P1.jpg" alt="저출생 충격 현실로…초등 입학생 사상 처음 30만명 미달한다" loading="lazy">
+</picture>
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261106192100002?section=economy/all" class="tit-news" data-stat-code="major_news01">
+<span class="title01">저출생 충격 현실로…초등 입학생 사상 처음 30만명 미달한다</span>
+</a>
+</strong>
+<p class="lead">저출생 여파로 내년 초등학교 입학이 사상 처음으로 30만명 아래로 떨어질 것으로 전망된다.
+40만명선이 무너진 지 블과 3년 만일 정도로 속도가 빠르다. 약 60년 전에 비하면 4분의 1 수준이다.
+학생 수 감소는 교육...</p>
+<ul class="list-related01">
+<li>
+<a href="https://www.yna.co.kr/view/AKR20261107042900002?section=economy/all" data-stat-code="major_news01_related" data-issue-degree=""><span class="tit01">양육·돌봄 부담 급증…韓총부양비 OECD 최저에서 2048년 최고로</span></a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+<ul class="list02">
+<li>
+<div class="item-box01">
+<figure class="img-con11">
+<a href="https://www.yna.co.kr/view/AKR20261106146900003?section=industry/all" class="img" data-stat-code="major_news01" data-issue-degree="">
+<picture class="pic">
+<img src="https://img1.yna.co.kr/photo/yna/YH/2025/02/14/PYH2025021411910001300_T2.jpg" alt="텍사스도 블루웨이브…반도체 공장 보조금 변동 촉각" loading="lazy">
+</picture>
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<em class="txt-tag02 color21">[美선거 산업여파]</em>
+<a href="https://www.yna.co.kr/view/AKR20261106146900003?section=industry/all" class="tit-news" data-stat-code="major_news01" data-issue-degree="">
+<span class="title01">텍사스도 블루웨이브…반도체 공장 보조금 변동 촉각</span>
+</a>
+</strong>
+<ul class="list-related01">
+<li>
+<a href="https://www.yna.co.kr/view/AKR20261106181800003?section=economy/all" data-stat-code="major_news01_related" data-issue-degree=""><span class="tit01">자동차 관세 부담 지속될 듯…전기차는 기대</span></a>
+</li>
+<li>
+<a href="https://www.yna.co.kr/view/AKR20261106170700003?section=industry/all" data-stat-code="major_news01_related" data-issue-degree=""><span class="tit01">친환경 정책 돌아오나…K배터리·태양광 훈풍 기대</span></a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li>
+<div class="item-box01">
+<figure class="img-con11">
+<a href="https://www.yna.co.kr/view/AKR20261108015451001?section=politics/all" class="img" data-stat-code="major_news01" data-issue-degree="">
+<picture class="pic">
+<img src="https://img3.yna.co.kr/etc/inner/KR/2026/11/08/AKR20261108015451001_01_i_T2.jpg" alt="靑 국정상황실장에 김태근 자치발전비서관…김정우 사의" loading="lazy">
+</picture>
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261108015451001?section=politics/all" class="tit-news" data-stat-code="major_news01" data-issue-degree="">
+<span class="title01">靑 국정상황실장에 김태근 자치발전비서관…김정우 사의</span>
+</a>
+</strong>
+<p class="lead">김정우 청와대 국정상황실장이 8일 사의를 밝히고 물러났다.
+신임 국정상황실장은 김태근 현 정무수석실 자치발전비서관이 맡는다.
+김 실장은 이날 페이스북에 '입학하기보다 졸업하기가 더 어렵다는 청와대를 떠난다'라는 글을 올...</p>
+</div>
+</div>
+</li>
+<li>
+<div class="item-box01">
+<figure class="img-con11">
+<a href="https://www.yna.co.kr/view/AKR20261108047700504?section=politics/all" class="img" data-stat-code="major_news01" data-issue-degree="">
+<picture class="pic">
+<img src="https://img1.yna.co.kr/etc/inner/KR/2026/11/08/AKR20261108047700504_01_i_T2.jpg" alt="美해군·해병대 고위급, 韓조선소 역량 점검…&apos;마스가&apos; 힘 싣나" loading="lazy">
+</picture>
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261108047700504?section=politics/all" class="tit-news" data-stat-code="major_news01" data-issue-degree="">
+<span class="title01">美해군·해병대 고위급, 韓조선소 역량 점검…&apos;마스가&apos; 힘 싣나</span>
+</a>
+</strong>
+<p class="lead">미 해군·해병대 고위 관계자들이 최근 한국 조선소를 직접 찾아 함정 건조 능력을 현장에서 둘러보고 평가한 사실이 8일 뒤늦게 알려졌다.
+미국 국방부의 '국방영상정보배포서비스'(DVIDS)에 따르면 브렌던 로저스 미 해군부 에...</p>
+</div>
+</div>
+</li>
+<li class="style01">
+<div class="item-box02">
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261108035200004?section=politics/all" class="tit-news" data-stat-code="major_news01" data-issue-degree="">
+<span class="title01">이용철 법무장관 후보, 본격 청문 준비…12일 준비단 첫 출근</span>
+</a>
+</strong>
+<ul class="list-related01">
+<li>
+<a href="https://www.yna.co.kr/view/AKR20261108027400004?section=society/all" data-stat-code="major_news01_related" data-issue-degree=""><span class="tit01">이용철 법무후보, 野 '숨은 설계자' 공세에 "대장동 알지 못해"</span></a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="style01">
+<div class="item-box02">
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261108038200504?section=politics/all" class="tit-news" data-stat-code="major_news01" data-issue-degree="">
+<span class="title01">조현, 美선거 후 G7서 루비오 첫 대면…안보협의 불씨 되살릴까</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+<li class="style01">
+<div class="item-box02">
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261108044551004?section=society/all" class="tit-news" data-stat-code="major_news01" data-issue-degree="">
+<span class="title01">서울대총장 최종후보 최해천 석좌교수…공과대 출신 20년만</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+<li class="style01">
+<div class="item-box02">
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261108052400064?section=society/accident" class="tit-news" data-stat-code="major_news01" data-issue-degree="">
+<span class="title01">청주서 여자친구 흉기로 살해한 20대 남성 체포</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+<li class="style01">
+<div class="item-box02">
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261104062600017?section=industry/all" class="tit-news" data-stat-code="major_news01" data-issue-degree="">
+<span class="title01">청소년 SNS 규제, 가입만 막을까…추천·무한 스크롤도 검토</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+<li class="style01">
+<div class="item-box02">
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261106192400030?section=economy/all" class="tit-news" data-stat-code="major_news01" data-issue-degree="">
+<span class="title01">매대 비고 월급도 밀려…홈플러스, 자금 악순환에 회생 &apos;빨간불&apos;</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+<li class="style01">
+<div class="item-box02">
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261107040100004?section=society/all" class="tit-news" data-stat-code="major_news01" data-issue-degree="">
+<span class="title01">&apos;동의 없으면 상담 못해&apos;…스토킹 가해자 교정사업 결국 중단</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</section>
+<aside class="aside-box006">
+<span class="ir-txt01">광고</span>
+<div class="area01">
+<div class="ads-main-banner01"></div>
+</div>
+</aside>
+</div>
+<div class="section02">
+<aside class="aside-box423 position02">
+<div class="area01 bnr-wrap072">
+<div class="con">
+<a href="https://egypt.dothome.co.kr/" rel="nofollow" target="_blank" title="새창열기">
+<span class="logo"><span class="txt">미라, 봉인된 신비</span></span>
+<span class="txt01">2026.12.11 - 2027.4.11</span>
+<p class="obj01"></p>
+</a>
+</div>
+</div>
+<div class="area01 bnr-wrap073">
+<p class="obj01"></p>
+<p class="obj02"></p>
+<a href="https://yhitf.co.kr/" rel="nofollow" target="_blank" title="새창열기">
+<div class="con">
+<span class="txt01">2026 연합뉴스 하남 국제 트레일런</span>
+<span class="txt02">2026.12.12(토) - 12.13(일)</span>
+</div>
+</a>
+</div>
+</aside>
+<section class="box-type001 main-hotnews01">
+<header class="title-con01">
+<h3 class="title-type001 arr01">
+<a href="https://www.yna.co.kr/theme/hotnews-history" class="tit01" data-stat-code="hot_news_btn_more">핫뉴스</a>
+</h3>
+</header>
+<div class="list-type010">
+<ul class="list01">
+<li>
+<div class="item-box01">
+<figure class="img-con11">
+<a href="https://www.yna.co.kr/view/AKR20261108040200053?section=society/all" class="img" data-stat-code="hot_news">
+<picture class="pic">
+<source media="(max-width:1023px)" srcset="https://img6.yna.co.kr/photo/yna/YH/2026/11/08/PYH2026110811480005300_P1.jpg">
+<img src="https://img1.yna.co.kr/photo/yna/YH/2026/11/08/PYH2026110811480005300_T2.jpg" alt="&quot;삼성왕조 부활&quot;…12년 만의 우승에 대구는 &apos;열광의 도가니&apos;" loading="lazy">
+</picture>
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261108040200053?section=society/all" class="tit-news" data-stat-code="hot_news">
+<span class="title01">&quot;삼성왕조 부활&quot;…12년 만의 우승에 대구는 &apos;열광의 도가니&apos;</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+<li>
+<div class="item-box01">
+<figure class="img-con11">
+<a href="https://www.yna.co.kr/view/AKR20261108047000005?section=culture/all" class="img" data-stat-code="hot_news">
+<picture class="pic">
+<source media="(max-width:1023px)" srcset="https://img9.yna.co.kr/etc/inner/KR/2026/11/08/AKR20261108047000005_01_i_P1.jpg">
+<img src="https://img4.yna.co.kr/etc/inner/KR/2026/11/08/AKR20261108047000005_01_i_T2.jpg" alt="영화 &apos;김의 전쟁&apos;·&apos;테러리스트&apos; 김영빈 감독 별세" loading="lazy">
+</picture>
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261108047000005?section=culture/all" class="tit-news" data-stat-code="hot_news">
+<span class="title01">영화 &apos;김의 전쟁&apos;·&apos;테러리스트&apos; 김영빈 감독 별세</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+</ul>
+<ul class="list02">
+<li>
+<div class="item-box01">
+<figure class="img-con11">
+<a href="https://www.yna.co.kr/view/AKR20261106110900051?section=industry/all" class="img" data-stat-code="hot_news">
+<picture class="pic">
+<source media="(min-width:768px) and (max-width:1023px)" srcset="https://img4.yna.co.kr/etc/inner/KR/2026/11/06/AKR20261106110900051_01_i_P1.jpg">
+<img src="https://img9.yna.co.kr/etc/inner/KR/2026/11/06/AKR20261106110900051_01_i_T2.jpg" alt="평균 73세 &apos;기장 할매&apos; 8명, 트로트 그룹 데뷔…어촌 삶 노래로" loading="lazy">
+</picture>
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261106110900051?section=industry/all" class="tit-news" data-stat-code="hot_news">
+<span class="title01">평균 73세 &apos;기장 할매&apos; 8명, 트로트 그룹 데뷔…어촌 삶 노래로</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+<li>
+<div class="item-box01">
+<figure class="img-con11">
+<a href="https://www.yna.co.kr/view/AKR20261108026700051?section=society/all" class="img" data-stat-code="hot_news">
+<picture class="pic">
+<source media="(min-width:768px) and (max-width:1023px)" srcset="https://img0.yna.co.kr/photo/yna/YH/2026/11/07/PYH2026110706060005100_P1.jpg">
+<img src="https://img5.yna.co.kr/photo/yna/YH/2026/11/07/PYH2026110706060005100_T2.jpg" alt="부산불꽃축제서 돗자리 깔고 12만원 부르고 암표 판매 8명 적발" loading="lazy">
+</picture>
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261108026700051?section=society/all" class="tit-news" data-stat-code="hot_news">
+<span class="title01">부산불꽃축제서 돗자리 깔고 12만원 부르고 암표 판매 8명 적발</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+</ul>
+<ul class="list03">
+<li>
+<div class="item-box01">
+<figure class="img-con11">
+<a href="https://www.yna.co.kr/view/AKR20261108003252071?section=international/all" class="img" data-stat-code="hot_news">
+<picture class="pic">
+<img src="https://img8.yna.co.kr/photo/etc/epa/2026/06/15/PEP20260615168901009_T2.jpg" alt="농담일까 진심일까…트럼프 &quot;UFC회장에 백악관 대변인 제안&quot;" loading="lazy">
+</picture>
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261108003252071?section=international/all" class="tit-news" data-stat-code="hot_news">
+<span class="title01">농담일까 진심일까…트럼프 &quot;UFC회장에 백악관 대변인 제안&quot;</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+<li>
+<div class="item-box01">
+<figure class="img-con11">
+<a href="https://www.yna.co.kr/view/AKR20261106152400051?section=society/all" class="img" data-stat-code="hot_news">
+<picture class="pic">
+<img src="https://img1.yna.co.kr/photo/yna/YH/2026/07/15/PYH2026071512500006200_T2.jpg" alt="상어 &apos;부캉이&apos; 이어 돌고래 &apos;안목이&apos;도 바다 복귀" loading="lazy">
+</picture>
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261106152400051?section=society/all" class="tit-news" data-stat-code="hot_news">
+<span class="title01">상어 &apos;부캉이&apos; 이어 돌고래 &apos;안목이&apos;도 바다 복귀</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+<li>
+<div class="item-box01">
+<figure class="img-con11">
+<a href="https://www.yna.co.kr/view/AKR20261108037300009?section=international/all" class="img" data-stat-code="hot_news">
+<picture class="pic">
+<img src="https://img2.yna.co.kr/photo/ap/2026/09/10/PAP20260910181201009_T2.jpg" alt="&quot;친트럼프 인플루언서 로라 루머, 돈 받고 정치 게시물 올려&quot;" loading="lazy">
+</picture>
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261108037300009?section=international/all" class="tit-news" data-stat-code="hot_news">
+<span class="title01">&quot;친트럼프 인플루언서 로라 루머, 돈 받고 정치 게시물 올려&quot;</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+<li>
+<div class="item-box01">
+<figure class="img-con11">
+<a href="https://www.yna.co.kr/view/AKR20261108050600083?section=international/all" class="img" data-stat-code="hot_news">
+<picture class="pic">
+<img src="https://img8.yna.co.kr/etc/inner/KR/2026/11/08/AKR20261108050600083_01_i_T2.jpg" alt="中, AI 악용·선정적 숏폼 드라마 연말까지 집중단속" loading="lazy">
+</picture>
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261108050600083?section=international/all" class="tit-news" data-stat-code="hot_news">
+<span class="title01">中, AI 악용·선정적 숏폼 드라마 연말까지 집중단속</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</section>
+</div>
+</div>
+<div class="content04 main-ticker02"></div>
+<div class="content03 wide main-ynalounge01 ynalounge-content01"></div>
+<div class="content56">
+<div class="section01">
+<section class="box-type001 main-major-news01" data-issue-view>
+<div class="list-type001">
+<ul class="list01">
+<li>
+<div class="item-box01">
+<figure class="img-con11">
+<a href="https://www.yna.co.kr/view/AKR20261107025700008?section=economy/all" class="img" data-stat-code="major_news01" data-issue-degree="">
+<picture class="pic">
+<img src="https://img5.yna.co.kr/photo/yna/YH/2026/11/06/PYH2026110613320001300_P1.jpg" alt="&apos;블루 쓰나미&apos;에 휘청 코스피, 美증시 반등에 충격 벗어날까" loading="lazy">
+</picture>
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261107025700008?section=economy/all" class="tit-news" data-stat-code="major_news01">
+<span class="title01">&apos;블루 쓰나미&apos;에 휘청 코스피, 美증시 반등에 충격 벗어날까</span>
+</a>
+</strong>
+<ul class="list-related01">
+<li>
+<a href="https://www.yna.co.kr/view/AKR20261107026400008?section=economy/all" data-stat-code="major_news01_related" data-issue-degree=""><span class="tit01">외국인, 지난주 삼전닉스 7.6조 던졌다…보유율도 수년만 최저</span></a>
+</li>
+<li>
+<a href="https://www.yna.co.kr/view/AKR20261106189100008?section=economy/all" data-stat-code="major_news01_related" data-issue-degree=""><span class="tit01">급락장에 줄줄이 추락…지난주 상장사 3개중 1개는 연중 최저가</span></a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li>
+<div class="item-box01">
+<figure class="img-con11">
+<a href="https://www.yna.co.kr/view/AKR20261108018900530?section=society/all" class="img" data-stat-code="major_news01" data-issue-degree="">
+<picture class="pic">
+<source media="(max-width:767px)" srcset="https://img5.yna.co.kr/photo/yna/YH/2026/10/19/PYH2026101922890005200_T2.jpg">
+<img src="https://img0.yna.co.kr/photo/yna/YH/2026/10/19/PYH2026101922890005200_P1.jpg" alt="N수생 20만 육박 &apos;역대 최다&apos;…영어 난이도 관심" loading="lazy">
+</picture>
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<em class="txt-tag02 color21">[수능 D-10]</em>
+<a href="https://www.yna.co.kr/view/AKR20261108018900530?section=society/all" class="tit-news" data-stat-code="major_news01">
+<span class="title01">N수생 20만 육박 &apos;역대 최다&apos;…영어 난이도 관심</span>
+</a>
+</strong>
+<ul class="list-related01">
+<li>
+<a href="https://www.yna.co.kr/view/AKR20261106161300530?section=society/all" data-stat-code="major_news01_related" data-issue-degree=""><span class="tit01"> "틀렸던 문제 점검하고 시험시간 맞춰 생활"</span></a>
+</li>
+<li>
+<a href="https://www.yna.co.kr/view/AKR20261106172000530?section=society/all" data-stat-code="major_news01_related" data-issue-degree=""><span class="tit01">스마트안경 막아라…시험장 1천312곳 전담요원 급파</span></a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li>
+<div class="item-box01">
+<figure class="img-con11">
+<a href="https://www.yna.co.kr/view/AKR20261106127300017?section=industry/all" class="img" data-stat-code="major_news01" data-issue-degree="">
+<picture class="pic">
+<source media="(max-width:767px)" srcset="https://img4.yna.co.kr/photo/yna/YH/2026/11/05/PYH2026110512280001300_T2.jpg">
+<img src="https://img9.yna.co.kr/photo/yna/YH/2026/11/05/PYH2026110512280001300_P1.jpg" alt="AI 해킹 시대에도 보안 감독은 칸막이…재편 시험대" loading="lazy">
+</picture>
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<em class="txt-tag02 color21">[사이버 컨트롤타워]</em>
+<a href="https://www.yna.co.kr/view/AKR20261106127300017?section=industry/all" class="tit-news" data-stat-code="major_news01">
+<span class="title01">AI 해킹 시대에도 보안 감독은 칸막이…재편 시험대</span>
+</a>
+</strong>
+<ul class="list-related01">
+<li>
+<a href="https://www.yna.co.kr/view/AKR20261106167900017?section=industry/all" data-stat-code="major_news01_related" data-issue-degree=""><span class="tit01"> 미국·영국·일본은 어떻게 해킹에 대응하나</span></a>
+</li>
+<li>
+<a href="https://www.yna.co.kr/view/AKR20261107032100017?section=economy/all" data-stat-code="major_news01_related" data-issue-degree=""><span class="tit01">AI 해킹에 기존 방어망 뚫리나…금융권 보안 '경고등'</span></a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+<ul class="list02">
+<li>
+<div class="item-box01">
+<figure class="img-con11">
+<a href="https://www.yna.co.kr/view/AKR20261108032800009?section=international/all" class="img" data-stat-code="major_news01" data-issue-degree="">
+<picture class="pic">
+<img src="https://img0.yna.co.kr/photo/etc/af/2026/11/05/PAF20261105195001009_T2.jpg" alt="이란 강경파 &quot;미 중간선거는 우리 승리&quot;…종전협상 요구 높였다" loading="lazy">
+</picture>
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261108032800009?section=international/all" class="tit-news" data-stat-code="major_news01" data-issue-degree="">
+<span class="title01">이란 강경파 &quot;미 중간선거는 우리 승리&quot;…종전협상 요구 높였다</span>
+</a>
+</strong>
+<p class="lead">이란 강경파가 도널드 트럼프 미국 대통령의 중간선거 패배를 자국의 승리로 받아들이며 종전 협상에서 미국에 더 많은 양보를 요구하고 나선 것으로 전해졌다.
+이란은 단순한 전쟁 종식을 넘어 미국의 중동 영향력을 약화하고 자국에 유...</p>
+<ul class="list-related01">
+<li>
+<a href="https://www.yna.co.kr/view/AKR20261108016000072?section=international/all" data-stat-code="major_news01_related" data-issue-degree=""><span class="tit01">중간선거 후 트럼프 이란전 고심…참모들은 '협상 vs 공습' 대립</span></a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li>
+<div class="item-box01">
+<figure class="img-con11">
+<a href="https://www.yna.co.kr/view/AKR20261108048000109?section=international/all" class="img" data-stat-code="major_news01" data-issue-degree="">
+<picture class="pic">
+<img src="https://img2.yna.co.kr/photo/reuters/2026/11/08/PRU20261108272001009_T2.jpg" alt="러 점령한 우크라 자포리자 원전 또 전력 차단" loading="lazy">
+</picture>
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261108048000109?section=international/all" class="tit-news" data-stat-code="major_news01" data-issue-degree="">
+<span class="title01">러 점령한 우크라 자포리자 원전 또 전력 차단</span>
+</a>
+</strong>
+<p class="lead">러시아가 점령 중인 우크라이나 남부 자포리자 지역의 원자력 발전소에 원자로 냉각을 위해 공급되던 전력이 또 차단됐다.
+8일(현지시간) 로이터통신 등에 따르면 국제원자력기구(IAEA)는 이날 "오늘 아침 외부 전력 공급선 연결이...</p>
+<ul class="list-related01">
+<li>
+<a href="https://www.yna.co.kr/view/AKR20261108031551009?section=international/all" data-stat-code="major_news01_related" data-issue-degree=""><span class="tit01">러시아 올해 빼앗은 우크라 땅 119㎢ 그쳐…"보급로 타격 여파"</span></a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li>
+<div class="item-box01">
+<figure class="img-con11">
+<a href="https://www.yna.co.kr/view/AKR20261107050300003?section=economy/all" class="img" data-stat-code="major_news01" data-issue-degree="">
+<picture class="pic">
+<img src="https://img8.yna.co.kr/photo/yna/YH/2026/11/08/PYH2026110805570001300_T2.jpg" alt="서울 아파트 매물 석달 새 33%↑…집값 안정으로 이어질까" loading="lazy">
+</picture>
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261107050300003?section=economy/all" class="tit-news" data-stat-code="major_news01" data-issue-degree="">
+<span class="title01">서울 아파트 매물 석달 새 33%↑…집값 안정으로 이어질까</span>
+</a>
+</strong>
+<p class="lead">8·3 세제개편안 발표 이후 서울 아파트 매물이 33% 늘었지만 매물 증가가 지속적인 집값 안정으로 이어질지가 관심이다.
+5년 전에도 세제 강화를 앞두고 늘었던 매물이 감소한 뒤 집값 상승폭이 커졌던 만큼 내년 봄 매물 회수...</p>
+<ul class="list-related01">
+<li>
+<a href="https://www.yna.co.kr/view/AKR20261108006100003?section=economy/all" data-stat-code="major_news01_related" data-issue-degree=""><span class="tit01">경기 아파트값 상승률 8주째 서울 상회…주도지역 서울→경기</span></a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="style01">
+<div class="item-box02">
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261106156200003?section=industry/all" class="tit-news" data-stat-code="major_news01" data-issue-degree="">
+<span class="title01">삼전 현금 200조 돌파…올해 주주환원도 미래투자도 100조+α</span>
+</a>
+</strong>
+<ul class="list-related01">
+<li>
+<a href="https://www.yna.co.kr/view/AKR20261107039500002?section=economy/all" data-stat-code="major_news01_related" data-issue-degree=""><span class="tit01">반도체 호황에 기업 여윳돈 넘쳐…고액 예금 1천조 육박</span></a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="style01">
+<div class="item-box02">
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261108031300083?section=international/all" class="tit-news" data-stat-code="major_news01" data-issue-degree="">
+<span class="title01">中인민일보 &quot;삼성, 中산업망에 깊이 결합한 동반자&quot;…집중조명</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+<li class="style01">
+<div class="item-box02">
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261107030300030?section=economy/all" class="tit-news" data-stat-code="major_news01" data-issue-degree="">
+<span class="title01">[르포] 당일 튀긴 신라면 짊어진 &apos;라면 거북이&apos;…구미라면축제 &apos;펄펄&apos;</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+<li class="style01">
+<div class="item-box02">
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261107052000530?section=industry/all" class="tit-news" data-stat-code="major_news01" data-issue-degree="">
+<span class="title01">새 정지궤도 기상위성 천리안 5호 개발, 곡절 끝 &apos;정상궤도&apos;에</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+<li class="style01">
+<div class="item-box02">
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261106171200530?section=society/all" class="tit-news" data-stat-code="major_news01" data-issue-degree="">
+<span class="title01">가난한 남편 돌보는 아내들…&apos;가족인 요양&apos; 이용률 가장 높아</span>
+</a>
+</strong>
+<ul class="list-related01">
+<li>
+<a href="https://www.yna.co.kr/view/AKR20261106167200530?section=society/all" data-stat-code="major_news01_related" data-issue-degree=""><span class="tit01">75세 이상 장기요양 수급자 10년 새 2.7배…급여비는 4.4배</span></a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="style01">
+<div class="item-box02">
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261108015800017?section=industry/all" class="tit-news" data-stat-code="major_news01" data-issue-degree="">
+<span class="title01">젠슨황 장녀 방한 취소…배경훈 면담·기업 협력 일정 무산</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+<li class="style01">
+<div class="item-box02">
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261106153800530?section=economy/all" class="tit-news" data-stat-code="major_news01" data-issue-degree="">
+<span class="title01">급증 사업소득자 10명 중 9명 &apos;가짜 3.3&apos;…고령자 위장고용 비상</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+<li class="style01">
+<div class="item-box02">
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261106112600530?section=society/all" class="tit-news" data-stat-code="major_news01" data-issue-degree="">
+<span class="title01">&apos;전국민 산재보험&apos; 사각지대 여전…자영업자 가입률 0.6%</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+<li class="style01">
+<div class="item-box02">
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261106142500002?section=economy/all" class="tit-news" data-stat-code="major_news01" data-issue-degree="">
+<span class="title01">3분기 늘어난 상용직 75%가 60대 이상…20·30대는 뒷걸음질</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+<li class="style01">
+<div class="item-box02">
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261106164300530?section=economy/all" class="tit-news" data-stat-code="major_news01" data-issue-degree="">
+<span class="title01">고용보험 부정수급 자진신고하면 추가징수 면제…제보시 포상금</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+<li class="style01">
+<div class="item-box02">
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261108013000003?section=economy/all" class="tit-news" data-stat-code="major_news01" data-issue-degree="">
+<span class="title01">&quot;제조업 파업에 근로손실일수 45% 증가…N% 성과배분 요구 확산&quot;</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+<li class="style01">
+<div class="item-box02">
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261108016500504?section=politics/all" class="tit-news" data-stat-code="major_news01" data-issue-degree="">
+<span class="title01">위험직무순직 일반직 공무원, 보훈심사 없이 유공자 등록</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+<li class="style01">
+<div class="item-box02">
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261107041800004?section=society/all" class="tit-news" data-stat-code="major_news01" data-issue-degree="">
+<span class="title01">도심 마라톤에 응급 환자·결혼식 하객 발 묶일라…경찰도 촉각</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</section>
+<aside class="aside-box315">
+<span class="ir-txt01">광고</span>
+<div class="area01">
+<yna-ad-script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1728051424180693" class="adsbygoogle" style="display:inline-block;width:320px;height:50px" data-mobile-ad="true" data-app-ad="false" data-tag-name="ins" data-ad-client="ca-pub-1728051424180693" data-ad-slot="3535172596"></yna-ad-script>
+<script>
+	window['ca-pub-1728051424180693'] = function(){
+		(adsbygoogle = window.adsbygoogle || []).push({});
+	}
+</script>
+</div>
+</aside>
+</div>
+<div class="section02">
+<aside class="aside-box410">
+<div class="area01 bnr-wrap074">
+<a href="http://www.yonhapnews-forum.co.kr/" rel="nofollow" target="_blank" title="새창열기">
+<span class="ir-txt01">2026 미래경제포럼 2026.11.3(화) 13:40~18:00</span>
+</a>
+</div>
+<div class="area01 bnr-wrap075">
+<a href="https://www.yna.co.kr/2026-site/multicultural" rel="nofollow" target="_blank" title="새창열기">
+<div class="con">
+<span class="txt01">2026 연합뉴스 다문화포럼</span>
+</div>
+</a>
+</div>
+<div class="area01 bnr-wrap026 style01">
+<a href="https://www.yna.co.kr/ubuntu/index" rel="nofollow">
+<div class="con">
+<span class="txt01"><span class="blind01">아프리카와 동행</span></span>
+<span class="txt02"><span class="blind01">우분투</span></span>
+</div>
+</a>
+</div>
+<div class="area01 bnr-wrap061">
+<a href="https://www.yna.co.kr/board/notice/read?itemId=66337" rel="nofollow">
+<div class="con">
+<span class="txt01">나만의 뉴스 여기에!</span>
+<span class="txt02">새 기능이 더해진 연합뉴스 클릭!</span>
+<span class="txt03">바로 클릭!</span>
+</div>
+</a>
+</div>
+<div class="area01 bnr-wrap014">
+<a href="https://www.yna.co.kr/esg/index?site=bnr_sp_esg" rel="nofollow">
+<span class="txt01">지속가능한 미래를 위한</span>
+<span class="txt02">ESG</span>
+<span class="txt03">정보플랫폼</span>
+</a>
+</div>
+</aside>
+<aside class="aside-box411">
+<div class="area01 bnr-wrap016">
+<a href="https://www.koreancenter.or.kr/" rel="nofollow" target="_blank" title="새창열기">
+<span class="txt01">연합뉴스</span>
+<span class="txt02">한민족센터</span>
+</a>
+</div>
+<div class="area01 bnr-wrap015">
+<a href="https://www.yna.co.kr/irclub/index" rel="nofollow" target="_blank" title="새창열기" >
+<span class="txt01">연합뉴스</span>
+<span class="txt02">IR 클럽</span>
+</a>
+</div>
+</aside>
+<aside class="aside-box412">
+<div id="marketingPlayer" class="area01"></div>
+</aside>
+<script class="Res7-after">
+	var ytbAutoAdData = [
+		'3rXFq2FH_Sg', //연합뉴스TV 교환광고(2025-05-20 유지)
+		'NNKIAOf2D34', //GS칼텍스헬로먼데이(2025-05-20 유지)
+		'tBAXivZHDJo', //현대 펠리세이드 - 폭포편(2025-05-20)
+		'4ygoTLEF6dQ', //아이오닉9 - 고원의천문대편(2025-05-20)
+		'gZrFCqI0fvo', //기아 타스만(2025-05-20)
+		'ywNAlsbJ-iU', //한국수자원공사 (2026-09-01~)
+		'kgw25KKV4uU' //대한항공 스타링크(~2026-12-02)
+		
+	]
+</script>
+<aside id="boxAdsRight01" class="aside-box003">
+<span class="ir-txt01">광고</span>
+<div class="area01 ads-right01"></div>
+<div class="area01 ads-right02"></div>
+<div class="area01 ads-right03"></div>
+<div class="area01 ads-right04"></div>
+<div class="area01 ads-right05"></div>
+<div class="area01 ads-right06"></div>
+<div class="area01 ads-right07"></div>
+<div class="area01 ads-right08"></div>
+<div class="area01 ads-right09"></div>
+<div class="area01 ads-right10"></div>
+<div class="area01 ads-right11"></div>
+<div class="area01 ads-right12"></div>
+<div class="area01 ads-right13"></div>
+<div class="area01 ads-right14"></div>
+<div class="area01 ads-right15"></div>
+<yna-ad-script src="https://ad.yna.co.kr/RealMedia/ads/adstream_sx.ads/yna/main@x01?ads-right01"></yna-ad-script>
+<yna-ad-script src="https://ad.yna.co.kr/RealMedia/ads/adstream_sx.ads/yna/main@x02?ads-right02"></yna-ad-script>
+<yna-ad-script src="https://ad.yna.co.kr/RealMedia/ads/adstream_sx.ads/yna/main@x03?ads-right03"></yna-ad-script>
+<yna-ad-script src="https://ad.yna.co.kr/RealMedia/ads/adstream_sx.ads/yna/main@x04?ads-right04"></yna-ad-script>
+<yna-ad-script src="https://ad.yna.co.kr/RealMedia/ads/adstream_sx.ads/yna/main@x05?ads-right05"></yna-ad-script>
+<yna-ad-script src="https://ad.yna.co.kr/RealMedia/ads/adstream_sx.ads/yna/main@x06?ads-right06"></yna-ad-script>
+</aside>
+</div>
+</div>
+<div class="content52" >
+<div class="section01">
+<section class="box-type100 main-photo01">
+<header class="title-con01">
+<h3 class="title-type001 arr01"><a href="https://www.yna.co.kr/photo/major" class="tit01" data-stat-code="visual_photo_btn_more">포토</a></h3>
+</header>
+<div class="list-type050">
+<div class="swiper-area">
+<ul class="list01 swiper-wrapper">
+<li class="swiper-slide">
+<div class="item-box01">
+<figure class="img-con11">
+<a href="https://www.yna.co.kr/view/PYH20261108079500062?section=photo/index" class="img" data-stat-code="visual_photo_list">
+<span class="label-box01">
+<span class="ico-type03-photo01"></span>
+</span>
+<picture class="pic">
+<source media="(max-width:1023px)" srcset="https://img3.yna.co.kr/template/kr/20261108/kr_633_20261108161319_P2.jpg">
+<img src="https://img5.yna.co.kr/template/kr/20261108/kr_633_20261108161319_P4.jpg" alt="겨울로 가는 눈 쌓인 길" loading="lazy">
+</picture>
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/PYH20261108079500062?section=photo/index" class="tit-news" data-stat-code="visual_photo_list">
+<span class="title01">겨울로 가는 눈 쌓인 길</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+<li class="swiper-slide">
+<div class="item-box01">
+<figure class="img-con11">
+<a href="https://www.yna.co.kr/view/PYH20261108059900054?section=photo/index" class="img" data-stat-code="visual_photo_list">
+<span class="label-box01">
+<span class="ico-type03-photo01"></span>
+</span>
+<picture class="pic">
+<source media="(max-width:1023px)" srcset="https://img6.yna.co.kr/template/kr/20261108/kr_634_20261108152225_P2.jpg">
+<img src="https://img4.yna.co.kr/template/kr/20261108/kr_634_20261108152225_P4.jpg" alt="배드민턴 &apos;퀸&apos; 안세영, 2시즌 연속 역대 최다 11승 달성" loading="lazy">
+</picture>
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/PYH20261108059900054?section=photo/index" class="tit-news" data-stat-code="visual_photo_list">
+<span class="title01">배드민턴 &apos;퀸&apos; 안세영, 2시즌 연속 역대 최다 11승 달성</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+<li class="swiper-slide">
+<div class="item-box01">
+<figure class="img-con11">
+<a href="https://www.yna.co.kr/view/PYH20261108083800013?section=photo/index" class="img" data-stat-code="visual_photo_list">
+<span class="label-box01">
+<span class="ico-type03-photo01"></span>
+</span>
+<picture class="pic">
+<source media="(max-width:1023px)" srcset="https://img3.yna.co.kr/template/kr/20261108/kr_634_20261108161800_P2.jpg">
+<img src="https://img1.yna.co.kr/template/kr/20261108/kr_634_20261108161800_P4.jpg" alt="총리공관서 열린 고위당정협의회" loading="lazy">
+</picture>
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/PYH20261108083800013?section=photo/index" class="tit-news" data-stat-code="visual_photo_list">
+<span class="title01">총리공관서 열린 고위당정협의회</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+<li class="swiper-slide">
+<div class="item-box01">
+<figure class="img-con11">
+<a href="https://www.yna.co.kr/view/PYH20261108058800013?section=photo/index" class="img" data-stat-code="visual_photo_list">
+<span class="label-box01">
+<span class="ico-type03-photo01"></span>
+</span>
+<picture class="pic">
+<source media="(max-width:1023px)" srcset="https://img7.yna.co.kr/template/kr/20261108/kr_633_20261108152007_P2.jpg">
+<img src="https://img5.yna.co.kr/template/kr/20261108/kr_633_20261108152007_P4.jpg" alt="수능 D-11…기도하는 불자들" loading="lazy">
+</picture>
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/PYH20261108058800013?section=photo/index" class="tit-news" data-stat-code="visual_photo_list">
+<span class="title01">수능 D-11…기도하는 불자들</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+</ul>
+<div class="btns-wrap11">
+<div class="pager01"><span class="count-box"></span></div>
+<button type="button" class="btn-dir001-prev"><span class="ir-txt01">이전 콘텐츠</span></button>
+<button type="button" class="btn-dir001-next"><span class="ir-txt01">다음 콘텐츠</span></button>
+<button type="button" class="btn-type007-play01"><span class="ir-txt01">자동 슬라이드 정지</span></button>
+</div>
+</div>
+</div>
+</section>
+</div>
+<div class="section02">
+<section class="box-type100 main-gallery01">
+<header class="title-con01">
+<h3 class="title-type001 arr01"><a href="https://www.yna.co.kr/gallery/index" class="tit01" data-stat-code="visual_gallery_btn_more">화보</a></h3>
+</header>
+<div class="list-type050">
+<div class="swiper-area">
+<ul class="list01 swiper-wrapper">
+<li class="swiper-slide">
+<div class="item-box01">
+<figure class="img-con11">
+<a href="https://www.yna.co.kr/view/IPT20261108000008365?section=gallery/index" class="img" data-stat-code="visual_gallery_list">
+<span class="label-box01">
+<span class="ico-type03-gallery01"><i class="ir-txt01">전체 사진 수</i><i class="txt01">25</i></span>
+</span>
+<picture class="pic">
+<source media="(max-width:1023px)" srcset="https://img5.yna.co.kr/template/kr/20261108/kr_637_20261108235557_P2.jpg">
+<img src="https://img3.yna.co.kr/template/kr/20261108/kr_637_20261108235557_P4.jpg" alt="프로야구 삼성, 12년 만에 한국시리즈 정상 탈환…통산 9번째 V" loading="lazy">
+</picture>
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/IPT20261108000008365?section=gallery/index" class="tit-news" data-stat-code="visual_gallery_list">
+<span class="title01">프로야구 삼성, 12년 만에 한국시리즈 정상 탈환…통산 9번째 V</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+<li class="swiper-slide">
+<div class="item-box01">
+<figure class="img-con11">
+<a href="https://www.yna.co.kr/view/IPT20261107000008365?section=gallery/index" class="img" data-stat-code="visual_gallery_list">
+<span class="label-box01">
+<span class="ico-type03-gallery01"><i class="ir-txt01">전체 사진 수</i><i class="txt01">15</i></span>
+</span>
+<picture class="pic">
+<source media="(max-width:1023px)" srcset="https://img7.yna.co.kr/template/kr/20261108/kr_638_20261108120258_P2.jpg">
+<img src="https://img9.yna.co.kr/template/kr/20261108/kr_638_20261108120258_P4.jpg" alt="중국이 보낸 판다 두 마리, 미 애틀랜타 동물원서 공개돼" loading="lazy">
+</picture>
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/IPT20261107000008365?section=gallery/index" class="tit-news" data-stat-code="visual_gallery_list">
+<span class="title01">중국이 보낸 판다 두 마리, 미 애틀랜타 동물원서 공개돼</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+<li class="swiper-slide">
+<div class="item-box01">
+<figure class="img-con11">
+<a href="https://www.yna.co.kr/view/IPT20261108000002365?section=gallery/index" class="img" data-stat-code="visual_gallery_list">
+<span class="label-box01">
+<span class="ico-type03-gallery01"><i class="ir-txt01">전체 사진 수</i><i class="txt01">21</i></span>
+</span>
+<picture class="pic">
+<source media="(max-width:1023px)" srcset="https://img1.yna.co.kr/template/kr/20261108/kr_638_20261108114248_P2.jpg">
+<img src="https://img9.yna.co.kr/template/kr/20261108/kr_638_20261108114248_P4.jpg" alt="폴란드 크라쿠프 도심서 총기 난사…&quot;6명 사망·16명 부상&quot;" loading="lazy">
+</picture>
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/IPT20261108000002365?section=gallery/index" class="tit-news" data-stat-code="visual_gallery_list">
+<span class="title01">폴란드 크라쿠프 도심서 총기 난사…&quot;6명 사망·16명 부상&quot;</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+<li class="swiper-slide">
+<div class="item-box01">
+<figure class="img-con11">
+<a href="https://www.yna.co.kr/view/IPT20261108000004365?section=gallery/index" class="img" data-stat-code="visual_gallery_list">
+<span class="label-box01">
+<span class="ico-type03-gallery01"><i class="ir-txt01">전체 사진 수</i><i class="txt01">17</i></span>
+</span>
+<picture class="pic">
+<source media="(max-width:1023px)" srcset="https://img2.yna.co.kr/template/kr/20261108/kr_658_20261108135125_P2.jpg">
+<img src="https://img0.yna.co.kr/template/kr/20261108/kr_658_20261108135125_P4.jpg" alt="유럽서도 커지는 &apos;데이터센터 반대&apos;…15개국 100여개 단체 시위" loading="lazy">
+</picture>
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/IPT20261108000004365?section=gallery/index" class="tit-news" data-stat-code="visual_gallery_list">
+<span class="title01">유럽서도 커지는 &apos;데이터센터 반대&apos;…15개국 100여개 단체 시위</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+</ul>
+<div class="btns-wrap11">
+<div class="pager01"><span class="count-box"></span></div>
+<button type="button" class="btn-dir001-prev"><span class="ir-txt01">이전 콘텐츠</span></button>
+<button type="button" class="btn-dir001-next"><span class="ir-txt01">다음 콘텐츠</span></button>
+<button type="button" class="btn-type007-play01"><span class="ir-txt01">자동 슬라이드 정지</span></button>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+<div class="content03" >
+<section class="box-type100 main-video-player01">
+<header class="title-con01">
+<h3 class="title-type001 arr01"><a href="https://www.yna.co.kr/video/all" class="tit01" data-stat-code="visual_video_btn_more">영상</a></h3>
+</header>
+<div class="list-type021">
+<div class="swiper-area">
+<ul class="list01 swiper-wrapper">
+<li class="swiper-slide">
+<div class="item-box01">
+<figure class="img-con01">
+<a href="https://www.yna.co.kr/view/MYH20261108006200704?section=video/all" class="img" data-stat-code="visual_video_list">
+<i class="overlay01"></i>
+<i class="ico-type91-video01"><i class="ir-txt01">영상 기사</i></i>
+<img src="https://img7.yna.co.kr/mpic/YH/2026/11/08/MYH20261108006200704_P4.jpg" alt="[영상] 후티 &quot;사우디 공습으로 33명 사망&quot;…석유시설·공항 공격 맞불" loading="lazy">
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/MYH20261108006200704?section=video/all" class="tit-news" data-stat-code="visual_video_list">
+<span class="title01">[영상] 후티 &quot;사우디 공습으로 33명 사망&quot;…석유시설·공항 공격 맞불</span>
+</a>
+</strong>
+<em class="ico-type02-play01"><i class="ir-txt01">재생시간</i>02:15</em>
+</div>
+</div>
+</li>
+<li class="swiper-slide">
+<div class="item-box01">
+<figure class="img-con01">
+<a href="https://www.yna.co.kr/view/MYH20261106016500704?section=video/all" class="img" data-stat-code="visual_video_list">
+<i class="overlay01"></i>
+<i class="ico-type91-video01"><i class="ir-txt01">영상 기사</i></i>
+<img src="https://img1.yna.co.kr/mpic/YH/2026/11/06/MYH20261106016500704_P4.jpg" alt="[영상] &quot;아가야 살자&quot;…31주에 구급차서 태어난 아기 119대원이 살렸다" loading="lazy">
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/MYH20261106016500704?section=video/all" class="tit-news" data-stat-code="visual_video_list">
+<span class="title01">[영상] &quot;아가야 살자&quot;…31주에 구급차서 태어난 아기 119대원이 살렸다</span>
+</a>
+</strong>
+<em class="ico-type02-play01"><i class="ir-txt01">재생시간</i>03:05</em>
+</div>
+</div>
+</li>
+<li class="swiper-slide">
+<div class="item-box01">
+<figure class="img-con01">
+<a href="https://www.yna.co.kr/view/MYH20261106018500797?section=video/all" class="img" data-stat-code="visual_video_list">
+<i class="overlay01"></i>
+<i class="ico-type91-video01"><i class="ir-txt01">영상 기사</i></i>
+<img src="https://img9.yna.co.kr/mpic/YH/2026/11/06/MYH20261106018500797_P4.jpg" alt="[영상] 블루 쓰나미가 휩쓴 미국…후폭풍 정밀 분석(ft.우정엽 박사)" loading="lazy">
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/MYH20261106018500797?section=video/all" class="tit-news" data-stat-code="visual_video_list">
+<span class="title01">[영상] 블루 쓰나미가 휩쓴 미국…후폭풍 정밀 분석(ft.우정엽 박사)</span>
+</a>
+</strong>
+<em class="ico-type02-play01"><i class="ir-txt01">재생시간</i>27:55</em>
+</div>
+</div>
+</li>
+<li class="swiper-slide">
+<div class="item-box01">
+<figure class="img-con01">
+<a href="https://www.yna.co.kr/view/MYH20261106015100704?section=video/all" class="img" data-stat-code="visual_video_list">
+<i class="overlay01"></i>
+<i class="ico-type91-video01"><i class="ir-txt01">영상 기사</i></i>
+<img src="https://img6.yna.co.kr/mpic/YH/2026/11/06/MYH20261106015100704_P4.jpg" alt="[영상] 어뢰 한 발에 퇴역함 격침…스페인 잠수함 실사격 훈련 공개" loading="lazy">
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/MYH20261106015100704?section=video/all" class="tit-news" data-stat-code="visual_video_list">
+<span class="title01">[영상] 어뢰 한 발에 퇴역함 격침…스페인 잠수함 실사격 훈련 공개</span>
+</a>
+</strong>
+<em class="ico-type02-play01"><i class="ir-txt01">재생시간</i>02:18</em>
+</div>
+</div>
+</li>
+<li class="swiper-slide">
+<div class="item-box01">
+<figure class="img-con01">
+<a href="https://www.yna.co.kr/view/MYH20261108011200704?section=video/all" class="img" data-stat-code="visual_video_list">
+<i class="overlay01"></i>
+<i class="ico-type91-video01"><i class="ir-txt01">영상 기사</i></i>
+<img src="https://img3.yna.co.kr/mpic/YH/2026/11/08/MYH20261108011200704_P4.jpg" alt="[영상] 英항공모함서 공격용 드론 첫 발사…고정익 무인기도 처음 운용" loading="lazy">
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/MYH20261108011200704?section=video/all" class="tit-news" data-stat-code="visual_video_list">
+<span class="title01">[영상] 英항공모함서 공격용 드론 첫 발사…고정익 무인기도 처음 운용</span>
+</a>
+</strong>
+<em class="ico-type02-play01"><i class="ir-txt01">재생시간</i>01:36</em>
+</div>
+</div>
+</li>
+<li class="swiper-slide">
+<div class="item-box01">
+<figure class="img-con01">
+<a href="https://www.yna.co.kr/view/MYH20261106015900704?section=video/all" class="img" data-stat-code="visual_video_list">
+<i class="overlay01"></i>
+<i class="ico-type91-video01"><i class="ir-txt01">영상 기사</i></i>
+<img src="https://img4.yna.co.kr/mpic/YH/2026/11/06/MYH20261106015900704_P4.jpg" alt="[영상] 드론서 드론 발사…자폭드론 16대 달고 다니는 &apos;드론 모함&apos;" loading="lazy">
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/MYH20261106015900704?section=video/all" class="tit-news" data-stat-code="visual_video_list">
+<span class="title01">[영상] 드론서 드론 발사…자폭드론 16대 달고 다니는 &apos;드론 모함&apos;</span>
+</a>
+</strong>
+<em class="ico-type02-play01"><i class="ir-txt01">재생시간</i>02:31</em>
+</div>
+</div>
+</li>
+</ul>
+<div class="btns-wrap11">
+<div class="pager01"><span class="count-box"></span></div>
+<button type="button" class="btn-dir001-prev"><span class="ir-txt01">이전 콘텐츠</span></button>
+<button type="button" class="btn-dir001-next"><span class="ir-txt01">다음 콘텐츠</span></button>
+</div>
+</div>
+</div>
+</section>
+</div>
+<div class="content03" >
+<section class="box-type001 main-brand01">
+<header class="title-con01">
+<h3 class="title-type001 arr01">
+<a href="https://www.yna.co.kr/brand-news/index" class="tit01" data-stat-code="brand_news_btn_more">브랜드뉴스</a>
+</h3>
+</header>
+<div class="list-type031">
+<ul class="list01"></ul>
+</div>
+</section>
+<script id="mainBrandNews01_Template" type="text/x-handlebars-template">
+	<li>
+		<div class="item-box01">
+			<figure class="img-con01">
+				<a href="{{URL}}?section=brand-news/index" class="img" data-stat-code="brand_news_article">
+					<img src="{{thumbnail IMAGE 'P2'}}" alt="{{escape TITLE}}" loading="lazy">
+				</a>
+			</figure>
+			<div class="news-con">
+				<strong class="tit-wrap">
+					<a class="txt-type003 style01" href="{{BRAND_URL}}" data-stat-code="brand_news_list"><span class="txt01">#{{BRAND_TITLE}}</span></a>
+					<a href="{{URL}}?section=brand-news/index" class="tit-news" data-stat-code="brand_news_article">
+						<span class="title01">{{TITLE}}</span>
+					</a>
+				</strong>
+				{{#if SUBSCRIBED}}
+				<button type="button" class="btn-type411-toggle {{SUBSCRIBED}}" data-id="{{ID}}" data-stat-code="brand_news_btn_unsubscribe">
+					<i class="pick01 ico-type07-plus01">구독</i>
+					<i class="pick02 ico-type07-check02">구독중</i>
+				</button>
+				{{/if}}
+				{{#unless SUBSCRIBED}}
+				<button type="button" class="btn-type411-toggle" data-id="{{ID}}" data-stat-code="brand_news_btn_subscribe">
+					<i class="pick01 ico-type07-plus01">구독</i>
+					<i class="pick02 ico-type07-check02">구독중</i>
+				</button>
+				{{/unless}}
+			</div>
+		</div>
+	</li>
+</script>
+</div>
+<div class="content57" >
+<div class="section01">
+<div data-cp="13501" data-type="auto"></div>
+</div>
+<div class="section02">
+<div data-cp="13502" data-type="auto"></div>
+</div>
+</div>
+<div class="content51" >
+<div class="section01">
+<section class="box-type001 main-major-news03" data-issue-view>
+<h2 class="ir-txt01">주요뉴스03</h2>
+<div class="list-type002">
+<ul class="list01">
+<li>
+<div class="item-box01">
+<figure class="img-con11">
+<a href="https://www.yna.co.kr/view/AKR20261108022000004?section=economy/all" class="img" data-stat-code="major_news03" data-issue-degree="">
+<picture class="pic">
+<img src="https://img5.yna.co.kr/photo/yna/YH/2026/11/07/PYH2026110705630001300_T2.jpg" alt="전태일 열사가 현행 근로기준법 평가한다면?…&quot;100점 중 49.9점&quot;" loading="lazy">
+</picture>
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261108022000004?section=economy/all" class="tit-news" data-stat-code="major_news03" data-issue-degree="">
+<span class="title01">전태일 열사가 현행 근로기준법 평가한다면?…&quot;100점 중 49.9점&quot;</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+<li>
+<div class="item-box01">
+<figure class="img-con11">
+<a href="https://www.yna.co.kr/view/AKR20261108012451009?section=international/all" class="img" data-stat-code="major_news03" data-issue-degree="">
+<picture class="pic">
+<img src="https://img5.yna.co.kr/photo/reuters/2026/11/08/PRU20261108100901009_T2.jpg" alt="이스라엘 야권리더 아이젠코트에 연정구성권…네타냐후 실각위기" loading="lazy">
+</picture>
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261108012451009?section=international/all" class="tit-news" data-stat-code="major_news03" data-issue-degree="">
+<span class="title01">이스라엘 야권리더 아이젠코트에 연정구성권…네타냐후 실각위기</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+<li>
+<div class="item-box01">
+<figure class="img-con11">
+<a href="https://www.yna.co.kr/view/AKR20261108044800073?section=international/all" class="img" data-stat-code="major_news03" data-issue-degree="">
+<picture class="pic">
+<img src="https://img6.yna.co.kr/etc/inner/KR/2026/11/08/AKR20261108044800073_01_i_T2.jpg" alt="다카이치 &quot;내 임기 내 납북 문제 해결하겠다&quot;…재차 강조" loading="lazy">
+</picture>
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261108044800073?section=international/all" class="tit-news" data-stat-code="major_news03" data-issue-degree="">
+<span class="title01">다카이치 &quot;내 임기 내 납북 문제 해결하겠다&quot;…재차 강조</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+<li>
+<div class="item-box01">
+<figure class="img-con11">
+<a href="https://www.yna.co.kr/view/AKR20261108045400084?section=international/all" class="img" data-stat-code="major_news03" data-issue-degree="">
+<picture class="pic">
+<img src="https://img0.yna.co.kr/photo/etc/af/2026/11/08/PAF20261108206101009_T2.jpg" alt="동남아도 데이터센터 &apos;역풍&apos; 확산…물 부족에 항의시위도" loading="lazy">
+</picture>
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261108045400084?section=international/all" class="tit-news" data-stat-code="major_news03" data-issue-degree="">
+<span class="title01">동남아도 데이터센터 &apos;역풍&apos; 확산…물 부족에 항의시위도</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+</ul>
+<ul class="list02">
+<li>
+<div class="item-box02">
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261108027100083?section=international/all" class="tit-news" data-stat-code="major_news03" data-issue-degree="">
+<span class="title01">美국방장관·인태사령관 방중하나…미중 군사교류 확대 주목</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+<li>
+<div class="item-box02">
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261108008351009?section=international/all" class="tit-news" data-stat-code="major_news03" data-issue-degree="">
+<span class="title01">&apos;22명 사상&apos; 폴란드 총기난사 테러 혐의 수사</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+<li>
+<div class="item-box02">
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261108020700009?section=international/all" class="tit-news" data-stat-code="major_news03" data-issue-degree="">
+<span class="title01">교황, 우루과이서 폭력 규탄…&quot;젊은이들 용기 내 결혼하라&quot;</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+<li>
+<div class="item-box02">
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261108025800056?section=local/all" class="tit-news" data-stat-code="major_news03" data-issue-degree="">
+<span class="title01">국보였다가 보물 된 제주 관덕정…국보 재승격 추진</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+<li>
+<div class="item-box02">
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261108020800530?section=society/all" class="tit-news" data-stat-code="major_news03" data-issue-degree="">
+<span class="title01">&apos;인서울 신입생&apos; 서울 고교 출신 29.9%…최근 6년새 최저치</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+<li>
+<div class="item-box02">
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261108029200057?section=industry/all" class="tit-news" data-stat-code="major_news03" data-issue-degree="">
+<span class="title01">&quot;상품 추천 AI, 잘못된 결과 재학습하며 편향·오류 증폭&quot;</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+<li>
+<div class="item-box02">
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261108027600073?section=international/all" class="tit-news" data-stat-code="major_news03" data-issue-degree="">
+<span class="title01">중국서 &apos;간첩 혐의&apos; 복역한 日제약사 간부, 다음달 만기 출소</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+<li>
+<div class="item-box02">
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261106136500530?section=politics/all" class="tit-news" data-stat-code="major_news03" data-issue-degree="">
+<span class="title01">치매 명칭 변경 논의 답보…의료계 &quot;대체 용어들 부적절&quot;</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</section>
+</div>
+<div class="section02">
+<section class="box-type001 main-opinion01">
+<header class="title-con01">
+<h3 class="title-type001 arr01"><a href="https://www.yna.co.kr/opinion/index" class="tit01" data-stat-code="opinion_btn_more">오피니언</a></h3>
+</header>
+<div class="list-type070">
+<ul id="mainOpinionColumnJournal" class="list01"></ul>
+</div>
+<script id="mainOpinionJournalist_Template" type="text/x-handlebars-template">
+		<li>
+			<div class="item-box01">
+				<figure class="img-con01">
+					<a href="{{href}}" class="img" data-stat-code="journalist">
+						<img src="{{image}}" alt="{{writer}}" loading="lazy">
+					</a>
+				</figure>
+				<div class="news-con">
+					<a href="{{writerHref}}" class="txt-tag41 color20" data-stat-code="journalist_list">{{category}}</a>
+					<strong class="tit-wrap">
+						<a href="{{href}}" class="tit-news" data-stat-code="journalist">
+							<span class="title01">{{title}}</span>
+						</a>
+					</strong>
+				</div>
+			</div>
+		</li>
+	</script>
+<script id="mainOpinionColumnist_Template" type="text/x-handlebars-template">
+		<li>
+			<div class="item-box01">
+				<figure class="img-con01">
+					<a href="{{href}}" class="img" data-stat-code="opinion_column">
+						<img src="{{image}}" alt="{{writer}}" loading="lazy">
+					</a>
+				</figure>
+				<div class="news-con">
+					<a href="{{writerHref}}" class="txt-tag41 color20" data-stat-code="opinion_list">{{category}}</a>
+					<strong class="tit-wrap">
+						<a href="{{href}}" class="tit-news" data-stat-code="opinion_column">
+							<span class="title01">{{title}}</span>
+						</a>
+					</strong>
+				</div>
+			</div>
+		</li>
+	</script>
+</section>
+</div>
+</div>
+<div class="content04" >
+<section class="box-type101 main-issue01">
+<header class="title-con01">
+<h2 class="title-type001 arr01">
+<a href="https://www.yna.co.kr/issue/index" class="tit01" data-stat-code="issue_btn_more">이슈</a>
+</h2>
+</header>
+<div class="list-type051">
+<div class="swiper-area">
+<ul class="list01 swiper-wrapper">
+<li class="swiper-slide">
+<div class="item-box01 style01">
+<figure class="img-con01">
+<span class="img">
+<img src="https://img4.yna.co.kr/template/kr/20261021/kr_2561_20261021143941_P2.jpg" alt="&apos;롤러코스터&apos; 코스피" loading="lazy">
+</span>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<span class="tit-news">
+<span class="title01">&apos;롤러코스터&apos; 코스피</span>
+</span>
+</strong>
+<span class="txt-tag51"><em class="txt01">1188</em>개의 뉴스</span>
+<a href="https://www.yna.co.kr/view/IIS20260616000001365?section=issue/all" class="title02" data-stat-code="issue"><span class="ir-txt01">&apos;롤러코스터&apos; 코스피</span></a>
+</div>
+</div>
+</li>
+<li class="swiper-slide">
+<div class="item-box01 style01">
+<figure class="img-con01">
+<span class="img">
+<img src="https://img6.yna.co.kr/template/kr/20261006/kr_2561_20261006073718_P2.jpg" alt="해킹 피해 전방위 확산" loading="lazy">
+</span>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<span class="tit-news">
+<span class="title01">해킹 피해 전방위 확산</span>
+</span>
+</strong>
+<span class="txt-tag51"><em class="txt01">362</em>개의 뉴스</span>
+<a href="https://www.yna.co.kr/view/IIS20261002000001365?section=issue/all" class="title02" data-stat-code="issue"><span class="ir-txt01">해킹 피해 전방위 확산</span></a>
+</div>
+</div>
+</li>
+<li class="swiper-slide">
+<div class="item-box01 style01">
+<figure class="img-con01">
+<span class="img">
+<img src="https://img2.yna.co.kr/template/kr/20261021/kr_2561_20261021143952_P2.jpg" alt="프랑스 시위 확산" loading="lazy">
+</span>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<span class="tit-news">
+<span class="title01">프랑스 시위 확산</span>
+</span>
+</strong>
+<span class="txt-tag51"><em class="txt01">100</em>개의 뉴스</span>
+<a href="https://www.yna.co.kr/view/IIS20261020000001365?section=issue/all" class="title02" data-stat-code="issue"><span class="ir-txt01">프랑스 시위 확산</span></a>
+</div>
+</div>
+</li>
+<li class="swiper-slide">
+<div class="item-box01 style01">
+<figure class="img-con01">
+<span class="img">
+<img src="https://img2.yna.co.kr/template/kr/20260714/kr_2561_20260714084026_P2.jpg" alt="미국·이란 전쟁" loading="lazy">
+</span>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<span class="tit-news">
+<span class="title01">미국·이란 전쟁</span>
+</span>
+</strong>
+<span class="txt-tag51"><em class="txt01">5400</em>개의 뉴스</span>
+<a href="https://www.yna.co.kr/view/IIS20260223000001365?section=issue/all" class="title02" data-stat-code="issue"><span class="ir-txt01">미국·이란 전쟁</span></a>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</section>
+</div>
+<div class="content53" >
+<div class="section01">
+<section class="box-type001 main-most-news01">
+<header class="title-con01">
+<h3 class="title-type001 arr01"><a href="https://www.yna.co.kr/theme/mostviewed/index" class="tit01" data-stat-code="popularnews_btn_more">많이 본 뉴스</a></h3>
+</header>
+<div class="list-type040 number01"></div>
+<script id="mainMostNews01_Template" type="text/x-handlebars-template">
+	<li>
+		<div class="item-box01">
+			{{#if IMAGE}}
+			<figure class="img-con01">
+				<a href="{{URL}}?section=theme/mostviewed/index" class="img" data-stat-code="popularnews">
+					<img src="{{thumbnail IMAGE 'T2'}}" alt="{{escape TITLE}}" loading="lazy">
+				</a>
+			</figure>
+			{{else}}
+			<figure class="img-con01 img-none01">
+				<a href="{{URL}}?section=theme/mostviewed/index" class="img" data-stat-code="popularnews"></a>
+			</figure>
+			{{/if}}
+			<div class="news-con">
+				<strong class="tit-wrap">
+					<a href="{{URL}}?section=theme/mostviewed/index" class="tit-news" data-stat-code="popularnews">
+						<span class="title01">{{TITLE}}</span>
+					</a>
+				</strong>
+			</div>
+		</div>
+	</li>
+</script>
+</section>
+</div>
+<div class="section02">
+<section class="box-type001 main-long-stay01">
+<header class="title-con01">
+<h3 class="title-type001 arr01"><a href="https://www.yna.co.kr/theme/long-stay-news/index" class="tit01" data-stat-code="longstay_news_btn_more">오래 머문 뉴스</a></h3>
+</header>
+<div class="list-type040 number01"></div>
+<script id="mainLongStay01_Template" type="text/x-handlebars-template">
+	<li>
+		<div class="item-box01">
+			{{#if IMAGE}}
+			<figure class="img-con01">
+				<a href="{{URL}}?section=theme/long-stay-news/index" class="img" data-stat-code="longstay_news">
+					<img src="{{thumbnail IMAGE 'T2'}}" alt="{{escape TITLE}}" loading="lazy">
+				</a>
+			</figure>
+			{{else}}
+			<figure class="img-con01 img-none01">
+				<a href="{{URL}}?section=theme/long-stay-news/index" class="img" data-stat-code="longstay_news"></a>
+			</figure>
+			{{/if}}
+			<div class="news-con">
+				<strong class="tit-wrap">
+					<a href="{{URL}}?section=theme/long-stay-news/index" class="tit-news" data-stat-code="longstay_news">
+						<span class="title01">{{TITLE}}</span>
+					</a>
+				</strong>
+			</div>
+		</div>
+	</li>
+</script>
+</section>
+</div>
+<div class="section03">
+<section class="box-type001 main-resonated01">
+<header class="title-con01">
+<h3 class="title-type001 arr01">
+<a href="https://www.yna.co.kr/theme/empathic/index" class="tit01" data-stat-code="empathetic_news_btn_more"
+>공감 많은 뉴스</a>
+</h3>
+</header>
+<div class="list-type040 number01"></div>
+<script id="mainResonated01_Template" type="text/x-handlebars-template">
+	<li>
+		<div class="item-box01">
+			{{#if IMAGE}}
+			<figure class="img-con01">
+				<a href="{{URL}}?section=theme/empathic/index" class="img" data-stat-code="empathetic_news">
+					<img src="{{thumbnail IMAGE 'T2'}}" alt="{{escape TITLE}}" loading="lazy">
+				</a>
+			</figure>
+			{{else}}
+			<figure class="img-con01 img-none01">
+				<a href="{{URL}}?section=theme/empathic/index" class="img" data-stat-code="empathetic_news"></a>
+			</figure>
+			{{/if}}
+			<div class="news-con">
+				<strong class="tit-wrap">
+					<a href="{{URL}}?section=theme/empathic/index" class="tit-news" data-stat-code="empathetic_news">
+						<span class="title01">{{TITLE}}</span>
+					</a>
+				</strong>
+			</div>
+		</div>
+	</li>
+</script>
+</section>
+</div>
+</div>
+<div class="content55" >
+<div class="section01">
+<section class="box-type001 main-viewpoint01">
+<header class="title-con01">
+<h3 class="title-type001 arr01">
+<a href="https://www.yna.co.kr/international/repo" class="tit01" data-stat-code="international_repo_btn_more">특파원 르포</a>
+</h3>
+</header>
+<div class="list-type030">
+<ul class="list01">
+<li>
+<div class="item-box01">
+<figure class="img-con01">
+<a href="https://www.yna.co.kr/view/AKR20261106027100091?section=international/repo" class="img" data-stat-code="international_repo">
+<img src="https://img9.yna.co.kr/photo/ap/2025/05/31/PAP20250531100501009_P1.jpg" alt="[특파원시선] 샌프란의 안개주의보, 그리고 AI주의보" loading="lazy">
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261106027100091?section=international/repo" class="tit-news" data-stat-code="international_repo">
+<span class="title01">[특파원시선] 샌프란의 안개주의보, 그리고 AI주의보</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</section>
+</div>
+<div class="section02">
+<div data-cp="13510" data-type="auto"></div>
+</div>
+<div class="section03">
+<div data-cp="13708" data-type="auto"></div>
+</div>
+<div class="section04">
+<section class="box-type001">
+<header class="title-con01">
+<h3 class="title-type001 arr01">
+<a href="https://www.yna.co.kr/weather/index" class="tit01" rel="nofollow" data-stat-code="weather_btn_more">오늘의 날씨</a>
+</h3>
+</header>
+<div class="weather-zone">
+<div class="swiper-area">
+<ul class="list01 swiper-wrapper"></ul>
+</div>
+<div class="btns-wrap11">
+<button type="button" class="btn-dir001-prev"><span class="ir-txt01">이전 콘텐츠</span></button>
+<button type="button" class="btn-dir001-next"><span class="ir-txt01">다음 콘텐츠</span></button>
+<button type="button" class="btn-type007-play01"><span class="ir-txt01">자동 슬라이드 정지</span></button>
+</div>
+</div>
+</section>
+<script id="weatherZone_Template" type="text/x-handlebars-template">
+	<li class="swiper-slide">
+		<div class="weather-detail-info">
+			<span class="weather-space">{{city}}</span>
+			<span class="weather-temperature">{{temperature}}<span>˚C</span></span>
+			<p class="ww-img ww-img{{sky.id}}"></p>
+		</div>
+		<div class="weather-today-info">
+			<p class="weather-title">{{sky.title}}</p>
+			<strong class="txt-dust">
+				미세먼지<em class="state{{fineDust.level}}">{{fineDust.title}}</em>
+			</strong>
+		</div>
+	</li>
+</script>
+</div>
+</div>
+<div class="content54" >
+<div class="section01">
+<div data-cp="14005" data-type="auto"></div>
+</div>
+<div class="section02">
+<div data-cp="13710" data-type="auto"></div>
+</div>
+<div class="section03">
+<section class="box-type001 main-health01">
+<header class="title-con01">
+<h3 class="title-type001 arr01">
+<a href="https://www.yna.co.kr/health/index" class="tit01" data-stat-code="health_btn_more">건강</a>
+</h3>
+</header>
+<div class="list-type022">
+<ul class="list01">
+<li>
+<div class="item-box01">
+<figure class="img-con11">
+<a href="https://www.yna.co.kr/view/AKR20261106160900530?section=health/all" class="img" data-stat-code="health">
+<picture class="pic">
+<img src="https://img4.yna.co.kr/photo/cms/2018/06/15/17/C0A8CA3D000001642102E37000113A4_P1.jpeg" alt="한국인 하루 섭취열량 10년새 11% 줄어…탄수화물↓ 지방↑" loading="lazy">
+</picture>
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261106160900530?section=health/all" class="tit-news" data-stat-code="health">
+<span class="title01">한국인 하루 섭취열량 10년새 11% 줄어…탄수화물↓ 지방↑</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+<li>
+<div class="item-box01">
+<figure class="img-con11">
+<a href="https://www.yna.co.kr/view/AKR20261106115700530?section=health/all" class="img" data-stat-code="health">
+<picture class="pic">
+<source media="(max-width:1023px)" srcset="https://img1.yna.co.kr/photo/cms/2015/10/07/01/C0A8CA3D000001503FE56FAF0000A22E_P1.jpeg">
+<img src="https://img6.yna.co.kr/photo/cms/2015/10/07/01/C0A8CA3D000001503FE56FAF0000A22E_T2.jpeg" alt="[위클리 건강] 고혈압 관리 좋아졌다지만…정작 고위험군은 &apos;빨간불&apos;" loading="lazy">
+</picture>
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261106115700530?section=health/all" class="tit-news" data-stat-code="health">
+<span class="title01">[위클리 건강] 고혈압 관리 좋아졌다지만…정작 고위험군은 &apos;빨간불&apos;</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</section>
+</div>
+<div class="section04">
+<section class="box-type001 main-travel01">
+<header class="title-con01">
+<h3 class="title-type001 arr01">
+<a href="https://www.yna.co.kr/culture/travel-leisure" class="tit01" data-stat-code="travel_festival_btn_more">여행/레저</a>
+</h3>
+</header>
+<div class="list-type022">
+<ul class="list01">
+<li>
+<div class="item-box01">
+<figure class="img-con11">
+<a href="https://www.yna.co.kr/view/AKR20261006054200542?section=culture/travel-leisure" class="img" data-stat-code="travel_festival">
+<picture class="pic">
+<img src="https://img1.yna.co.kr/etc/inner/KR/2026/10/06/AKR20261006054200542_01_i_P1.jpg" alt="[건축기행] 로마네스크와 고딕의 어울림, 대구 계산대성당" loading="lazy">
+</picture>
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261006054200542?section=culture/travel-leisure" class="tit-news" data-stat-code="travel_festival">
+<span class="title01">[건축기행] 로마네스크와 고딕의 어울림, 대구 계산대성당</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+<li>
+<div class="item-box01">
+<figure class="img-con11">
+<a href="https://www.yna.co.kr/view/AKR20261107024300030?section=culture/travel-leisure" class="img" data-stat-code="travel_festival">
+<picture class="pic">
+<source media="(max-width:1023px)" srcset="https://img1.yna.co.kr/photo/yna/YH/2026/11/06/PYH2026110609480005300_P1.jpg">
+<img src="https://img6.yna.co.kr/photo/yna/YH/2026/11/06/PYH2026110609480005300_T2.jpg" alt="K-라면 수출 역대 최대 훈풍에…전국 &apos;라면 기지&apos;서 축제 잇따라" loading="lazy">
+</picture>
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261107024300030?section=culture/travel-leisure" class="tit-news" data-stat-code="travel_festival">
+<span class="title01">K-라면 수출 역대 최대 훈풍에…전국 &apos;라면 기지&apos;서 축제 잇따라</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</section>
+</div>
+</div>
+<div class="content04" >
+<section class="box-type101 main-channel01">
+<header class="title-con02">
+<h3 class="title-type001">
+<a class="tit01" href="https://www.yna.co.kr/channel/yonhapnews" data-stat-code="channel_btn_more">
+<span class="ico-label-youtube01"><i class="ir-txt01">youtube</i></span>채널
+</a>
+</h3>
+</header>
+<div class="list-type032">
+<div class="swiper-area">
+<ul class="list01 swiper-wrapper">
+<li class="swiper-slide yna01"></li>
+<li class="swiper-slide know01"></li>
+<li class="swiper-slide kvibe01"></li>
+<li class="swiper-slide tong-culture01"></li>
+<li class="swiper-slide digital01">
+<div data-cp="13517" data-type="auto"></div>
+</li>
+<li class="swiper-slide tong-living01"></li>
+<li class="swiper-slide nknow01"></li>
+<li class="swiper-slide tong-tech01"></li>
+</ul>
+<div class="btns-wrap11">
+<div class="pager01"><span class="count-box"></span></div>
+<button type="button" class="btn-dir001-prev"><span class="ir-txt01">이전 콘텐츠</span></button>
+<button type="button" class="btn-dir001-next"><span class="ir-txt01">다음 콘텐츠</span></button>
+</div>
+</div>
+</div>
+</section>
+<script id="mainChannel01_Template" type="text/x-handlebars-template">
+	<div class="item-box01 style01">
+		<figure class="img-con01">
+			<span class="label-box01">
+				<a href="{{CHANNEL_URL}}" class="btn-type100 {{CLASS_NAME}}" data-stat-code="channel_{{STAT_CODE}}_btn_more"><i class="ir-txt01">{{CHANNEL}}</i></a>
+			</span>
+			<a href="{{URL}}" class="img" data-stat-code="channel_{{STAT_CODE}}">
+				<img src="{{thumbnail IMAGE 'hq'}}" alt="{{escape TITLE}}" loading="lazy">
+			</a>
+		</figure>
+		<div class="news-con">
+			<strong class="tit-wrap">
+				<a href="{{CHANNEL_URL}}" class="txt-type002" data-stat-code="channel_{{STAT_CODE}}_btn_more"><span class="tit01">{{CHANNEL}}</span></a>
+				<a href="{{URL}}" class="tit-news" data-stat-code="channel_{{STAT_CODE}}">
+					<span class="title01">{{TITLE}}</span>
+				</a>
+			</strong>
+			<em class="ico-type02-play01"><i class="ir-txt01">재생시간</i>{{DURATION}}</em>
+		</div>
+	</div>
+</script>
+</div>
+<div class="content58" >
+<div class="section01">
+<section class="box-type001 main-people01">
+<header class="title-con01">
+<h3 class="title-type001 arr01">
+<a href="https://www.yna.co.kr/people/index" class="tit01" data-stat-code="people_btn_more">사람들</a>
+</h3>
+</header>
+<div class="list-type042">
+<ul class="list01">
+<li>
+<div class="item-box01">
+<figure class="img-con01">
+<a href="https://www.yna.co.kr/view/AKR20261106184500054?section=people/all" class="img" data-stat-code="people">
+<img src="https://img3.yna.co.kr/etc/inner/KR/2026/11/06/AKR20261106184500054_01_i_T2.jpg" alt="&apos;나이도 임용도 2년 차이&apos;…아버지 따라 소방관 된 3형제" loading="lazy">
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261106184500054?section=people/all" class="tit-news" data-stat-code="people">
+<span class="title01">&apos;나이도 임용도 2년 차이&apos;…아버지 따라 소방관 된 3형제</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+<li>
+<div class="item-box01">
+<figure class="img-con01">
+<a href="https://www.yna.co.kr/view/AKR20261105051800051?section=people/all" class="img" data-stat-code="people">
+<img src="https://img5.yna.co.kr/etc/inner/KR/2026/11/05/AKR20261105051800051_02_i_T2.jpg" alt="동래야류 지켜온 국악인 손심심…&quot;잊힌 우리 춤 되살리고파&quot;" loading="lazy">
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261105051800051?section=people/all" class="tit-news" data-stat-code="people">
+<span class="title01">동래야류 지켜온 국악인 손심심…&quot;잊힌 우리 춤 되살리고파&quot;</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+<li>
+<div class="item-box01">
+<figure class="img-con01">
+<a href="https://www.yna.co.kr/view/AKR20261103131600056?section=people/all" class="img" data-stat-code="people">
+<img src="https://img1.yna.co.kr/photo/yna/YH/2026/10/31/PYH2026103103600005600_T2.jpg" alt="[K-힙스터] 빛나지 않아 더 빛나는 &apos;제주 숨옹기&apos;…강승철 도자공예 명장" loading="lazy">
+</a>
+</figure>
+<div class="news-con">
+<strong class="tit-wrap">
+<a href="https://www.yna.co.kr/view/AKR20261103131600056?section=people/all" class="tit-news" data-stat-code="people">
+<span class="title01">[K-힙스터] 빛나지 않아 더 빛나는 &apos;제주 숨옹기&apos;…강승철 도자공예 명장</span>
+</a>
+</strong>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</section>
+</div>
+<div class="section02">
+<section class="box-type103 main-foreign01">
+<header class="title-con01">
+<h3 class="title-type001"><span class="tit01">다국어 톱뉴스</span></h3>
+</header>
+<div class="list-type041">
+<div class="swiper-area">
+<ul class="list01 swiper-wrapper"></ul>
+<div class="btns-wrap11">
+<div class="pager01"><span class="count-box"></span></div>
+<button type="button" class="btn-dir001-prev"><span class="ir-txt01">이전 콘텐츠</span></button>
+<button type="button" class="btn-dir001-next"><span class="ir-txt01">다음 콘텐츠</span></button>
+</div>
+</div>
+</div>
+</section>
+<script id="mainForeign01_Template" type="text/x-handlebars-template">
+	<div class="item-box01 {{STYLE}}">
+		{{#if IMAGE}}
+		<figure class="img-con01">
+			<a href="{{URL}}" target="_blank" class="img" rel="nofollow" data-stat-code="foreign">
+				<img src="{{thumbnail IMAGE 'T2'}}" alt="{{escape TITLE}}" loading="lazy">
+			</a>
+		</figure>
+		{{else}}
+		<figure class="img-con01 img-none01">
+			<a href="{{URL}}" class="img"></a>
+		</figure>
+		{{/if}}
+		<div class="news-con">
+			<a href="{{LANGUAGE_URL}}" target="_blank" class="txt-tag40" rel="nofollow">{{LANGUAGE}}</a>
+			<strong class="tit-wrap">
+				<a href="{{URL}}" target="_blank" class="tit-news" rel="nofollow" data-stat-code="foreign">
+					<span class="title01">{{TITLE}}</span>
+				</a>
+			</strong>
+		</div>
+	</div>
+</script>
+</div>
+<div class="section03">
+<section class="box-type103 main-local-paper01">
+<header class="title-con01">
+<h3 class="title-type001"><span class="tit01">지역지 톱뉴스</span></h3>
+</header>
+<div class="list-type043">
+<div class="swiper-area">
+<ul class="list01 swiper-wrapper"></ul>
+<div class="btns-wrap11">
+<div class="pager01"><span class="count-box"></span></div>
+<button type="button" class="btn-dir001-prev"><span class="ir-txt01">이전 콘텐츠</span></button>
+<button type="button" class="btn-dir001-next"><span class="ir-txt01">다음 콘텐츠</span></button>
+</div>
+</div>
+</div>
+</section>
+<script id="mainLocalPaper01_Template" type="text/x-handlebars-template">
+	<div class="item-box01">
+		<div class="news-con">
+			<em class="txt-tag40">{{site}}</em>
+			<strong class="tit-wrap">
+				<a href="{{href}}" target="_blank" class="tit-news" rel="nofollow" data-stat-code="local_paper">
+					<span class="title01">{{title}}</span>
+				</a>
+			</strong>
+		</div>
+	</div>
+</script>
+</div>
+</div>
+<div class="content54" >
+<div class="section01">
+<div data-cp="12743" data-type="auto"></div>
+</div>
+<div class="section02">
+<div data-cp="14218" data-type="auto"></div>
+</div>
+<div class="section03">
+<section class="box-type050 main-audio01">
+<header class="title-con01">
+<h3 class="title-type001"><span class="tit01">듣는 연합뉴스</span></h3>
+</header>
+<div class="audio-type01" data-stat-code="audio_news">
+<div class="item-box01"></div>
+<div class="audio-list01 close"></div>
+</div>
+</section>
+</div>
+<div class="section03">
+<aside class="aside-box403">
+<span class="ir-txt01">광고</span>
+<div class="area01 bnr-wrap001 people style03">
+<a href="https://www.yna.co.kr/people/personnel" rel="nofollow" data-stat-code="quick01_people_personnel">
+<span class="txt01">인사</span>
+</a>
+<a href="https://www.yna.co.kr/people/obituary-notice" rel="nofollow" data-stat-code="quick01_people_obituary_notice">
+<span class="txt01">부고</span>
+</a>
+</div>
+<div class="area01 bnr-wrap001 newspaper style03">
+<a href="https://www.yna.co.kr/report/paper" rel="nofollow" data-stat-code="quick01_opinion_paper">
+<span class="txt01">주요신문 톱뉴스 · 사설</span>
+</a>
+</div>
+<div class="area01 bnr-wrap003 style03">
+<a href="https://www.yna.co.kr/board/notice/read?itemId=64526" rel="nofollow">
+<span class="txt01">회의실(연우홀) 대관 안내</span>
+</a>
+</div>
+<div class="area01 bnr-wrap002 sociallife style03">
+<a href="//oananews.org/" rel="nofollow" target="_blank" title="새창">
+<span class="txt01">아태뉴스통신사기구</span>
+</a>
+</div>
+<div class="area01 bnr-wrap003 style03">
+<a href="https://www.yna.co.kr/policy/copyright" rel="nofollow">
+<span class="txt01">저작권 보호 시스템 상시 가동 안내</span>
+</a>
+</div>
+</aside>
+</div>
+<div class="display-none">
+<div class="tab-type02 style01 swiper-area" data-tab-align="">
+<ul class="swiper-wrapper">
+<li class="swiper-slide" data-cid="IIS20261106000001365">
+<a href="https://www.yna.co.kr/view/IIS20261106000001365?section=issue/one-off" class="tab">
+<span class="txt01">무지개 그늘</span>
+</a>
+</li>
+<li class="swiper-slide" data-cid="IIS20261027000001365">
+<a href="https://www.yna.co.kr/view/IIS20261027000001365?section=issue/one-off" class="tab">
+<span class="txt01">보안 비상</span>
+</a>
+</li>
+<li class="swiper-slide" data-cid="IIS20261021000001365">
+<a href="https://www.yna.co.kr/view/IIS20261021000001365?section=issue/one-off" class="tab">
+<span class="txt01">무늬만 국가직 공무원</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script id="toast01_Template" type="text/x-handlebars-template">
+	<div class="popup-type80">
+		<span class="txt01">{{ MESSAGE }}</span>
+	</div>
+</script>
+<div class="popup-search01">
+<div class="a11ykey-search01-start" tabindex="0"></div>
+<div class="search-zone01 active open-list">
+<fieldset>
+<legend>뉴스 검색어 입력 양식</legend>
+<div class="search-type01">
+<label for="keywordSrch01" class="ir-txt01">통합 검색</label>
+<input type="text" id="keywordSrch01" class="input01" placeholder="검색어를 입력해 주세요." autocomplete="off">
+<button type="button" class="btn-type013 btn-clear01" data-stat-code="search_btn_delete">
+<span class="ir-txt01">삭제</span>
+</button>
+<button type="button" class="btn-type012 search01" data-stat-code="search_btn_enter">
+<span class="ir-txt01">검색</span>
+</button>
+</div>
+</fieldset>
+<div class="search-auto"></div>
+</div>
+<button type="button" class="btn-type004 close01">
+<span class="ir-txt01">전체메뉴 닫기</span>
+</button>
+</div>
+<script id="campaignAlertPopup01_Template" type="text/x-handlebars-template">
+	<div class="popup-type52 pop-campaign active{{STYLE}}">
+		<div class="pop-wrap">
+			<div class="pop-content">
+				<div class="info-box01">
+					<span class="subtitle01">{{ TITLE }}</span>
+					<span class="tit01">{{ DESCRIPTION }}</span>
+					<a href="{{ URL }}" class="btn-type216 arr01{{URL_STYLE}}">
+						<span class="txt01">{{ URL_TITLE }}</span>
+					</a>
+				</div>
+				<figure class="img-con01">
+					<div class="img">
+						<img src="{{ IMAGE }}" alt="{{ IMAGE_ALT }}" loading="lazy">
+					</div>
+				</figure>
+			</div>
+			<button type="button" class="btn-type039{{CLOSE_BUTTON_STYLE}}" title="닫기">
+				<span class="ir-txt01">닫기</span>
+			</button>
+		</div>
+	</div>
+</script>
+<script id="campaignBenefitPopup01_Template" type="text/x-handlebars-template">
+	<div class="popup-type54 pop-campaign">
+		<div class="pop-wrap">
+			<div class="pop-header">
+				<strong class="tit01">{{ TITLE }}</strong>
+				<button type="button" class="btn-type004 close01" data-pop-close="pop-campaign">
+					<span class="ir-txt01">닫기</span>
+				</button>
+			</div>
+			<div class="pop-content">
+				<figure class="img-con01">
+					<span class="img">
+						<img src="{{ IMAGE }}" alt="{{ IMAGE_ALT }}" loading="lazy">
+					</span>
+				</figure>
+				<p class="tit01">{{ SUB_TITLE }}</p>
+				<span class="txt-type003 style01">
+					{{ DESCRIPTION }}
+				</span>
+				<span class="txt-time">{{ PERIOD }}</span>
+			</div>
+			<div class="btns-wrap03">
+				<a href="{{ URL }}" class="btn-type304 style01">
+					<span class="txt01">{{ URL_TITLE }}</span>
+				</a>
+				<button type="button" class="btn-type201"><span class="txt01">다시 보지 않기</span></button>
+			</div>
+		</div>
+	</div>
+</script>
+<div id="wholeMenu01" class="popup-whole-home01">
+<div class="a11ykey-menu01" tabindex="0"></div>
+<header class="pop-header">
+<a class="logo-yna02" href="https://www.yna.co.kr" aria-label="국가기간뉴스 통신사 연합뉴스"></a>
+<button type="button" class="btn-type004 close01"><span class="ir-txt01">전체메뉴 닫기</span></button>
+</header>
+<div class="pop-content">
+<div class="mem-zone01 show a11y-wholemenu-mem-zone01"></div>
+<div class="nav-major01">
+<span class="tit-nav01">뉴스</span>
+<ul class="nav-menu01">
+<li class="latest" data-nav-section="latest">
+<a href="https://www.yna.co.kr/news" data-stat-code="footer_news_latest" >최신뉴스</a>
+<span class="btn-type009">
+<span class="ico-type06-arr02"></span>
+</span>
+</li>
+<li class="politics" data-nav-section="politics">
+<a href="https://www.yna.co.kr/politics/index" data-stat-code="footer_politics_depth01" >정치</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/politics/all" data-stat-code="footer_politics_depth02">정치전체</a></li>
+<li><a href="https://www.yna.co.kr/politics/president" data-stat-code="footer_politics_depth02">청와대/총리실</a></li>
+<li><a href="https://www.yna.co.kr/politics/national-assembly" data-stat-code="footer_politics_depth02">국회/정당</a></li>
+<li><a href="https://www.yna.co.kr/politics/diplomacy" data-stat-code="footer_politics_depth02">외교</a></li>
+<li><a href="https://www.yna.co.kr/politics/defense" data-stat-code="footer_politics_depth02">국방</a></li>
+</ul>
+</li>
+<li class="nk" data-nav-section="nk">
+<a href="https://www.yna.co.kr/nk/index" target="_blank" data-stat-code="footer_nk_depth01">북한</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/nk/news/all" target="_blank" data-stat-code="footer_nk_depth02">북한전체</a></li>
+<li><a href="https://www.yna.co.kr/nk/conference/index" target="_blank" data-stat-code="footer_nk_depth02">학술/연구</a></li>
+<li><a href="https://www.yna.co.kr/nk/overview/index" target="_blank" data-stat-code="footer_nk_depth02">북한 알아보기</a></li>
+<li><a href="https://www.yna.co.kr/nk/person/index" target="_blank" data-stat-code="footer_nk_depth02">인물</a></li>
+<li><a href="https://www.yna.co.kr/nk/video/index" target="_blank" data-stat-code="footer_nk_depth02">비주얼</a></li>
+<li><a href="https://www.yna.co.kr/nk/channel/nk-now" target="_blank" data-stat-code="footer_nk_depth02">NK NOW</a></li>
+</ul>
+</li>
+<li class="economy" data-nav-section="economy">
+<a href="https://www.yna.co.kr/economy/index" data-stat-code="footer_economy_depth01" >경제</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/economy/all" data-stat-code="footer_economy_depth02">경제전체</a></li>
+<li><a href="https://www.yna.co.kr/economy/economic-policy" data-stat-code="footer_economy_depth02">경제/정책</a></li>
+<li><a href="https://www.yna.co.kr/economy/finance" data-stat-code="footer_economy_depth02">금융</a></li>
+<li><a href="https://www.yna.co.kr/economy/real-estate" data-stat-code="footer_economy_depth02">부동산</a></li>
+<li><a href="https://www.yna.co.kr/economy/job-foundation" data-stat-code="footer_economy_depth02">취업/창업</a></li>
+<li><a href="https://www.yna.co.kr/economy/consumer" data-stat-code="footer_economy_depth02">소비자</a></li>
+</ul>
+</li>
+<li class="market" data-nav-section="market">
+<a href="https://www.yna.co.kr/market-plus/index" data-stat-code="footer_market_plus_depth01" >마켓+</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/market-plus/all" data-stat-code="footer_market_plus_depth02">마켓+전체</a></li>
+<li><a href="https://www.yna.co.kr/market-plus/domestic-stock" data-stat-code="footer_market_plus_depth02">국내주식</a></li>
+<li><a href="https://www.yna.co.kr/market-plus/global-stock" data-stat-code="footer_market_plus_depth02">해외주식</a></li>
+<li><a href="https://www.yna.co.kr/market-plus/bond" data-stat-code="footer_market_plus_depth02">채권</a></li>
+<li><a href="https://www.yna.co.kr/market-plus/fund-etf" data-stat-code="footer_market_plus_depth02">펀드/ETF</a></li>
+<li><a href="https://www.yna.co.kr/market-plus/global-market" data-stat-code="footer_market_plus_depth02">글로벌시장</a></li>
+<li><a href="https://www.yna.co.kr/market-plus/financial-investment" data-stat-code="footer_market_plus_depth02">증권/운용사</a></li>
+<li><a href="https://www.yna.co.kr/market-plus/report" data-stat-code="footer_market_plus_depth02">리포트</a></li>
+<li><a href="https://www.yna.co.kr/market-plus/disclosure" data-stat-code="footer_market_plus_depth02">공시</a></li>
+</ul>
+</li>
+<li class="industry" data-nav-section="industry">
+<a href="https://www.yna.co.kr/industry/index" data-stat-code="footer_industry_depth01" >산업</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/industry/all" data-stat-code="footer_industry_depth02">산업전체</a></li>
+<li><a href="https://www.yna.co.kr/industry/industrial-enterprise" data-stat-code="footer_industry_depth02">산업/기업</a></li>
+<li><a href="https://www.yna.co.kr/industry/electronics" data-stat-code="footer_industry_depth02">전기전자</a></li>
+<li><a href="https://www.yna.co.kr/industry/heavy-chemistry" data-stat-code="footer_industry_depth02">중화학</a></li>
+<li><a href="https://www.yna.co.kr/industry/automobile" data-stat-code="footer_industry_depth02">자동차</a></li>
+<li><a href="https://www.yna.co.kr/industry/construction" data-stat-code="footer_industry_depth02">건설</a></li>
+<li><a href="https://www.yna.co.kr/industry/energy-resource" data-stat-code="footer_industry_depth02">에너지/자원</a></li>
+<li><a href="https://www.yna.co.kr/industry/technology-science" data-stat-code="footer_industry_depth02">IT/과학</a></li>
+<li><a href="https://www.yna.co.kr/industry/game" data-stat-code="footer_industry_depth02">게임</a></li>
+<li><a href="https://www.yna.co.kr/industry/distribution-service-industry" data-stat-code="footer_industry_depth02">유통/서비스</a></li>
+<li><a href="https://www.yna.co.kr/industry/venture-business" data-stat-code="footer_industry_depth02">중기/벤처</a></li>
+<li><a href="https://www.yna.co.kr/industry/bioindustry-health" data-stat-code="footer_industry_depth02">바이오/헬스</a></li>
+<li><a href="https://www.yna.co.kr/industry/agriculture" data-stat-code="footer_industry_depth02">농림축산</a></li>
+<li><a href="https://www.yna.co.kr/industry/ocean-fishery" data-stat-code="footer_industry_depth02">해양수산</a></li>
+</ul>
+</li>
+<li class="society" data-nav-section="society">
+<a href="https://www.yna.co.kr/society/index" data-stat-code="footer_society_depth01" >사회</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/society/all" data-stat-code="footer_society_depth02">사회전체</a></li>
+<li><a href="https://www.yna.co.kr/society/accident" data-stat-code="footer_society_depth02">사건/사고</a></li>
+<li><a href="https://www.yna.co.kr/society/court-police" data-stat-code="footer_society_depth02">법원/경찰</a></li>
+<li><a href="https://www.yna.co.kr/society/education" data-stat-code="footer_society_depth02">교육</a></li>
+<li><a href="https://www.yna.co.kr/society/welfare-labor" data-stat-code="footer_society_depth02">복지/노동</a></li>
+<li><a href="https://www.yna.co.kr/society/environment" data-stat-code="footer_society_depth02">환경/기후변화</a></li>
+<li><a href="https://www.yna.co.kr/society/women-child" data-stat-code="footer_society_depth02">여성/아동</a></li>
+<li><a href="https://www.yna.co.kr/society/overseas-koreans" data-stat-code="footer_society_depth02">재외동포</a></li>
+<li><a href="https://www.yna.co.kr/society/multiple-cultures" data-stat-code="footer_society_depth02">다문화</a></li>
+</ul>
+</li>
+<li class="local" data-nav-section="local">
+<a href="https://www.yna.co.kr/local/index" data-stat-code="footer_local_depth01" >전국</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/local/all" data-stat-code="footer_local_depth02" >전국전체</a></li>
+<li><a href="https://www.yna.co.kr/local/gyeonggi/index" data-stat-code="footer_local_depth02">경기</a></li>
+<li><a href="https://www.yna.co.kr/local/incheon/index" data-stat-code="footer_local_depth02">인천</a></li>
+<li><a href="https://www.yna.co.kr/local/busan/index" data-stat-code="footer_local_depth02">부산</a></li>
+<li><a href="https://www.yna.co.kr/local/ulsan/index" data-stat-code="footer_local_depth02">울산</a></li>
+<li><a href="https://www.yna.co.kr/local/gyeongnam/index" data-stat-code="footer_local_depth02">경남</a></li>
+<li><a href="https://www.yna.co.kr/local/daegu-gyeongbuk/index" data-stat-code="footer_local_depth02">대구/경북</a></li>
+<li><a href="https://www.yna.co.kr/local/jeonnam-gwangju/index" data-stat-code="footer_local_depth02">전남광주</a></li>
+<li><a href="https://www.yna.co.kr/local/jeonbuk/index" data-stat-code="footer_local_depth02">전북</a></li>
+<li><a href="https://www.yna.co.kr/local/daejeon-chungnam-sejong/index" data-stat-code="footer_local_depth02">대전/충남/세종</a></li>
+<li><a href="https://www.yna.co.kr/local/chungbuk/index" data-stat-code="footer_local_depth02">충북</a></li>
+<li><a href="https://www.yna.co.kr/local/gangwon/index" data-stat-code="footer_local_depth02">강원</a></li>
+<li><a href="https://www.yna.co.kr/local/jeju/index" data-stat-code="footer_local_depth02">제주</a></li>
+</ul>
+</li>
+<li class="intrnal" data-nav-section="intrnal">
+<a href="https://www.yna.co.kr/international/index" data-stat-code="footer_international_depth01" >세계</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/international/all" data-stat-code="footer_international_depth02">세계전체</a></li>
+<li><a href="https://www.yna.co.kr/international/correspondents/index" data-stat-code="footer_international_depth02">특파원</a></li>
+<li><a href="https://www.yna.co.kr/international/north-america" data-stat-code="footer_international_depth02">미국/북미</a></li>
+<li><a href="https://www.yna.co.kr/international/china" data-stat-code="footer_international_depth02">중국</a></li>
+<li><a href="https://www.yna.co.kr/international/japan" data-stat-code="footer_international_depth02">일본</a></li>
+<li><a href="https://www.yna.co.kr/international/asia-australia" data-stat-code="footer_international_depth02">아시아/호주</a></li>
+<li><a href="https://www.yna.co.kr/international/europe" data-stat-code="footer_international_depth02">유럽</a></li>
+<li><a href="https://www.yna.co.kr/international/centralsouth-america" data-stat-code="footer_international_depth02">중남미</a></li>
+<li><a href="https://www.yna.co.kr/international/middleeast-africa" data-stat-code="footer_international_depth02">중동/아프리카</a></li>
+<li><a href="https://www.yna.co.kr/international/international-org" data-stat-code="footer_international_depth02">국제기구</a></li>
+</ul>
+</li>
+<li class="culture" data-nav-section="culture">
+<a href="https://www.yna.co.kr/culture/index" data-stat-code="footer_culture_depth01" >문화</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/culture/all" data-stat-code="footer_culture_depth02">문화전체</a></li>
+<li><a href="https://www.yna.co.kr/culture/books" data-stat-code="footer_culture_depth02">책/문학</a></li>
+<li><a href="https://www.yna.co.kr/culture/cartoon" data-stat-code="footer_culture_depth02">만화/웹툰</a></li>
+<li><a href="https://www.yna.co.kr/culture/religion" data-stat-code="footer_culture_depth02">종교</a></li>
+<li><a href="https://www.yna.co.kr/culture/performance-exhibition" data-stat-code="footer_culture_depth02">공연/전시</a></li>
+<li><a href="https://www.yna.co.kr/culture/scholarship" data-stat-code="footer_culture_depth02">학술/문화재</a></li>
+<li><a href="https://www.yna.co.kr/culture/media" data-stat-code="footer_culture_depth02">미디어</a></li>
+<li><a href="https://www.yna.co.kr/culture/travel-leisure" data-stat-code="footer_culture_depth02">여행/레저</a></li>
+<li><a href="https://www.yna.co.kr/culture/life-information" data-stat-code="footer_culture_depth02">생활</a></li>
+</ul>
+</li>
+<li class="health" data-nav-section="health">
+<a href="https://www.yna.co.kr/health/index" data-stat-code="footer_health_depth01" >건강</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/health/all" data-stat-code="footer_health_depth02">건강전체</a></li>
+<li><a href="https://www.yna.co.kr/health/health-note" data-stat-code="footer_health_depth02">헬스노트</a></li>
+<li><a href="https://www.yna.co.kr/health/weekly-wellness" data-stat-code="footer_health_depth02">위클리 건강</a></li>
+<li><a href="https://www.yna.co.kr/health/the-health/index" data-stat-code="footer_health_depth02">더건강 영상</a></li>
+</ul>
+</li>
+<li class="ent" data-nav-section="ent">
+<a href="https://www.yna.co.kr/entertainment/index" data-stat-code="footer_entertainment_depth01" >연예</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/entertainment/all" data-stat-code="footer_entertainment_depth02">연예전체</a></li>
+<li><a href="https://www.yna.co.kr/entertainment/tv" data-stat-code="footer_entertainment_depth02">방송</a></li>
+<li><a href="https://www.yna.co.kr/entertainment/movies" data-stat-code="footer_entertainment_depth02">영화</a></li>
+<li><a href="https://www.yna.co.kr/entertainment/pop-song" data-stat-code="footer_entertainment_depth02">가요</a></li>
+<li><a href="https://www.yna.co.kr/entertainment/global-entertainment" data-stat-code="footer_entertainment_depth02">해외연예</a></li>
+</ul>
+</li>
+<li class="sports" data-nav-section="sports">
+<a href="https://www.yna.co.kr/sports/index" data-stat-code="footer_sports_depth01" >스포츠</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/sports/all" data-stat-code="footer_sports_depth02">스포츠전체</a></li>
+<li><a href="https://www.yna.co.kr/sports/baseball" data-stat-code="footer_sports_depth02">야구</a></li>
+<li><a href="https://www.yna.co.kr/sports/football" data-stat-code="footer_sports_depth02">축구</a></li>
+<li><a href="https://www.yna.co.kr/sports/basketball-volleyball" data-stat-code="footer_sports_depth02">농구/배구</a></li>
+<li><a href="https://www.yna.co.kr/sports/golf" data-stat-code="footer_sports_depth02">골프</a></li>
+</ul>
+</li>
+<li class="opinion" data-nav-section="opinion">
+<a href="https://www.yna.co.kr/opinion/index" data-stat-code="footer_opinion_depth01" >오피니언</a>
+<span class="btn-type009">
+<span class="ico-type06-arr02"></span>
+</span>
+</li>
+<li class="people" data-nav-section="people" >
+<a href="https://www.yna.co.kr/people/index" data-stat-code="footer_people_depth01">사람들</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/people/all" data-stat-code="footer_people_depth02">사람들전체</a></li>
+<li><a href="https://www.yna.co.kr/people/personnel" data-stat-code="footer_people_depth02">인사</a></li>
+<li><a href="https://www.yna.co.kr/people/obituary-notice" data-stat-code="footer_people_depth02">부고</a></li>
+<li><a href="https://www.yna.co.kr/people/movement" data-stat-code="footer_people_depth02">동정/게시판</a></li>
+<li><a href="https://www.yna.co.kr/people/ceo" data-stat-code="footer_people_depth02">CEO</a></li>
+<li><a href="https://www.yna.co.kr/people/interview" data-stat-code="footer_people_depth02">인터뷰</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="nav-other01">
+<ul class="nav-menu11">
+<li class="newsplus">
+<strong>뉴스+</strong>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/report/issue-in" data-stat-code="footer_issuein" rel="nofollow" >기획</a></li>
+<li><a href="https://www.yna.co.kr/report/factcheck" data-stat-code="footer_factcheck" rel="nofollow" >팩트체크</a></li>
+<li><a href="https://www.yna.co.kr/report/ai-prism" data-stat-code="footer_sns_world" rel="nofollow" >AI프리즘</a></li>
+<li><a href="https://www.yna.co.kr/report/pet/index" data-stat-code="footer_pet" rel="nofollow" >반려동물</a></li>
+<li><a href="https://www.yna.co.kr/brand-news/index" data-stat-code="footer_brand_news" rel="nofollow" >브랜드뉴스</a></li>
+<li><a href="https://www.yna.co.kr/issue/index" data-stat-code="footer_issue" rel="nofollow" >이슈</a></li>
+<li><a href="https://www.yna.co.kr/report/headline" data-stat-code="footer_headline" rel="nofollow" >이 시각 헤드라인</a></li>
+</ul>
+</li>
+<li class="visual">
+<a href="https://www.yna.co.kr/visual/index" data-stat-code="footer_visual_depth01">비주얼뉴스</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/video/all" data-stat-code="footer_visual_depth02" >영상</a></li>
+<li><a href="https://www.yna.co.kr/photo/major" data-stat-code="footer_visual_depth02" >포토</a></li>
+<li><a href="https://www.yna.co.kr/gallery/index" data-stat-code="footer_visual_depth02" >화보</a></li>
+<li><a href="https://www.yna.co.kr/graphic/index" data-stat-code="footer_visual_depth02" >그래픽</a></li>
+</ul>
+</li>
+<li class="theme">
+<strong>트렌드뉴스</strong>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/theme/hotnews-history" data-stat-code="footer_theme_hotnews" rel="nofollow" >핫뉴스</a></li>
+<li><a href="https://www.yna.co.kr/theme/headlines-history" data-stat-code="footer_theme_headlines" rel="nofollow" >주요뉴스</a></li>
+<li><a href="https://www.yna.co.kr/theme/breaknews-history" data-stat-code="footer_theme_breaknews" rel="nofollow" >긴급뉴스</a></li>
+<li><a href="https://www.yna.co.kr/theme/mostviewed/index" data-stat-code="footer_theme_mostviewed" rel="nofollow" >많이 본 뉴스</a></li>
+<li><a href="https://www.yna.co.kr/theme/long-stay-news/index" data-stat-code="footer_theme_longstay_news" rel="nofollow" >오래 머문 뉴스</a></li>
+<li><a href="https://www.yna.co.kr/theme/empathic/index" data-stat-code="footer_theme_empathetic_news" rel="nofollow" >공감 많은 뉴스</a></li>
+</ul>
+</li>
+<li class="lang">
+<strong>외국어 뉴스</strong>
+<ul class="menu01">
+<li class="en"><a href="https://en.yna.co.kr" target="_blank" title="새창" data-stat-code="footer_site_en">English</a></li>
+<li class="zh cg"><a href="https://cn.yna.co.kr" target="_blank" title="새창" data-stat-code="footer_site_cn">中文</a></li>
+<li class="ja"><a href="https://jp.yna.co.kr" target="_blank" title="새창" data-stat-code="footer_site_jp">日本語</a></li>
+<li class="ar"><a href="https://ar.yna.co.kr" target="_blank" title="새창" data-stat-code="footer_site_ar">عربي</a></li>
+<li class="es"><a href="https://sp.yna.co.kr" target="_blank" title="새창" data-stat-code="footer_site_sp">Español</a></li>
+<li class="fr"><a href="https://fr.yna.co.kr" target="_blank" title="새창" data-stat-code="footer_site_fr">Français</a></li>
+<li class="vi"><a href="https://vi.yna.co.kr" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_site_vi">Tiếng Việt</a></li>
+</ul>
+</li>
+<li class="product">
+<strong>뉴스상품</strong>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/product/premium" rel="nofollow" data-stat-code="footer_product_premium">프리미엄뉴스</a></li>
+<li><a href="https://www.yna.co.kr/product/newsleader" rel="nofollow" data-stat-code="footer_product_newsleader">뉴스리더</a></li>
+<li><a href="https://www.yna.co.kr/product/personalisation" rel="nofollow" data-stat-code="footer_product_personalisation">인터넷맞춤형</a></li>
+<li><a href="https://www.yna.co.kr/product/press-release" rel="nofollow" data-stat-code="footer_product_press01">보도자료 해외배포</a></li>
+<li><a href="https://www.yna.co.kr/press-release/index" rel="nofollow" data-stat-code="footer_product_press02">보도자료 국내배포</a></li>
+</ul>
+</li>
+<li class="advertisement">
+<a href="https://www.yna.co.kr/advertisement/index" rel="nofollow" data-stat-code="footer_advertise_main">광고안내</a>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/advertisement/ktx" rel="nofollow" data-stat-code="footer_advertise_ktx">KTX 고속열차</a></li>
+<li><a href="https://www.yna.co.kr/advertisement/srt" rel="nofollow" data-stat-code="footer_advertise_srt">SRT 고속열차</a></li>
+<li><a href="https://www.yna.co.kr/advertisement/arex" rel="nofollow" data-stat-code="footer_advertise_arex">AREX 공항철도</a></li>
+<li><a href="https://www.yna.co.kr/advertisement/mobile" rel="nofollow" data-stat-code="footer_advertise_mobile">모바일</a></li>
+<li><a href="https://www.yna.co.kr/advertisement/pc" rel="nofollow" data-stat-code="footer_advertise_pc">PC</a></li>
+<li><a href="https://www.yna.co.kr/advertisement/publication" rel="nofollow" data-stat-code="footer_advertise_publication">출판물</a></li>
+<li><a href="https://www.yna.co.kr/advertisement/led" rel="nofollow" data-stat-code="footer_advertise_led">LED전광판</a></li>
+<li><a href="https://www.yna.co.kr/board/business/write" rel="nofollow" data-stat-code="footer_advertise_partner">사업제휴</a></li>
+</ul>
+</li>
+<li class="sales">
+<a href="https://helloarchive.co.kr/" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_helloarchive_main">콘텐츠판매</a>
+<ul class="menu01">
+<li><a href="https://helloarchive.co.kr/press/" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_helloarchive_photo">보도사진</a></li>
+<li><a href="https://helloarchive.co.kr/graphic/" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_helloarchive_graphic">그래픽</a></li>
+<li><a href="https://helloarchive.co.kr/movie/" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_helloarchive_video">동영상</a></li>
+<li><a href="https://helloarchive.co.kr/person/" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_helloarchive_person">인물</a></li>
+</ul>
+</li>
+<li class="publication">
+<strong>출판물</strong>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/imazine/index" rel="nofollow" data-stat-code="footer_imazine">이매진</a></li>
+<li><a href="https://yearbook.yna.co.kr/" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_yearbook">연합연감</a></li>
+<li><a href="https://www.yna.co.kr/publication/koreaannual" rel="nofollow" data-stat-code="footer_enyearbook">영문연감</a></li>
+<li><a href="https://www.yna.co.kr/publication/book" rel="nofollow" data-stat-code="footer_publication_book">단행본</a></li>
+<li><a href="https://www.yonhapmidas.com/" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_midas">월간 마이더스</a></li>
+</ul>
+</li>
+<li class="service">
+<strong>서비스안내</strong>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/service/index" rel="nofollow" data-stat-code="footer_service_main">서비스 소개</a></li>
+<li><a href="https://www.yna.co.kr/service/app" rel="nofollow" data-stat-code="footer_service_app">모바일앱 안내</a></li>
+</ul>
+</li>
+</ul>
+<ul class="nav-menu12">
+<li class="safe switch-safe-link01">
+<a href="https://www.yna.co.kr/safe/index" rel="nofollow" data-stat-code="footer_safe">재난포털</a>
+</li>
+<li class="weather">
+<a href="https://www.yna.co.kr/weather/index" data-stat-code="footer_weather" rel="nofollow" >날씨</a>
+</li>
+<li class="reporter">
+<a href="https://www.yna.co.kr/reporter/index" data-stat-code="footer_reporter" rel="nofollow" >기자</a>
+</li>
+<li class="letter">
+<button data-stat-code="footer_newsletter" data-stat-code="wholemenu_newsletter">뉴스레터</button>
+</li>
+<li class="jebo">
+<a href="https://www.yna.co.kr/board/jebo/index" rel="nofollow" data-stat-code="footer_jebo">제보</a>
+</li>
+<li class="product">
+<a href="https://www.yna.co.kr/product/premium" rel="nofollow" data-stat-code="footer_product_premium">뉴스상품</a>
+</li>
+<li class="advertisement">
+<a href="https://www.yna.co.kr/advertisement/index" rel="nofollow" data-stat-code="footer_advertise">광고안내</a>
+</li>
+<li class="sales">
+<a href="https://helloarchive.co.kr/" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_helloarchive_main">콘텐츠판매</a>
+</li>
+<li class="games">
+<a href="https://games.yna.co.kr/" rel="nofollow" data-stat-code="footer_games" data-stat-code="footer_games">연합뉴스 Games</a>
+</li>
+<li class="customer">
+<a href="https://www.yna.co.kr/board/notice/list" rel="nofollow" data-stat-code="footer_customer_notice">서비스 문의</a>
+</li>
+</ul>
+<ul class="nav-menu13">
+<li class="customer">
+<a href="https://www.yna.co.kr" rel="nofollow" data-stat-code="footer_customer">서비스 문의</a>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr" rel="nofollow" data-stat-code="footer_customer">서비스 문의</a></li>
+<li><a href="https://www.yna.co.kr/board/faq/list" rel="nofollow">자주 묻는 질문</a></li>
+<li><a href="https://www.yna.co.kr/board/notice/list" rel="nofollow" data-stat-code="footer_customer_notice">공지사항</a></li>
+<li><a href="https://www.yna.co.kr/board/ask/list" rel="nofollow">1:1 문의</a></li>
+</ul>
+</li>
+<li class="partner">
+<a href="https://www.yna.co.kr/aboutus/partner" rel="nofollow" data-stat-code="footer_subscriber">계약사/제휴문의</a>
+</li>
+</ul>
+<div class="hide01 a11ykey-navi01" tabindex="0" style="height: 0px;"></div>
+</div>
+<div class="nav-menu63">
+<strong class="tit">SNS</strong>
+<p class="txt01">다양한 채널에서 연합뉴스를 만나보세요!</p>
+<a href="https://www.facebook.com/yonhap" class="btn-type006 fb" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_sns_fb"><span class="ir-txt01">연합뉴스 페이스북</span></a>
+<a href="https://www.instagram.com/yonhap_news/" class="btn-type006 ins" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_sns_ins"><span class="ir-txt01">연합뉴스 인스타그램</span></a>
+<a href="https://www.youtube.com/channel/UCj3_t5p4L4aFsvdW3uHjnnw" class="btn-type006 ytb" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_sns_youtube"><span class="ir-txt01">연합뉴스 유튜브</span></a>
+<a href="https://twitter.com/yonhaptweet" class="btn-type006 tw" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_sns_tw"><span class="ir-txt01">연합뉴스 트위터</span></a>
+</div>
+</div>
+</div>
+<div class="popup-type90" tabindex="-1">
+<div class="pop-wrap">
+<div class="pop-content">
+<span class="txt01">ESC 닫기</span>
+</div>
+</div>
+</div>
+<div class="wrap-notice01"></div>
+<script id="wrapNotice01_Template" type="text/x-handlebars-template">
+	<div class="notice-field01">
+		<strong class="title-type001 arr01">
+			<a href="https://www.yna.co.kr/board/notice/list" class="tit01" rel="nofollow" data-stat-code="bbs_notice_btn_more">공지사항</a>
+		</strong>
+		<div class="txt-con">
+			<a href="https://www.yna.co.kr{{URL}}" class="txt01" rel="nofollow" data-stat-code="bbs_notice">{{TITLE}}</a>
+			<span class="txt02">{{DATE}}</span>
+		</div>
+	</div>
+</script>
+<button type="button" class="btn-type042 btn-scroll-top display-none" data-stat-code="footer_scroll_top">
+<i class="ir-txt01">화면 상단으로 이동</i>
+</button>
+<div id="footer" class="wrap-footer hide-appview">
+<section class="footer-menu01">
+<div class="nav-menu61">
+<button class="btn-type301 style20 letter" data-stat-code="footer_newsletter">
+<span class="txt01">뉴스레터</span>
+</button>
+<a href="https://games.yna.co.kr/" class="btn-type301 style20 game" rel="nofollow" data-stat-code="footer_games">
+<span class="txt01">연합뉴스 Games</span>
+</a>
+<button class="btn-type301 style20 app">
+<span class="txt01">APP설치</span>
+</button>
+</div>
+<div class="nav-major01">
+<span class="tit-nav01">뉴스</span>
+<ul class="nav-menu01">
+<li class="latest" data-nav-section="latest">
+<a href="https://www.yna.co.kr/news" data-stat-code="footer_news_latest" >최신뉴스</a>
+<span class="btn-type009">
+<span class="ico-type06-arr02"></span>
+</span>
+</li>
+<li class="politics" data-nav-section="politics">
+<a href="https://www.yna.co.kr/politics/index" data-stat-code="footer_politics_depth01" >정치</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/politics/all" data-stat-code="footer_politics_depth02">정치전체</a></li>
+<li><a href="https://www.yna.co.kr/politics/president" data-stat-code="footer_politics_depth02">청와대/총리실</a></li>
+<li><a href="https://www.yna.co.kr/politics/national-assembly" data-stat-code="footer_politics_depth02">국회/정당</a></li>
+<li><a href="https://www.yna.co.kr/politics/diplomacy" data-stat-code="footer_politics_depth02">외교</a></li>
+<li><a href="https://www.yna.co.kr/politics/defense" data-stat-code="footer_politics_depth02">국방</a></li>
+</ul>
+</li>
+<li class="nk" data-nav-section="nk">
+<a href="https://www.yna.co.kr/nk/index" target="_blank" data-stat-code="footer_nk_depth01">북한</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/nk/news/all" target="_blank" data-stat-code="footer_nk_depth02">북한전체</a></li>
+<li><a href="https://www.yna.co.kr/nk/conference/index" target="_blank" data-stat-code="footer_nk_depth02">학술/연구</a></li>
+<li><a href="https://www.yna.co.kr/nk/overview/index" target="_blank" data-stat-code="footer_nk_depth02">북한 알아보기</a></li>
+<li><a href="https://www.yna.co.kr/nk/person/index" target="_blank" data-stat-code="footer_nk_depth02">인물</a></li>
+<li><a href="https://www.yna.co.kr/nk/video/index" target="_blank" data-stat-code="footer_nk_depth02">비주얼</a></li>
+<li><a href="https://www.yna.co.kr/nk/channel/nk-now" target="_blank" data-stat-code="footer_nk_depth02">NK NOW</a></li>
+</ul>
+</li>
+<li class="economy" data-nav-section="economy">
+<a href="https://www.yna.co.kr/economy/index" data-stat-code="footer_economy_depth01" >경제</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/economy/all" data-stat-code="footer_economy_depth02">경제전체</a></li>
+<li><a href="https://www.yna.co.kr/economy/economic-policy" data-stat-code="footer_economy_depth02">경제/정책</a></li>
+<li><a href="https://www.yna.co.kr/economy/finance" data-stat-code="footer_economy_depth02">금융</a></li>
+<li><a href="https://www.yna.co.kr/economy/real-estate" data-stat-code="footer_economy_depth02">부동산</a></li>
+<li><a href="https://www.yna.co.kr/economy/job-foundation" data-stat-code="footer_economy_depth02">취업/창업</a></li>
+<li><a href="https://www.yna.co.kr/economy/consumer" data-stat-code="footer_economy_depth02">소비자</a></li>
+</ul>
+</li>
+<li class="market" data-nav-section="market">
+<a href="https://www.yna.co.kr/market-plus/index" data-stat-code="footer_market_plus_depth01" >마켓+</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/market-plus/all" data-stat-code="footer_market_plus_depth02">마켓+전체</a></li>
+<li><a href="https://www.yna.co.kr/market-plus/domestic-stock" data-stat-code="footer_market_plus_depth02">국내주식</a></li>
+<li><a href="https://www.yna.co.kr/market-plus/global-stock" data-stat-code="footer_market_plus_depth02">해외주식</a></li>
+<li><a href="https://www.yna.co.kr/market-plus/bond" data-stat-code="footer_market_plus_depth02">채권</a></li>
+<li><a href="https://www.yna.co.kr/market-plus/fund-etf" data-stat-code="footer_market_plus_depth02">펀드/ETF</a></li>
+<li><a href="https://www.yna.co.kr/market-plus/global-market" data-stat-code="footer_market_plus_depth02">글로벌시장</a></li>
+<li><a href="https://www.yna.co.kr/market-plus/financial-investment" data-stat-code="footer_market_plus_depth02">증권/운용사</a></li>
+<li><a href="https://www.yna.co.kr/market-plus/report" data-stat-code="footer_market_plus_depth02">리포트</a></li>
+<li><a href="https://www.yna.co.kr/market-plus/disclosure" data-stat-code="footer_market_plus_depth02">공시</a></li>
+</ul>
+</li>
+<li class="industry" data-nav-section="industry">
+<a href="https://www.yna.co.kr/industry/index" data-stat-code="footer_industry_depth01" >산업</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/industry/all" data-stat-code="footer_industry_depth02">산업전체</a></li>
+<li><a href="https://www.yna.co.kr/industry/industrial-enterprise" data-stat-code="footer_industry_depth02">산업/기업</a></li>
+<li><a href="https://www.yna.co.kr/industry/electronics" data-stat-code="footer_industry_depth02">전기전자</a></li>
+<li><a href="https://www.yna.co.kr/industry/heavy-chemistry" data-stat-code="footer_industry_depth02">중화학</a></li>
+<li><a href="https://www.yna.co.kr/industry/automobile" data-stat-code="footer_industry_depth02">자동차</a></li>
+<li><a href="https://www.yna.co.kr/industry/construction" data-stat-code="footer_industry_depth02">건설</a></li>
+<li><a href="https://www.yna.co.kr/industry/energy-resource" data-stat-code="footer_industry_depth02">에너지/자원</a></li>
+<li><a href="https://www.yna.co.kr/industry/technology-science" data-stat-code="footer_industry_depth02">IT/과학</a></li>
+<li><a href="https://www.yna.co.kr/industry/game" data-stat-code="footer_industry_depth02">게임</a></li>
+<li><a href="https://www.yna.co.kr/industry/distribution-service-industry" data-stat-code="footer_industry_depth02">유통/서비스</a></li>
+<li><a href="https://www.yna.co.kr/industry/venture-business" data-stat-code="footer_industry_depth02">중기/벤처</a></li>
+<li><a href="https://www.yna.co.kr/industry/bioindustry-health" data-stat-code="footer_industry_depth02">바이오/헬스</a></li>
+<li><a href="https://www.yna.co.kr/industry/agriculture" data-stat-code="footer_industry_depth02">농림축산</a></li>
+<li><a href="https://www.yna.co.kr/industry/ocean-fishery" data-stat-code="footer_industry_depth02">해양수산</a></li>
+</ul>
+</li>
+<li class="society" data-nav-section="society">
+<a href="https://www.yna.co.kr/society/index" data-stat-code="footer_society_depth01" >사회</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/society/all" data-stat-code="footer_society_depth02">사회전체</a></li>
+<li><a href="https://www.yna.co.kr/society/accident" data-stat-code="footer_society_depth02">사건/사고</a></li>
+<li><a href="https://www.yna.co.kr/society/court-police" data-stat-code="footer_society_depth02">법원/경찰</a></li>
+<li><a href="https://www.yna.co.kr/society/education" data-stat-code="footer_society_depth02">교육</a></li>
+<li><a href="https://www.yna.co.kr/society/welfare-labor" data-stat-code="footer_society_depth02">복지/노동</a></li>
+<li><a href="https://www.yna.co.kr/society/environment" data-stat-code="footer_society_depth02">환경/기후변화</a></li>
+<li><a href="https://www.yna.co.kr/society/women-child" data-stat-code="footer_society_depth02">여성/아동</a></li>
+<li><a href="https://www.yna.co.kr/society/overseas-koreans" data-stat-code="footer_society_depth02">재외동포</a></li>
+<li><a href="https://www.yna.co.kr/society/multiple-cultures" data-stat-code="footer_society_depth02">다문화</a></li>
+</ul>
+</li>
+<li class="local" data-nav-section="local">
+<a href="https://www.yna.co.kr/local/index" data-stat-code="footer_local_depth01" >전국</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/local/all" data-stat-code="footer_local_depth02" >전국전체</a></li>
+<li><a href="https://www.yna.co.kr/local/gyeonggi/index" data-stat-code="footer_local_depth02">경기</a></li>
+<li><a href="https://www.yna.co.kr/local/incheon/index" data-stat-code="footer_local_depth02">인천</a></li>
+<li><a href="https://www.yna.co.kr/local/busan/index" data-stat-code="footer_local_depth02">부산</a></li>
+<li><a href="https://www.yna.co.kr/local/ulsan/index" data-stat-code="footer_local_depth02">울산</a></li>
+<li><a href="https://www.yna.co.kr/local/gyeongnam/index" data-stat-code="footer_local_depth02">경남</a></li>
+<li><a href="https://www.yna.co.kr/local/daegu-gyeongbuk/index" data-stat-code="footer_local_depth02">대구/경북</a></li>
+<li><a href="https://www.yna.co.kr/local/jeonnam-gwangju/index" data-stat-code="footer_local_depth02">전남광주</a></li>
+<li><a href="https://www.yna.co.kr/local/jeonbuk/index" data-stat-code="footer_local_depth02">전북</a></li>
+<li><a href="https://www.yna.co.kr/local/daejeon-chungnam-sejong/index" data-stat-code="footer_local_depth02">대전/충남/세종</a></li>
+<li><a href="https://www.yna.co.kr/local/chungbuk/index" data-stat-code="footer_local_depth02">충북</a></li>
+<li><a href="https://www.yna.co.kr/local/gangwon/index" data-stat-code="footer_local_depth02">강원</a></li>
+<li><a href="https://www.yna.co.kr/local/jeju/index" data-stat-code="footer_local_depth02">제주</a></li>
+</ul>
+</li>
+<li class="intrnal" data-nav-section="intrnal">
+<a href="https://www.yna.co.kr/international/index" data-stat-code="footer_international_depth01" >세계</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/international/all" data-stat-code="footer_international_depth02">세계전체</a></li>
+<li><a href="https://www.yna.co.kr/international/correspondents/index" data-stat-code="footer_international_depth02">특파원</a></li>
+<li><a href="https://www.yna.co.kr/international/north-america" data-stat-code="footer_international_depth02">미국/북미</a></li>
+<li><a href="https://www.yna.co.kr/international/china" data-stat-code="footer_international_depth02">중국</a></li>
+<li><a href="https://www.yna.co.kr/international/japan" data-stat-code="footer_international_depth02">일본</a></li>
+<li><a href="https://www.yna.co.kr/international/asia-australia" data-stat-code="footer_international_depth02">아시아/호주</a></li>
+<li><a href="https://www.yna.co.kr/international/europe" data-stat-code="footer_international_depth02">유럽</a></li>
+<li><a href="https://www.yna.co.kr/international/centralsouth-america" data-stat-code="footer_international_depth02">중남미</a></li>
+<li><a href="https://www.yna.co.kr/international/middleeast-africa" data-stat-code="footer_international_depth02">중동/아프리카</a></li>
+<li><a href="https://www.yna.co.kr/international/international-org" data-stat-code="footer_international_depth02">국제기구</a></li>
+</ul>
+</li>
+<li class="culture" data-nav-section="culture">
+<a href="https://www.yna.co.kr/culture/index" data-stat-code="footer_culture_depth01" >문화</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/culture/all" data-stat-code="footer_culture_depth02">문화전체</a></li>
+<li><a href="https://www.yna.co.kr/culture/books" data-stat-code="footer_culture_depth02">책/문학</a></li>
+<li><a href="https://www.yna.co.kr/culture/cartoon" data-stat-code="footer_culture_depth02">만화/웹툰</a></li>
+<li><a href="https://www.yna.co.kr/culture/religion" data-stat-code="footer_culture_depth02">종교</a></li>
+<li><a href="https://www.yna.co.kr/culture/performance-exhibition" data-stat-code="footer_culture_depth02">공연/전시</a></li>
+<li><a href="https://www.yna.co.kr/culture/scholarship" data-stat-code="footer_culture_depth02">학술/문화재</a></li>
+<li><a href="https://www.yna.co.kr/culture/media" data-stat-code="footer_culture_depth02">미디어</a></li>
+<li><a href="https://www.yna.co.kr/culture/travel-leisure" data-stat-code="footer_culture_depth02">여행/레저</a></li>
+<li><a href="https://www.yna.co.kr/culture/life-information" data-stat-code="footer_culture_depth02">생활</a></li>
+</ul>
+</li>
+<li class="health" data-nav-section="health">
+<a href="https://www.yna.co.kr/health/index" data-stat-code="footer_health_depth01" >건강</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/health/all" data-stat-code="footer_health_depth02">건강전체</a></li>
+<li><a href="https://www.yna.co.kr/health/health-note" data-stat-code="footer_health_depth02">헬스노트</a></li>
+<li><a href="https://www.yna.co.kr/health/weekly-wellness" data-stat-code="footer_health_depth02">위클리 건강</a></li>
+<li><a href="https://www.yna.co.kr/health/the-health/index" data-stat-code="footer_health_depth02">더건강 영상</a></li>
+</ul>
+</li>
+<li class="ent" data-nav-section="ent">
+<a href="https://www.yna.co.kr/entertainment/index" data-stat-code="footer_entertainment_depth01" >연예</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/entertainment/all" data-stat-code="footer_entertainment_depth02">연예전체</a></li>
+<li><a href="https://www.yna.co.kr/entertainment/tv" data-stat-code="footer_entertainment_depth02">방송</a></li>
+<li><a href="https://www.yna.co.kr/entertainment/movies" data-stat-code="footer_entertainment_depth02">영화</a></li>
+<li><a href="https://www.yna.co.kr/entertainment/pop-song" data-stat-code="footer_entertainment_depth02">가요</a></li>
+<li><a href="https://www.yna.co.kr/entertainment/global-entertainment" data-stat-code="footer_entertainment_depth02">해외연예</a></li>
+</ul>
+</li>
+<li class="sports" data-nav-section="sports">
+<a href="https://www.yna.co.kr/sports/index" data-stat-code="footer_sports_depth01" >스포츠</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/sports/all" data-stat-code="footer_sports_depth02">스포츠전체</a></li>
+<li><a href="https://www.yna.co.kr/sports/baseball" data-stat-code="footer_sports_depth02">야구</a></li>
+<li><a href="https://www.yna.co.kr/sports/football" data-stat-code="footer_sports_depth02">축구</a></li>
+<li><a href="https://www.yna.co.kr/sports/basketball-volleyball" data-stat-code="footer_sports_depth02">농구/배구</a></li>
+<li><a href="https://www.yna.co.kr/sports/golf" data-stat-code="footer_sports_depth02">골프</a></li>
+</ul>
+</li>
+<li class="opinion" data-nav-section="opinion">
+<a href="https://www.yna.co.kr/opinion/index" data-stat-code="footer_opinion_depth01" >오피니언</a>
+<span class="btn-type009">
+<span class="ico-type06-arr02"></span>
+</span>
+</li>
+<li class="people" data-nav-section="people" >
+<a href="https://www.yna.co.kr/people/index" data-stat-code="footer_people_depth01">사람들</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/people/all" data-stat-code="footer_people_depth02">사람들전체</a></li>
+<li><a href="https://www.yna.co.kr/people/personnel" data-stat-code="footer_people_depth02">인사</a></li>
+<li><a href="https://www.yna.co.kr/people/obituary-notice" data-stat-code="footer_people_depth02">부고</a></li>
+<li><a href="https://www.yna.co.kr/people/movement" data-stat-code="footer_people_depth02">동정/게시판</a></li>
+<li><a href="https://www.yna.co.kr/people/ceo" data-stat-code="footer_people_depth02">CEO</a></li>
+<li><a href="https://www.yna.co.kr/people/interview" data-stat-code="footer_people_depth02">인터뷰</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="nav-other01">
+<ul class="nav-menu11">
+<li class="newsplus">
+<strong>뉴스+</strong>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/report/issue-in" data-stat-code="footer_issuein" rel="nofollow" >기획</a></li>
+<li><a href="https://www.yna.co.kr/report/factcheck" data-stat-code="footer_factcheck" rel="nofollow" >팩트체크</a></li>
+<li><a href="https://www.yna.co.kr/report/ai-prism" data-stat-code="footer_sns_world" rel="nofollow" >AI프리즘</a></li>
+<li><a href="https://www.yna.co.kr/report/pet/index" data-stat-code="footer_pet" rel="nofollow" >반려동물</a></li>
+<li><a href="https://www.yna.co.kr/brand-news/index" data-stat-code="footer_brand_news" rel="nofollow" >브랜드뉴스</a></li>
+<li><a href="https://www.yna.co.kr/issue/index" data-stat-code="footer_issue" rel="nofollow" >이슈</a></li>
+<li><a href="https://www.yna.co.kr/report/headline" data-stat-code="footer_headline" rel="nofollow" >이 시각 헤드라인</a></li>
+</ul>
+</li>
+<li class="visual">
+<a href="https://www.yna.co.kr/visual/index" data-stat-code="footer_visual_depth01">비주얼뉴스</a>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/video/all" data-stat-code="footer_visual_depth02" >영상</a></li>
+<li><a href="https://www.yna.co.kr/photo/major" data-stat-code="footer_visual_depth02" >포토</a></li>
+<li><a href="https://www.yna.co.kr/gallery/index" data-stat-code="footer_visual_depth02" >화보</a></li>
+<li><a href="https://www.yna.co.kr/graphic/index" data-stat-code="footer_visual_depth02" >그래픽</a></li>
+</ul>
+</li>
+<li class="theme">
+<strong>트렌드뉴스</strong>
+<button type="button" class="btn-type009">
+<i class="ico-type06-arr01">메뉴 열기/닫기</i>
+</button>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/theme/hotnews-history" data-stat-code="footer_theme_hotnews" rel="nofollow" >핫뉴스</a></li>
+<li><a href="https://www.yna.co.kr/theme/headlines-history" data-stat-code="footer_theme_headlines" rel="nofollow" >주요뉴스</a></li>
+<li><a href="https://www.yna.co.kr/theme/breaknews-history" data-stat-code="footer_theme_breaknews" rel="nofollow" >긴급뉴스</a></li>
+<li><a href="https://www.yna.co.kr/theme/mostviewed/index" data-stat-code="footer_theme_mostviewed" rel="nofollow" >많이 본 뉴스</a></li>
+<li><a href="https://www.yna.co.kr/theme/long-stay-news/index" data-stat-code="footer_theme_longstay_news" rel="nofollow" >오래 머문 뉴스</a></li>
+<li><a href="https://www.yna.co.kr/theme/empathic/index" data-stat-code="footer_theme_empathetic_news" rel="nofollow" >공감 많은 뉴스</a></li>
+</ul>
+</li>
+<li class="lang">
+<strong>외국어 뉴스</strong>
+<ul class="menu01">
+<li class="en"><a href="https://en.yna.co.kr" target="_blank" title="새창" data-stat-code="footer_site_en">English</a></li>
+<li class="zh cg"><a href="https://cn.yna.co.kr" target="_blank" title="새창" data-stat-code="footer_site_cn">中文</a></li>
+<li class="ja"><a href="https://jp.yna.co.kr" target="_blank" title="새창" data-stat-code="footer_site_jp">日本語</a></li>
+<li class="ar"><a href="https://ar.yna.co.kr" target="_blank" title="새창" data-stat-code="footer_site_ar">عربي</a></li>
+<li class="es"><a href="https://sp.yna.co.kr" target="_blank" title="새창" data-stat-code="footer_site_sp">Español</a></li>
+<li class="fr"><a href="https://fr.yna.co.kr" target="_blank" title="새창" data-stat-code="footer_site_fr">Français</a></li>
+<li class="vi"><a href="https://vi.yna.co.kr" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_site_vi">Tiếng Việt</a></li>
+</ul>
+</li>
+<li class="product">
+<strong>뉴스상품</strong>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/product/premium" rel="nofollow" data-stat-code="footer_product_premium">프리미엄뉴스</a></li>
+<li><a href="https://www.yna.co.kr/product/newsleader" rel="nofollow" data-stat-code="footer_product_newsleader">뉴스리더</a></li>
+<li><a href="https://www.yna.co.kr/product/personalisation" rel="nofollow" data-stat-code="footer_product_personalisation">인터넷맞춤형</a></li>
+<li><a href="https://www.yna.co.kr/product/press-release" rel="nofollow" data-stat-code="footer_product_press01">보도자료 해외배포</a></li>
+<li><a href="https://www.yna.co.kr/press-release/index" rel="nofollow" data-stat-code="footer_product_press02">보도자료 국내배포</a></li>
+</ul>
+</li>
+<li class="advertisement">
+<a href="https://www.yna.co.kr/advertisement/index" rel="nofollow" data-stat-code="footer_advertise_main">광고안내</a>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/advertisement/ktx" rel="nofollow" data-stat-code="footer_advertise_ktx">KTX 고속열차</a></li>
+<li><a href="https://www.yna.co.kr/advertisement/srt" rel="nofollow" data-stat-code="footer_advertise_srt">SRT 고속열차</a></li>
+<li><a href="https://www.yna.co.kr/advertisement/arex" rel="nofollow" data-stat-code="footer_advertise_arex">AREX 공항철도</a></li>
+<li><a href="https://www.yna.co.kr/advertisement/mobile" rel="nofollow" data-stat-code="footer_advertise_mobile">모바일</a></li>
+<li><a href="https://www.yna.co.kr/advertisement/pc" rel="nofollow" data-stat-code="footer_advertise_pc">PC</a></li>
+<li><a href="https://www.yna.co.kr/advertisement/publication" rel="nofollow" data-stat-code="footer_advertise_publication">출판물</a></li>
+<li><a href="https://www.yna.co.kr/advertisement/led" rel="nofollow" data-stat-code="footer_advertise_led">LED전광판</a></li>
+<li><a href="https://www.yna.co.kr/board/business/write" rel="nofollow" data-stat-code="footer_advertise_partner">사업제휴</a></li>
+</ul>
+</li>
+<li class="sales">
+<a href="https://helloarchive.co.kr/" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_helloarchive_main">콘텐츠판매</a>
+<ul class="menu01">
+<li><a href="https://helloarchive.co.kr/press/" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_helloarchive_photo">보도사진</a></li>
+<li><a href="https://helloarchive.co.kr/graphic/" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_helloarchive_graphic">그래픽</a></li>
+<li><a href="https://helloarchive.co.kr/movie/" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_helloarchive_video">동영상</a></li>
+<li><a href="https://helloarchive.co.kr/person/" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_helloarchive_person">인물</a></li>
+</ul>
+</li>
+<li class="publication">
+<strong>출판물</strong>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/imazine/index" rel="nofollow" data-stat-code="footer_imazine">이매진</a></li>
+<li><a href="https://yearbook.yna.co.kr/" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_yearbook">연합연감</a></li>
+<li><a href="https://www.yna.co.kr/publication/koreaannual" rel="nofollow" data-stat-code="footer_enyearbook">영문연감</a></li>
+<li><a href="https://www.yna.co.kr/publication/book" rel="nofollow" data-stat-code="footer_publication_book">단행본</a></li>
+<li><a href="https://www.yonhapmidas.com/" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_midas">월간 마이더스</a></li>
+</ul>
+</li>
+<li class="service">
+<strong>서비스안내</strong>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr/service/index" rel="nofollow" data-stat-code="footer_service_main">서비스 소개</a></li>
+<li><a href="https://www.yna.co.kr/service/app" rel="nofollow" data-stat-code="footer_service_app">모바일앱 안내</a></li>
+</ul>
+</li>
+</ul>
+<ul class="nav-menu12">
+<li class="safe switch-safe-link01">
+<a href="https://www.yna.co.kr/safe/index" rel="nofollow" data-stat-code="footer_safe">재난포털</a>
+</li>
+<li class="weather">
+<a href="https://www.yna.co.kr/weather/index" data-stat-code="footer_weather" rel="nofollow" >날씨</a>
+</li>
+<li class="reporter">
+<a href="https://www.yna.co.kr/reporter/index" data-stat-code="footer_reporter" rel="nofollow" >기자</a>
+</li>
+<li class="letter">
+<button data-stat-code="footer_newsletter" data-stat-code="wholemenu_newsletter">뉴스레터</button>
+</li>
+<li class="jebo">
+<a href="https://www.yna.co.kr/board/jebo/index" rel="nofollow" data-stat-code="footer_jebo">제보</a>
+</li>
+<li class="product">
+<a href="https://www.yna.co.kr/product/premium" rel="nofollow" data-stat-code="footer_product_premium">뉴스상품</a>
+</li>
+<li class="advertisement">
+<a href="https://www.yna.co.kr/advertisement/index" rel="nofollow" data-stat-code="footer_advertise">광고안내</a>
+</li>
+<li class="sales">
+<a href="https://helloarchive.co.kr/" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_helloarchive_main">콘텐츠판매</a>
+</li>
+<li class="games">
+<a href="https://games.yna.co.kr/" rel="nofollow" data-stat-code="footer_games" data-stat-code="footer_games">연합뉴스 Games</a>
+</li>
+<li class="customer">
+<a href="https://www.yna.co.kr/board/notice/list" rel="nofollow" data-stat-code="footer_customer_notice">서비스 문의</a>
+</li>
+</ul>
+<ul class="nav-menu13">
+<li class="customer">
+<a href="https://www.yna.co.kr" rel="nofollow" data-stat-code="footer_customer">서비스 문의</a>
+<ul class="menu01">
+<li><a href="https://www.yna.co.kr" rel="nofollow" data-stat-code="footer_customer">서비스 문의</a></li>
+<li><a href="https://www.yna.co.kr/board/faq/list" rel="nofollow">자주 묻는 질문</a></li>
+<li><a href="https://www.yna.co.kr/board/notice/list" rel="nofollow" data-stat-code="footer_customer_notice">공지사항</a></li>
+<li><a href="https://www.yna.co.kr/board/ask/list" rel="nofollow">1:1 문의</a></li>
+</ul>
+</li>
+<li class="partner">
+<a href="https://www.yna.co.kr/aboutus/partner" rel="nofollow" data-stat-code="footer_subscriber">계약사/제휴문의</a>
+</li>
+</ul>
+<div class="hide01 a11ykey-navi01" tabindex="0" style="height: 0px;"></div>
+</div>
+<div class="lang-zone02 swiper-area">
+<ul class="lang-list swiper-wrapper">
+<li class="swiper-slide en"><a href="https://en.yna.co.kr" target="_blank" title="(새창)English" rel="nofollow">English</a></li>
+<li class="swiper-slide zh cg"><a href="https://cn.yna.co.kr" target="_blank" title="(새창)Chinese Simplified Chinese characters" rel="nofollow">中文</a></li>
+<li class="swiper-slide ja"><a href="https://jp.yna.co.kr" target="_blank" title="(새창)Japanese" rel="nofollow">日文</a></li>
+<li class="swiper-slide ar"><a href="https://ar.yna.co.kr" target="_blank" title="(새창)Arabic" rel="nofollow">عربي</a></li>
+<li class="swiper-slide es"><a href="https://sp.yna.co.kr" target="_blank" title="(새창)Spanish" rel="nofollow">Español</a></li>
+<li class="swiper-slide fr"><a href="https://fr.yna.co.kr" target="_blank" title="(새창)French" rel="nofollow">Français</a></li>
+<li class="swiper-slide vi"><a href="https://vi.yna.co.kr" target="_blank" title="(새창)Vietnamese" rel="nofollow">Tiếng Việt</a></li>
+</ul>
+</div>
+</section>
+<section class="footer-menu02">
+<div class="nav-menu62">
+<strong class="tit">유튜브 채널</strong>
+<a href="https://www.youtube.com/channel/UCj3_t5p4L4aFsvdW3uHjnnw" class="btn-type202 yna a11y-footer-menu01" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_channel_yonhapnews"><span class="txt01">연합뉴스</span></a>
+<a href="https://www.youtube.com/channel/UCHzW_7Mf8G0JxP4b0LoAd7A" class="btn-type202 tong-culture" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_channel_tongtongtv"><span class="txt01">K-Culture NOW</span></a>
+<a href="https://www.youtube.com/channel/UC9iULDnKYrLSjDgekRw_n9w" class="btn-type202 tong-tech" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_channel_tongtong_tech"><span class="txt01">통통테크</span></a>
+<a href="https://www.youtube.com/channel/UCXjpzeB8_4F5kSiQYU5Ekvg?reload=9" class="btn-type202 tong-living" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_channel_tongtong_living"><span class="txt01">더건강</span></a>
+<a href="https://www.youtube.com/channel/UCR-L8oZkHzgDh1ahJhH2WDQ" class="btn-type202 know" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_channel_korea_now"><span class="txt01">KOREA NOW</span></a>
+<a href="https://www.youtube.com/channel/UChX-Cgkfava-G-LlfwC9v_g" class="btn-type202 nknow" target="_blank" title="새창" rel="nofollow" data-stat-code=" footer_channel_nk_now"><span class="txt01">NK NOW</span></a>
+<a href="https://www.youtube.com/@KVIBE_yonhap" class="btn-type202 kvibe" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_channel_kvibe"><span class="txt01">K-VIBE</span></a>
+</div>
+<div class="nav-menu63">
+<strong class="tit">SNS</strong>
+<p class="txt01">다양한 채널에서 연합뉴스를 만나보세요!</p>
+<a href="https://www.facebook.com/yonhap" class="btn-type006 fb" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_sns_fb"><span class="ir-txt01">연합뉴스 페이스북</span></a>
+<a href="https://www.instagram.com/yonhap_news/" class="btn-type006 ins" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_sns_ins"><span class="ir-txt01">연합뉴스 인스타그램</span></a>
+<a href="https://www.youtube.com/channel/UCj3_t5p4L4aFsvdW3uHjnnw" class="btn-type006 ytb" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_sns_youtube"><span class="ir-txt01">연합뉴스 유튜브</span></a>
+<a href="https://twitter.com/yonhaptweet" class="btn-type006 tw" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_sns_tw"><span class="ir-txt01">연합뉴스 트위터</span></a>
+</div>
+</section>
+<footer class="footer-site01">
+<div class="area">
+<a class="logo-yna05" href="https://www.yna.co.kr" aria-label="국가기간뉴스 통신사 연합뉴스">
+</a>
+<address class="txt-address01">
+<span>연합뉴스 : 서울시 종로구 율곡로 2길 25</span>
+<span>대표 02-398-3114, 제보 02-398-3000</span>
+<span>대표이사 : 황대일</span>
+<span>편집인 : 김병수</span>
+<span>등록번호 : 문화, 나00009</span>
+<span>등록일자 : 1980.12.29</span>
+<span>발행일자 : 1980.12.29</span>
+<span>사업자번호 : 102-81-23273</span>
+<span>통신판매업신고번호 : 2014-서울종로-0124</span>
+<span class="terms">
+<a href="https://join.yna.co.kr/ko/policy/terms" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_policy_terms">이용약관</a>
+<a href="https://join.yna.co.kr/ko/policy/privacy" target="_blank" title="새창" rel="nofollow" class="bold" data-stat-code="footer_privacy_policy">개인정보처리방침</a>
+<a href="https://join.yna.co.kr/ko/policy/youth" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_youth_policy">청소년보호정책(책임자 : 조재영)</a>
+</span>
+</address>
+<p class="txt-copyright01">©2026 Yonhapnews Agency</p>
+<div class="family-site">
+<button type="button" class="btn-type400-open"><span class="txt01">Family site</span><span class="ico-type05-open"><i class="ir-txt01">열기</i></span></button>
+<ul class="list01">
+<li>
+<a href="https://helloarchive.co.kr" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_family_helloarchive">헬로아카이브</a>
+</li>
+<li>
+<a href="https://www.yonhapnewstv.co.kr" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_family_yonhapnewstv">연합뉴스TV</a>
+</li>
+<li>
+<a href="https://news.einfomax.co.kr" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_family_infomax">인포맥스</a>
+</li>
+<li>
+<a href="https://www.koreancenter.or.kr" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_family_koreancenter">한민족센터</a>
+</li>
+<li>
+<a href="https://korean-vibe.com" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_family_kvibe">K-VIBE</a>
+</li>
+<li>
+<a href="https://recruit.yna.co.kr" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_family_recruit">채용</a>
+</li>
+<li>
+<a href="https://www.yna.co.kr/irclub/index" target="_blank" title="새창" rel="nofollow" data-stat-code="footer_family_irclub">IR 클럽</a>
+</li>
+</ul>
+<button type="button" class="btn-type400-close">
+<span class="ico-type05-close"><i class="ir-txt01">Family site 닫기</i></span>
+</button>
+</div>
+</div>
+</footer>
+<ul class="footer-menu03">
+<li><a href="https://www.yna.co.kr/aboutus/company/index" rel="nofollow" data-stat-code="footer_aboutus">회사소개</a></li>
+<li><a href="https://recruit.yna.co.kr/" target="_blank" rel="nofollow" data-stat-code="footer_recruit">채용</a></li>
+<li><a href="https://www.yna.co.kr/policy/ethics" rel="nofollow" data-stat-code="footer_policy_ethics">윤리헌장</a></li>
+<li><a href="https://www.yna.co.kr/policy/copyright" rel="nofollow" data-stat-code="footer_copyright">저작권규약</a></li>
+<li><a href="https://www.yna.co.kr/policy/ai-usage-guidelines" rel="nofollow" data-stat-code="footer_user_ai_usage">AI 활용 준칙</a></li>
+<li><a href="https://www.yna.co.kr/board/rights/list" rel="nofollow" data-stat-code="footer_user_committee">수용자권익위원회</a></li>
+<li><a href="https://www.yna.co.kr/policy/complaint" rel="nofollow" data-stat-code="footer_ombudsman">고충처리</a></li>
+<li><a href="https://www.yna.co.kr/board/reader/list" rel="nofollow" data-stat-code="footer_bbs_reader">독자게시판</a></li>
+<li><a href="https://www.yna.co.kr/board/jebo/index" rel="nofollow" data-stat-code="footer_jebo">제보</a></li>
+<li><a href="https://www.yna.co.kr/press-release/index" rel="nofollow" data-stat-code="footer_press_release">보도자료</a></li>
+<li><a href="https://www.yna.co.kr/board/notice/list" rel="nofollow" data-stat-code="footer_customer">서비스 문의</a></li>
+<li><a href="https://www.yna.co.kr/rss/index" data-stat-code="footer_rss">RSS</a></li>
+<li><a href="https://www.yna.co.kr/sitemap/index" data-stat-code="footer_sitemap">사이트맵</a></li>
+</ul>
+</div>
+<aside class="aside-box381 sticky bottom-banner display-none">
+<span class="ir-txt01">광고</span>
+<div class="area01">
+<style>
+yna-ad-script[data-id="div-gpt-ad-1767163088956-0"],
+#div-gpt-ad-1767163088956-0 {
+display: flex !important;
+justify-content: center !important;
+align-items: center !important;
+width: 100% !important;
+}
+#div-gpt-ad-1767163088956-0 > div[id$="__container__"] {
+display: flex !important;
+justify-content: center !important; /* 내부 iframe을 무조건 정중앙으로! */
+align-items: center !important;
+width: 440px !important;
+margin: 0 auto !important;
+}
+#div-gpt-ad-1767163088956-0 iframe[width*="440"],
+yna-ad-script[data-id="div-gpt-ad-1767163088956-0"] iframe[width*="440"] {
+width: calc(100% - 40px) !important;
+height: 50px !important;}
+</style>
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js" crossorigin="anonymous"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+           googletag.defineSlot('/21961356670/yonhap_korean_moblie_sticky_320x50_251231', [[320, 50], [440, 50], 'fluid'], 'div-gpt-ad-1767163088956-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+<yna-ad-script data-id="div-gpt-ad-1767163088956-0" style="width: 100%; min-height: 50px;" data-mobile-ad="true" data-app-ad="false"></yna-ad-script>
+<script>
+	window["div-gpt-ad-1767163088956-0"] = function() {
+		googletag.cmd.push(function() { googletag.display("div-gpt-ad-1767163088956-0"); });
+	}
+</script>
+</div>
+<button type="button" class="btn-type309 btn-close01"><span class="txt01">광고삭제</span></button>
+</aside>
+</div>
+<script id="stockTicker01_Template" type="text/x-handlebars-template">
+	<strong>{{DATE}}</strong><span>{{TIME}}</span>
+</script>
+<script id="stockTicker02_Template" type="text/x-handlebars-template">
+	<li class="{{CLASS}}">
+		<div class="box">
+			<span class="unit01">{{TITLE}}</span>
+			<span class="unit02">{{UNIT02}}</span>
+			<span class="unit03">{{UNIT03}}</span>
+			<span class="unit04">{{UNIT04}}</span>
+		</div>
+	</li>
+</script>
+<script id="stockTicker03_Template" type="text/x-handlebars-template">
+	<h3><a href="https://www.yna.co.kr/market-plus/index" class="title-type034" data-stat-code="market_plus_ticker_btn_more">
+		<strong class="title01">마켓+</strong><span class="txt01">연합뉴스 프리미엄 금융투자섹션</span>
+	</a></h3>
+</script>
+<script id="stockTicker04_Template" type="text/x-handlebars-template">
+	<div class="ticker-type03">
+		<div class="time"></div>
+		<div class="ticker play">
+			<ul class="list01"></ul>
+			<ul class="list01"></ul>
+		</div>
+	</div>
+</script>
+<script id="removeYtb" type="application/json">
+{
+	/* 입력 예시 | 연합뉴스 채널
+	※ 유튜브 id 값 입력시 따옴표 사용
+	"yonhapnews": [], 입력 값 없을 때
+	"yonhapnews": ["DqJQ4ImNgsk"], 1개 입력
+	"yonhapnews": ["3d893ig776Y","_V4CGU-6s6w"], 2개 입력 */
+
+	//연합뉴스 채널
+	"yonhapnews": [],
+	//코리아나우 채널
+	"korea-now": [""],
+    //K-vibe 채널
+	"k-vibe": ["LF7WYSC6Eno"],
+	//통통컬처 채널
+	"tongtongtv": [],
+	//통통테크 채널
+	"tongtong-tech": [],
+	//더건강 채널
+	"tongtong-living": [],
+	//NK코리아나우 채널 (북한)
+	"nk-now": []
+}
+</script>
+<yna-ad-script src="https://ad.yna.co.kr/RealMedia/ads/adstream_sx.ads/yna/main@TopLeft?ads-top01"></yna-ad-script>
+<yna-ad-script src="https://ad.yna.co.kr/RealMedia/ads/adstream_sx.ads/yna/main@TopRight?ads-top02"></yna-ad-script>
+<yna-ad-script src="https://ad.yna.co.kr/RealMedia/ads/adstream_sx.ads/yna/main@Middle1?ads-main-banner01"></yna-ad-script>
+<yna-ad-script src="https://ad.yna.co.kr/RealMedia/ads/adstream_sx.ads/yna/main@Middle3?ads-main-juyo02"></yna-ad-script>
+<yna-ad-script src="https://ad.yna.co.kr/RealMedia/ads/adstream_sx.ads/yna/main@Middle4?ads-main-juyo03"></yna-ad-script>
+<script id="siteJsonData">
+(function(){
+	SITE_DATA = JSON.stringify({
+		"SITE_ID":"000100000000",
+		"SITE_DEPTH":"1",
+		"SITE1_LINK":"/index",
+		"SITE1_LINK_NAME01":"index",
+		"SITE1_NAME":"연합뉴스",
+		"SITE1_NAME_APP":"연합뉴스",
+		"SITE2_LINK":"",
+		"SITE2_NAME":"",
+		"SITE2_NAME_APP":"",
+		"SITE3_LINK":"",
+		"SITE3_NAME":"",
+		"SITE3_NAME_APP":"",
+		"SITE_NAME":"연합뉴스",
+		"SITE_NAME_APP":"연합뉴스",
+		"SITE_SECTION":"/index",
+		"PAGE_TYPE": "",
+		"PAGE_PATH":"/",
+		"PAGE_NAME":"index",
+	});
+})();
+</script>
+<input type="hidden" id="domainId" value="1101">
+<script src="https://rd.yna.co.kr/common/js/cp.js?v=20261029_1555"></script>
+<script src="https://r.yna.co.kr/www/home_n/v03/js/global.js?v=20261029_1555"></script>
+<script src="https://r.yna.co.kr/www/home_n/v03/js/common.js?v=20261013_1350"></script>
+</body>
+</html>

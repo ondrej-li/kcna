@@ -1,0 +1,10 @@
+{{ define "main" }}
+<h1 class="list-heading">Hledání v archivu</h1>
+<form class="search-form" role="search" onsubmit="return false">
+  <label for="q" class="search-status">Hledat ve {{ len (where site.RegularPages "Section" "zpravy") }} zprávách</label>
+  <input class="search-input" id="q" name="q" type="search" placeholder="např. Kim Čong Un, Pchjongjang, propaganda…" autocomplete="off" autofocus>
+</form>
+<p class="search-status" id="search-status" aria-live="polite"></p>
+<ol class="search-results" id="search-results"></ol>
+<script src="/js/search.js" defer></script>
+{{ end }}

@@ -1,0 +1,23 @@
+{{ define "main" }}
+{{ $posts := sort (where site.RegularPages "Section" "zpravy") "Date" "desc" }}
+<h1 class="list-heading">Archiv · {{ len $posts }} zpráv</h1>
+
+{{ range $posts.GroupByDate "2006" }}
+<section class="archive-year" id="y{{ .Key }}">
+  <h2>{{ .Key }}</h2>
+  {{ range .Pages.GroupByDate "01" }}
+    {{ $count := len .Pages }}
+    {{ $noun := "zpráv" }}
+    {{ if eq $count 1 }}{{ $noun = "zpráva" }}{{ else if lt $count 5 }}{{ $noun = "zprávy" }}{{ end }}
+    <details class="archive-month">
+      <summary>{{ partial "month-name.html" .Key }} <span class="count">{{ $count }} {{ $noun }}</span></summary>
+      <ul>
+        {{ range .Pages }}
+        <li><span class="day">{{ .Date.Day }}.</span> <a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{ end }}
+      </ul>
+    </details>
+  {{ end }}
+</section>
+{{ end }}
+{{ end }}

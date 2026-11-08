@@ -1,0 +1,4 @@
+{{- $posts := sort (where site.RegularPages "Section" "zpravy") "Date" "asc" -}}
+{{- if $posts -}}
+{{- printf "%d–%d" (index $posts 0).Date.Year (index $posts (sub (len $posts) 1)).Date.Year -}}
+{{- end -}}

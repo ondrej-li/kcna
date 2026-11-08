@@ -1,0 +1,54 @@
+{{ define "main" }}
+<article class="post">
+  <header class="post-header">
+    <h1>{{ .Title }}</h1>
+    <p class="meta">
+      <span class="star">★</span>
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ partial "date.html" .Date }}</time>
+      {{- with .Params.popisky }}
+        <span class="meta__labels">{{ delimit . ", " }}</span>
+      {{- end }}
+    </p>
+  </header>
+
+  <div class="post-body">
+    {{ .Content }}
+  </div>
+
+  {{ with .Params.popisky }}
+  {{ partial "label-links.html" $ }}
+  {{ end }}
+
+  {{ $older := false }}{{ $newer := false }}
+  {{ with .PrevInSection }}{{ if .Date.Before $.Date }}{{ $older = . }}{{ else }}{{ $newer = . }}{{ end }}{{ end }}
+  {{ with .NextInSection }}{{ if .Date.Before $.Date }}{{ $older = . }}{{ else }}{{ $newer = . }}{{ end }}{{ end }}
+  {{ if or $older $newer }}
+  <nav class="post-nav" aria-label="Další zprávy">
+    {{ with $older }}
+      <a href="{{ .RelPermalink }}"><span class="dir">← Předchozí zpráva</span>{{ .Title }}</a>
+    {{ end }}
+    {{ with $newer }}
+      <a class="post-nav__next" href="{{ .RelPermalink }}"><span class="dir">Následující zpráva →</span>{{ .Title }}</a>
+    {{ end }}
+  </nav>
+  {{ end }}
+
+  {{ $key := .RelPermalink | strings.TrimPrefix "/" | strings.TrimSuffix ".html" | replaceRE "/" "__" }}
+  {{ $comments := index site.Data.comments $key }}
+  {{ with $comments }}
+  <section class="comments" id="komentare">
+    <h2>Komentáře ({{ len . }})</h2>
+    {{ range . }}
+    <div class="comment">
+      <div class="comment__head">
+        <span class="comment__author">{{ .author }}</span>
+        <time datetime="{{ .date }}">{{ partial "date.html" .date }} · {{ (time.AsTime .date).Format "15:04" }}</time>
+      </div>
+      <div class="comment__text">{{ .text | safeHTML }}</div>
+    </div>
+    {{ end }}
+    <p class="comments__note">Diskuze je uzavřená. Původní komentáře z Bloggeru jsou zachovány výše, nový systém komentářů bude doplněn.</p>
+  </section>
+  {{ end }}
+</article>
+{{ end }}

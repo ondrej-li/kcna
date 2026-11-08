@@ -1,0 +1,36 @@
+{{- $posts := sort (where site.RegularPages "Section" "zpravy") "Date" "desc" -}}
+<div class="widget">
+  <h2>Nepřehlédněte</h2>
+  <p><a href="/2012/05/vyprava-do-kldr-2012.html">Výprava do KLDR 2012</a> — reportáž z cesty po
+    místech, o kterých píše KCNA.</p>
+</div>
+<div class="widget">
+  <h2>O blogu</h2>
+  <p>Pokud máte nějaký zajímavý text, zdroj informací z KLDR apod., neváhejte mě kontaktovat na
+    <a href="mailto:ondrej.linek@gmail.com">ondrej.linek (zavináč) gmail.com</a>. Děkuji!</p>
+  <p><strong>Džuče je věčné!</strong></p>
+</div>
+<div class="widget">
+  <h2>Archiv</h2>
+  <ul>
+    {{ range $posts.GroupByDate "2006" }}
+      <li><a href="/archiv.html#y{{ .Key }}">{{ .Key }}</a> <span class="count">({{ len .Pages }})</span></li>
+    {{ end }}
+  </ul>
+</div>
+<div class="widget">
+  <h2>Popisky</h2>
+  <div class="label-cloud">
+    {{ range first 16 site.Taxonomies.popisky.ByCount }}
+      <a class="chip" href="{{ .Page.RelPermalink }}">{{ .Page.Title }} <span class="count">{{ .Count }}</span></a>
+    {{ end }}
+  </div>
+</div>
+<div class="widget">
+  <h2>Kam dále</h2>
+  <ul>
+    {{ range site.Data.links }}
+      <li><a href="{{ .url }}" rel="noopener">{{ .name }}</a></li>
+    {{ end }}
+  </ul>
+</div>

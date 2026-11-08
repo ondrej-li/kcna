@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="cs">
+<head>
+{{ partial "head.html" . }}
+</head>
+<body>
+<a class="skip-link" href="#main">Přeskočit na obsah</a>
+<div class="flagbar" aria-hidden="true"></div>
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="/">
+      <img src="/img/title.png" alt="Novinky z KLDR (Severní Korea)" width="800" height="150">
+    </a>
+    <p class="tagline">Převzaté zprávy agentury KCNA <span>★</span> {{ site.Params.tagline }}</p>
+    <nav class="site-nav" aria-label="Hlavní navigace">
+      <a href="/">Zprávy</a>
+      <a href="/archiv.html">Archiv</a>
+      <a href="/popisky.html">Popisky</a>
+      <a href="/hledat.html">Hledat</a>
+      <a href="/index.xml">RSS</a>
+    </nav>
+  </div>
+</header>
+<main id="main" class="wrap layout">
+  <div class="content">
+    {{ block "main" . }}{{ end }}
+  </div>
+  <aside class="sidebar">
+    {{ partial "sidebar.html" . }}
+  </aside>
+</main>
+<footer class="site-footer">
+  <div class="wrap">
+    <strong>{{ site.Params.tagline }}</strong>
+    <p>{{ site.Title }} · archiv {{ partialCached "year-range.html" . "range" }} · Převzaté zprávy agentury KCNA, neupravené a necenzurované.</p>
+    <nav aria-label="Patička">
+      <a href="/">Zprávy</a>
+      <a href="/archiv.html">Archiv</a>
+      <a href="/popisky.html">Popisky</a>
+      <a href="/hledat.html">Hledat</a>
+      <a href="/index.xml">RSS</a>
+    </nav>
+  </div>
+  <div class="flagbar" aria-hidden="true"></div>
+</footer>
+</body>
+</html>

@@ -1,0 +1,11 @@
+<article class="post-card">
+  <h2 class="post-card__title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+  <p class="meta">
+    <span class="star">★</span>
+    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ partial "date.html" .Date }}</time>
+    {{- with .Params.popisky }}
+    <span class="meta__labels">{{ delimit . ", " }}</span>
+    {{- end }}
+  </p>
+  {{ with .Description }}<p class="post-card__excerpt">{{ . }}</p>{{ end }}
+</article>

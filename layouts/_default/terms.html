@@ -1,0 +1,8 @@
+{{ define "main" }}
+<h1 class="list-heading">Popisky · {{ len site.Taxonomies.popisky }} témat</h1>
+<div class="label-cloud">
+  {{ range site.Taxonomies.popisky.ByCount }}
+    <a class="chip" href="{{ .Page.RelPermalink }}">{{ .Page.Title }} <span class="count">{{ .Count }}</span></a>
+  {{ end }}
+</div>
+{{ end }}

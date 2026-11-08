@@ -1,0 +1,29 @@
+baseURL = "https://kcna.ondralinek.cz/"
+title = "Novinky z KLDR"
+languageCode = "cs-CZ"
+defaultContentLanguage = "cs"
+enableRobotsTXT = true
+uglyURLs = true
+removePathAccents = true
+enableEmoji = false
+
+[pagination]
+  pagerSize = 10
+
+[permalinks]
+  zpravy = "/:year/:month/:slug"
+
+[taxonomies]
+  popisek = "popisky"
+
+[params]
+  description = "Převzaté zprávy agentury KCNA. Neupravené, necenzurované. Džuče je věčné!"
+  tagline = "Džuče je věčné!"
+  author = "Ondřej Linek"
+  contact = "ondrej.linek (zavináč) gmail.com"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[outputs]
+  home = ["html", "rss", "json"]

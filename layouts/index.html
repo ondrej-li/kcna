@@ -1,0 +1,21 @@
+{{ define "main" }}
+{{ $posts := sort (where site.RegularPages "Section" "zpravy") "Date" "desc" }}
+{{ $paginator := .Paginate $posts }}
+
+<h1 class="list-heading">Nejnovější zprávy</h1>
+
+{{ range $paginator.Pages }}
+  {{ partial "post-card.html" . }}
+{{ end }}
+
+<nav class="pagination" aria-label="Stránkování">
+  {{ with $paginator.Prev }}
+    <a href="{{ .URL }}" rel="prev">← Novější zprávy</a>
+  {{ else }}
+    <span></span>
+  {{ end }}
+  {{ with $paginator.Next }}
+    <a href="{{ .URL }}" rel="next">Starší zprávy →</a>
+  {{ end }}
+</nav>
+{{ end }}
