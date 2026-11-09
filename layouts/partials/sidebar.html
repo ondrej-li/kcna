@@ -30,7 +30,8 @@
   <h2>Kam dále</h2>
   <ul>
     {{ range site.Data.links }}
-      <li><a href="{{ .url }}" rel="noopener">{{ .name }}</a></li>
-    {{ end }}
+      {{- $external := hasPrefix .url "http" }}
+      <li><a href="{{ .url }}"{{ if $external }} rel="noopener"{{ end }}>{{ .name }}</a></li>
+    {{- end }}
   </ul>
 </div>
