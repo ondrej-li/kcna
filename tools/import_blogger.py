@@ -207,7 +207,10 @@ def rewrite_content(html: str, slug: str, mirror: ImageMirror) -> str:
             )
         tag = SRC_RE.sub(f'src="{rel}"', tag, count=1)
         if "loading=" not in tag:
-            tag = tag[:-1].rstrip() + ' loading="lazy" decoding="async">'
+            core = tag[:-1].rstrip()  # drop the closing ">"
+            if core.endswith("/"):  # XHTML style "<img ... />"
+                core = core[:-1].rstrip()
+            tag = core + ' loading="lazy" decoding="async">'
         return tag
 
     html = IMAGE_TAG_RE.sub(fix_img, html)
