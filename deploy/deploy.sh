@@ -71,7 +71,13 @@ if [ "${SKIP_SYSTEMD:-0}" != "1" ]; then
     # re-runs the system generators, and systemd-ssh-generator logs two
     # harmless AF_VSOCK errors each time on a box without a vsock device.
     if [ "$changed" = 1 ]; then sudo systemctl daemon-reload; fi
-    sudo systemctl enable --now kcna-autodeploy.timer >/dev/null
+    # `systemctl enable` triggers a reload of its own, even when the unit is
+    # already enabled and running, so only touch it when it is not.
+    if ! systemctl is-enabled --quiet kcna-autodeploy.timer; then
+        sudo systemctl enable --now kcna-autodeploy.timer >/dev/null
+    elif ! systemctl is-active --quiet kcna-autodeploy.timer; then
+        sudo systemctl start kcna-autodeploy.timer
+    fi
 fi
 
 echo "==> done: $(find "$WEB_ROOT" -name '*.html' | wc -l) pages published"
