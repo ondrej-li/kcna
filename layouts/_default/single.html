@@ -35,6 +35,10 @@
 
   {{ $key := .RelPermalink | strings.TrimPrefix "/" | strings.TrimSuffix ".html" | replaceRE "/" "__" }}
   {{ $comments := index site.Data.comments $key }}
+  {{ if strings.Contains .Content "video-embed" }}
+  <script src="/js/video.js" defer></script>
+  {{ end }}
+
   {{ with $comments }}
   <section class="comments" id="komentare">
     <h2>Komentáře ({{ len . }})</h2>

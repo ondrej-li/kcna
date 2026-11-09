@@ -122,6 +122,19 @@ def yaml_str(value: str) -> str:
 IMAGE_TAG_RE = re.compile(r"<img\b[^>]*>", re.IGNORECASE)
 SRC_RE = re.compile(r"""\bsrc\s*=\s*(["'])(.*?)\1""", re.IGNORECASE)
 HREF_RE = re.compile(r"""\bhref\s*=\s*(["'])(.*?)\1""", re.IGNORECASE)
+IMAGE_URL_RE = re.compile(
+    r"^https?://[^\"'\s]+\.(?:jpe?g|png|gif|webp|bmp|svg)(?:\?[^\"'\s]*)?$", re.IGNORECASE
+)
+BLOGGER_IMAGE_HOST_RE = re.compile(
+    r"^https?://(?:[a-z0-9-]+\.)*(?:bp\.blogspot\.com|blogger\.googleusercontent\.com)/",
+    re.IGNORECASE,
+)
+ANCHOR_BLOCK_RE = re.compile(r"<a\b([^>]*)>(.*?)</a>", re.IGNORECASE | re.DOTALL)
+FLASH_EMBED_RE = re.compile(r"<embed\b[^>]*>", re.IGNORECASE)
+YOUTUBE_IFRAME_RE = re.compile(
+    r"""<iframe\b[^>]*\bsrc=["'](?:https?:)?//(?:www\.)?youtube(?:-nocookie)?\.com/embed/([A-Za-z0-9_-]{6,})[^"']*["'][^>]*>\s*</iframe>""",
+    re.IGNORECASE,
+)
 POST_LINK_RE = re.compile(
     r"""https?://(?:www\.)?(?:kcna\.ondralinek\.cz|kcna\.linek\.co\.uk|kcna\.cz|kcna-news\.blogspot\.com)/(\d{4}/\d{2}/[^"'\s?#]+\.html)""",
     re.IGNORECASE,
@@ -156,6 +169,25 @@ class ImageMirror:
         if self.dead_file.exists():
             self.failed.update(self.dead_file.read_text(encoding="utf-8").split())
 
+    def youtube_poster(self, video_id: str) -> str | None:
+        rel = f"/img/video/{video_id}.jpg"
+        dest = ROOT / "static" / rel.lstrip("/")
+        if dest.exists() and not self.refresh:
+            return rel
+        for name in ("maxresdefault", "hqdefault"):
+            url = f"https://i.ytimg.com/vi/{video_id}/{name}.jpg"
+            cache_file = CACHE / "images" / hashlib.sha1(url.encode()).hexdigest()
+            try:
+                data = fetch(url, cache_file, self.refresh, timeout=10, retries=1)
+            except RuntimeError:
+                continue
+            dest.parent.mkdir(parents=True, exist_ok=True)
+            dest.write_bytes(data)
+            self.downloaded += 1
+            return rel
+        self.failed.add(f"https://i.ytimg.com/vi/{video_id}")
+        return None
+
     def lookup(self, url: str, slug: str, index: int) -> str | None:
         url = url.strip()
         if url.startswith("//"):
@@ -188,17 +220,25 @@ class ImageMirror:
         return rel
 
 
+def is_image_url(url: str) -> bool:
+    url = url.strip()
+    return bool(IMAGE_URL_RE.match(url) or BLOGGER_IMAGE_HOST_RE.match(url))
+
+
 def rewrite_content(html: str, slug: str, mirror: ImageMirror) -> str:
     counter = {"n": 0}
+
+    def next_index() -> int:
+        counter["n"] += 1
+        return counter["n"]
 
     def fix_img(match: re.Match[str]) -> str:
         tag = match.group(0)
         src_match = SRC_RE.search(tag)
         if not src_match:
             return tag
-        counter["n"] += 1
         original = src_match.group(2)
-        rel = mirror.lookup(original, slug, counter["n"])
+        rel = mirror.lookup(original, slug, next_index())
         if not rel:
             return (
                 '<img src="/img/missing.svg" class="img-missing" '
@@ -215,33 +255,58 @@ def rewrite_content(html: str, slug: str, mirror: ImageMirror) -> str:
 
     html = IMAGE_TAG_RE.sub(fix_img, html)
 
-    def fix_a(match: re.Match[str]) -> str:
-        tag = match.group(0)
-        href_match = HREF_RE.search(tag)
+    def fix_anchor(match: re.Match[str]) -> str:
+        """Localise "click to enlarge" links that point at an image file."""
+        attrs, inner = match.group(1), match.group(2)
+        href_match = HREF_RE.search(attrs)
         if not href_match:
-            return tag
+            return match.group(0)
         href = href_match.group(2)
-        rel = None
-        if href in mirror.by_url:
-            rel = mirror.by_url[href]
-        elif "<img" in tag.lower():
-            counter["n"] += 1
-            rel = mirror.lookup(href, slug, counter["n"])
-        if rel:
-            tag = HREF_RE.sub(f'href="{rel}"', tag, count=1)
-        return tag
+        if not is_image_url(href):
+            return match.group(0)
 
-    html = re.sub(r"<a\b[^>]*>", fix_a, html, flags=re.IGNORECASE)
+        rel = mirror.lookup(href, slug, next_index())
+        if rel:
+            return f"<a{HREF_RE.sub(f'href="{rel}"', attrs, count=1)}>{inner}</a>"
+
+        # The original is gone: fall back to the local thumbnail, and if even
+        # that is a placeholder, drop the link so nothing points at a dead host.
+        img_src = SRC_RE.search(inner)
+        if img_src and img_src.group(2).startswith("/img/") and "img-missing" not in inner:
+            return f"<a{HREF_RE.sub(f'href="{img_src.group(2)}"', attrs, count=1)}>{inner}</a>"
+        return inner
+
+    html = ANCHOR_BLOCK_RE.sub(fix_anchor, html)
+
+    def fix_youtube(match: re.Match[str]) -> str:
+        """Replace the embed with a local poster that loads YouTube on click."""
+        video_id = match.group(1)
+        poster = mirror.youtube_poster(video_id)
+        if not poster:
+            # The video is gone from YouTube; leave a note instead of a dead embed.
+            return '<p class="media-missing">Původní video už není na YouTube dostupné.</p>'
+
+        return (
+            '<figure class="video-embed">'
+            f'<a class="video-embed__link" href="https://www.youtube-nocookie.com/embed/{video_id}" data-video="{video_id}">'
+            f'<img src="{poster}" alt="Náhled videa" loading="lazy" decoding="async">'
+            '<span class="video-embed__play" aria-hidden="true">▶</span>'
+            '<span class="video-embed__label">Přehrát video</span>'
+            "</a></figure>"
+        )
+
+    html = YOUTUBE_IFRAME_RE.sub(fix_youtube, html)
+
+    def fix_flash(match: re.Match[str]) -> str:
+        tag = match.group(0)
+        if "flash" not in tag.lower() and "kvplayer" not in tag.lower():
+            return tag
+        return '<p class="media-missing">Původní flashové video už není dostupné.</p>'
+
+    html = FLASH_EMBED_RE.sub(fix_flash, html)
+
     html = POST_LINK_RE.sub(lambda m: "/" + m.group(1), html)
     html = re.sub(r"""<a\s+name=["']more["']\s*></a>""", "", html, flags=re.IGNORECASE)
-    # Blogger embedded http:// YouTube iframes; upgrade them so they are not
-    # blocked as mixed content once the site is served over https.
-    html = re.sub(
-        r"""(<iframe[^>]*\bsrc=["'])(?:http:)?//(?:www\.)?youtube(?:-nocookie)?\.com/""",
-        r"\1https://www.youtube-nocookie.com/",
-        html,
-        flags=re.IGNORECASE,
-    )
     html = re.sub(r"\s+<(br|/p|/div)", lambda m: "<" + m.group(1), html)
     return html.strip()
 
