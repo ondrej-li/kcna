@@ -32,6 +32,10 @@ hugo --minify
 # výstup v public/
 ```
 
+Stejný build pouští i CI na každý push (`.github/workflows/ci.yml`, Hugo 0.146.0),
+takže Huga lokálně potřebujete jen na náhled — k publikování změny jeho instalace
+třeba není.
+
 ## Struktura
 
 ```
