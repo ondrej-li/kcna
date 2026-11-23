@@ -31,6 +31,12 @@ hugo server                            # preview on :1313
 CI (`.github/workflows/ci.yml`, `ubuntu-latest`) builds with the pinned Hugo and
 compiles `tools/` with `python3 -m compileall`.
 
+## Workflow
+
+This is a hobby site: **commit directly to `main`**. No feature branch and no
+pull request are needed for content or routine site changes; every push to
+`main` is published by the autodeploy timer within ~5 minutes.
+
 ## Adding a post
 
 A new file in `content/zpravy/RRRR/MM/slug.html`, front matter copied from a
