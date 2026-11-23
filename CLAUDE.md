@@ -44,6 +44,25 @@ neighbouring post (`title`, `slug`, `url`, `date`, optional `lastmod`,
 `description`), then push to `main`. That is the whole workflow — see
 [`docs/AUTHORING.md`](docs/AUTHORING.md).
 
+## Translating a KCNA dispatch
+
+A pasted KCNA text is translated into Czech, not copied. The detailed workflow
+lives in the [`kcna-article`](.claude/skills/kcna-article/SKILL.md) skill; the
+house rules are:
+
+- Translate the whole dispatch faithfully, in the agency's formal register;
+  add or omit nothing. Keep the archive's spellings (Pjongjang, Kim Čong Un,
+  KSP, KLDR, Ústřední lidové shromáždění, …).
+- **Bold every mention of Kim Čong Un** in the body (`<b>Kim Čong Un</b>`) —
+  KCNA's own typographic tradition.
+- Finish the body with `<hr />` and `<p>Džuče je věčné!</p>`.
+- Use the archive front matter (`title`, `slug`, `url`, `date`, `description`,
+  `popisky`) and file under `content/zpravy/RRRR/MM/`; the URL is
+  `/RRRR/MM/<slug>.html`.
+- Download images into `static/img/RRRR/MM/` and credit KCNA; never hot-link.
+- Check the front matter, HTML and `git diff --check`, commit directly to
+  `main`, push, and confirm the CI build. The autodeploy timer publishes it.
+
 ## Deploy
 
 `kcna-autodeploy.timer` on `deploy@ondralinek.cz` polls `main` every five minutes,
