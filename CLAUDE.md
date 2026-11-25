@@ -78,3 +78,43 @@ runs Hugo and rsyncs into `/var/www/kcna`. There is no manual step and no stagin
 - `data/comments/` is an archive of Blogger comments. Read it, do not edit it.
 - The import tool is best-effort and cached; if it fails, say so instead of
   hand-editing a thousand files.
+
+## Before this site goes live
+
+This repository is served publicly at https://kcna.ondralinek.cz. A change that adds or alters a
+page, a form, a script, a header or a vhost passes the launch gate before it
+ships:
+
+```sh
+web-launch-check https://kcna.ondralinek.cz
+```
+
+- `FAIL` blocks the publish; `WARN` is a decision to state in the reply, not
+  something to leave unmentioned.
+- The `web-launch-checklist` skill has the 25 items the checker cannot judge:
+  privacy and terms content, colour contrast, real-device speed, spam
+  protection, analytics and error monitoring, one clear call to action, and the
+  signup/login/reset flows.
+- Run it again after publishing: it checks the live vhost, headers and
+  certificate, not the working tree.
+- A preview vhost passes the same gate before DNS moves.
+
+## Deploying this site
+
+https://kcna.ondralinek.cz is published by the **deploy** account from this repository's
+`main` branch — the `site-deploy` timer, every five minutes. Merge is
+deploy: there is no publish command, and `sudo vps-site publish` refuses this
+web root (one writer per root, and it is not this account).
+
+Verify after merging, and give it up to ten minutes:
+
+```sh
+site-status --site kcna
+curl -fsS https://kcna.ondralinek.cz/deployed.json           # {"commit": "...", "deployed_at": "..."}
+git -C ~/repos/kcna rev-parse origin/main
+```
+
+The three commits must match. If it has not moved after two timer cycles, read
+`journalctl -u site-deploy -n 50`, report the commit that should be live and the
+one that is, and do not rsync into `/var/www` or edit a live file to compensate.
+The `static-site-deploy` skill has the full procedure.
